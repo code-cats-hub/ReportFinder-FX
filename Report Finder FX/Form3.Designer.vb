@@ -390,6 +390,7 @@ Partial Class Form3
         BT_GPL.Name = "BT_GPL"
         BT_GPL.Size = New Size(84, 34)
         BT_GPL.TabIndex = 169
+        BT_GPL.TabStop = False
         BT_GPL.UseVisualStyleBackColor = True
         ' 
         ' Label20
@@ -440,7 +441,7 @@ Partial Class Form3
         Controls.Add(PictureBox16)
         Controls.Add(PictureBox3)
         Controls.Add(PictureBox5)
-        FormBorderStyle = FormBorderStyle.None
+        FormBorderStyle = FormBorderStyle.FixedToolWindow
         Icon = CType(resources.GetObject("$this.Icon"), Icon)
         MaximizeBox = False
         MinimizeBox = False

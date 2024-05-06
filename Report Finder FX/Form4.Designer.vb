@@ -152,6 +152,7 @@ Partial Class Form4
         SB_TABLE1.Name = "SB_TABLE1"
         SB_TABLE1.Size = New Size(670, 263)
         SB_TABLE1.TabIndex = 1
+        SB_TABLE1.TabStop = False
         ' 
         ' PictureBox1
         ' 
@@ -283,6 +284,7 @@ Partial Class Form4
         SB_TABLE3.Name = "SB_TABLE3"
         SB_TABLE3.Size = New Size(330, 263)
         SB_TABLE3.TabIndex = 148
+        SB_TABLE3.TabStop = False
         ' 
         ' SB_TABLE2
         ' 
@@ -297,6 +299,7 @@ Partial Class Form4
         SB_TABLE2.Name = "SB_TABLE2"
         SB_TABLE2.Size = New Size(334, 263)
         SB_TABLE2.TabIndex = 147
+        SB_TABLE2.TabStop = False
         ' 
         ' ST_TABLE2
         ' 
@@ -310,6 +313,7 @@ Partial Class Form4
         ST_TABLE2.Name = "ST_TABLE2"
         ST_TABLE2.Size = New Size(667, 264)
         ST_TABLE2.TabIndex = 146
+        ST_TABLE2.TabStop = False
         ' 
         ' SB_BG
         ' 
@@ -332,6 +336,7 @@ Partial Class Form4
         ST_TABLE1.Name = "ST_TABLE1"
         ST_TABLE1.Size = New Size(670, 264)
         ST_TABLE1.TabIndex = 0
+        ST_TABLE1.TabStop = False
         ' 
         ' ST_BG
         ' 
@@ -410,7 +415,7 @@ Partial Class Form4
         BT_BACK.Location = New Point(-10, 714)
         BT_BACK.Name = "BT_BACK"
         BT_BACK.Size = New Size(802, 34)
-        BT_BACK.TabIndex = 134
+        BT_BACK.TabIndex = 1
         BT_BACK.Text = "<< EXIT THIS SCREEN"
         BT_BACK.UseVisualStyleBackColor = False
         ' 
@@ -428,7 +433,7 @@ Partial Class Form4
         BT_EXIT.Location = New Point(793, 714)
         BT_EXIT.Name = "BT_EXIT"
         BT_EXIT.Size = New Size(807, 34)
-        BT_EXIT.TabIndex = 133
+        BT_EXIT.TabIndex = 2
         BT_EXIT.Text = "EXIT THIS APP >>"
         BT_EXIT.UseVisualStyleBackColor = False
         ' 
@@ -513,10 +518,11 @@ Partial Class Form4
         BT_INFO.FlatStyle = FlatStyle.Flat
         BT_INFO.Font = New Font("Bahnschrift SemiCondensed", 9F, FontStyle.Bold)
         BT_INFO.ForeColor = Color.WhiteSmoke
-        BT_INFO.Location = New Point(1411, 244)
+        BT_INFO.Location = New Point(1411, 245)
         BT_INFO.Name = "BT_INFO"
-        BT_INFO.Size = New Size(145, 29)
+        BT_INFO.Size = New Size(146, 30)
         BT_INFO.TabIndex = 145
+        BT_INFO.TabStop = False
         BT_INFO.Text = "INFO"
         BT_INFO.UseVisualStyleBackColor = False
         ' 
@@ -531,10 +537,11 @@ Partial Class Form4
         BT_PREVIEW.FlatStyle = FlatStyle.Flat
         BT_PREVIEW.Font = New Font("Bahnschrift SemiCondensed", 9F, FontStyle.Bold)
         BT_PREVIEW.ForeColor = Color.WhiteSmoke
-        BT_PREVIEW.Location = New Point(1413, 166)
+        BT_PREVIEW.Location = New Point(1410, 166)
         BT_PREVIEW.Name = "BT_PREVIEW"
-        BT_PREVIEW.Size = New Size(145, 29)
+        BT_PREVIEW.Size = New Size(146, 30)
         BT_PREVIEW.TabIndex = 146
+        BT_PREVIEW.TabStop = False
         BT_PREVIEW.Text = "PREVIEW TABLES"
         BT_PREVIEW.UseVisualStyleBackColor = False
         ' 
@@ -549,17 +556,18 @@ Partial Class Form4
         BT_RELOAD.FlatStyle = FlatStyle.Flat
         BT_RELOAD.Font = New Font("Bahnschrift SemiCondensed", 9F, FontStyle.Bold)
         BT_RELOAD.ForeColor = Color.WhiteSmoke
-        BT_RELOAD.Location = New Point(1412, 127)
+        BT_RELOAD.Location = New Point(1410, 127)
         BT_RELOAD.Name = "BT_RELOAD"
-        BT_RELOAD.Size = New Size(145, 29)
+        BT_RELOAD.Size = New Size(146, 30)
         BT_RELOAD.TabIndex = 147
+        BT_RELOAD.TabStop = False
         BT_RELOAD.Text = "RELOAD DATA"
         BT_RELOAD.UseVisualStyleBackColor = False
         ' 
         ' PictureBox15
         ' 
         PictureBox15.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
-        PictureBox15.Location = New Point(1413, 247)
+        PictureBox15.Location = New Point(1412, 247)
         PictureBox15.Name = "PictureBox15"
         PictureBox15.Size = New Size(145, 29)
         PictureBox15.TabIndex = 148
@@ -568,18 +576,18 @@ Partial Class Form4
         ' PictureBox16
         ' 
         PictureBox16.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
-        PictureBox16.Location = New Point(1415, 169)
+        PictureBox16.Location = New Point(1413, 170)
         PictureBox16.Name = "PictureBox16"
-        PictureBox16.Size = New Size(145, 29)
+        PictureBox16.Size = New Size(146, 29)
         PictureBox16.TabIndex = 149
         PictureBox16.TabStop = False
         ' 
         ' PictureBox17
         ' 
         PictureBox17.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
-        PictureBox17.Location = New Point(1414, 115)
+        PictureBox17.Location = New Point(1413, 116)
         PictureBox17.Name = "PictureBox17"
-        PictureBox17.Size = New Size(145, 44)
+        PictureBox17.Size = New Size(146, 44)
         PictureBox17.TabIndex = 150
         PictureBox17.TabStop = False
         ' 
@@ -596,10 +604,11 @@ Partial Class Form4
         BT_LINKS.FlatStyle = FlatStyle.Flat
         BT_LINKS.Font = New Font("Bahnschrift SemiCondensed", 9F, FontStyle.Bold)
         BT_LINKS.ForeColor = Color.WhiteSmoke
-        BT_LINKS.Location = New Point(1411, 283)
+        BT_LINKS.Location = New Point(1410, 283)
         BT_LINKS.Name = "BT_LINKS"
-        BT_LINKS.Size = New Size(145, 29)
+        BT_LINKS.Size = New Size(146, 30)
         BT_LINKS.TabIndex = 152
+        BT_LINKS.TabStop = False
         BT_LINKS.Text = "LINKS PANEL"
         BT_LINKS.TextAlign = ContentAlignment.MiddleCenter
         BT_LINKS.UseVisualStyleBackColor = False
@@ -607,7 +616,7 @@ Partial Class Form4
         ' PictureBox13
         ' 
         PictureBox13.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
-        PictureBox13.Location = New Point(1413, 286)
+        PictureBox13.Location = New Point(1414, 287)
         PictureBox13.Name = "PictureBox13"
         PictureBox13.Size = New Size(145, 29)
         PictureBox13.TabIndex = 153
@@ -660,19 +669,20 @@ Partial Class Form4
         BT_SOURCE.FlatStyle = FlatStyle.Flat
         BT_SOURCE.Font = New Font("Bahnschrift SemiCondensed", 9F, FontStyle.Bold)
         BT_SOURCE.ForeColor = Color.WhiteSmoke
-        BT_SOURCE.Location = New Point(1411, 75)
+        BT_SOURCE.Location = New Point(1411, 76)
         BT_SOURCE.Name = "BT_SOURCE"
-        BT_SOURCE.Size = New Size(145, 29)
+        BT_SOURCE.Size = New Size(146, 30)
         BT_SOURCE.TabIndex = 158
+        BT_SOURCE.TabStop = False
         BT_SOURCE.Text = "SHOW DATA SOURCE"
         BT_SOURCE.UseVisualStyleBackColor = False
         ' 
         ' PictureBox23
         ' 
         PictureBox23.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
-        PictureBox23.Location = New Point(1413, 78)
+        PictureBox23.Location = New Point(1412, 78)
         PictureBox23.Name = "PictureBox23"
-        PictureBox23.Size = New Size(145, 29)
+        PictureBox23.Size = New Size(146, 29)
         PictureBox23.TabIndex = 159
         PictureBox23.TabStop = False
         ' 
@@ -680,18 +690,18 @@ Partial Class Form4
         ' 
         LOAD_BAR3.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         LOAD_BAR3.ForeColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        LOAD_BAR3.Location = New Point(1414, 117)
+        LOAD_BAR3.Location = New Point(1413, 117)
         LOAD_BAR3.Name = "LOAD_BAR3"
-        LOAD_BAR3.Size = New Size(141, 10)
+        LOAD_BAR3.Size = New Size(140, 10)
         LOAD_BAR3.Step = 20
         LOAD_BAR3.TabIndex = 164
         ' 
         ' PictureBox28
         ' 
         PictureBox28.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        PictureBox28.Location = New Point(1411, 113)
+        PictureBox28.Location = New Point(1410, 113)
         PictureBox28.Name = "PictureBox28"
-        PictureBox28.Size = New Size(147, 18)
+        PictureBox28.Size = New Size(146, 18)
         PictureBox28.TabIndex = 165
         PictureBox28.TabStop = False
         ' 
@@ -722,7 +732,7 @@ Partial Class Form4
         ' LINK_PANEL_PIPE
         ' 
         LINK_PANEL_PIPE.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        LINK_PANEL_PIPE.Location = New Point(1543, 283)
+        LINK_PANEL_PIPE.Location = New Point(1544, 283)
         LINK_PANEL_PIPE.Name = "LINK_PANEL_PIPE"
         LINK_PANEL_PIPE.Size = New Size(12, 119)
         LINK_PANEL_PIPE.TabIndex = 168
@@ -746,9 +756,9 @@ Partial Class Form4
         LINK_PANEL.Controls.Add(BT_LINK_1)
         LINK_PANEL.Controls.Add(BT_LINK_2)
         LINK_PANEL.Controls.Add(BT_FOX_ON)
-        LINK_PANEL.Location = New Point(1408, 392)
+        LINK_PANEL.Location = New Point(1410, 392)
         LINK_PANEL.Name = "LINK_PANEL"
-        LINK_PANEL.Size = New Size(147, 231)
+        LINK_PANEL.Size = New Size(146, 231)
         LINK_PANEL.TabIndex = 169
         LINK_PANEL.Visible = False
         ' 
@@ -807,6 +817,7 @@ Partial Class Form4
         BT_FOX_OFF.Name = "BT_FOX_OFF"
         BT_FOX_OFF.Size = New Size(55, 54)
         BT_FOX_OFF.TabIndex = 183
+        BT_FOX_OFF.TabStop = False
         BT_FOX_OFF.UseVisualStyleBackColor = True
         ' 
         ' PictureBox12
@@ -881,13 +892,14 @@ Partial Class Form4
         BT_LINK_1.BackgroundImageLayout = ImageLayout.Center
         BT_LINK_1.Cursor = Cursors.Hand
         BT_LINK_1.FlatAppearance.BorderSize = 0
-        BT_LINK_1.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(55), CByte(90), CByte(140))
-        BT_LINK_1.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(55), CByte(90), CByte(140))
+        BT_LINK_1.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        BT_LINK_1.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_LINK_1.FlatStyle = FlatStyle.Flat
         BT_LINK_1.Location = New Point(8, 30)
         BT_LINK_1.Name = "BT_LINK_1"
         BT_LINK_1.Size = New Size(55, 53)
         BT_LINK_1.TabIndex = 2
+        BT_LINK_1.TabStop = False
         BT_LINK_1.UseVisualStyleBackColor = True
         ' 
         ' BT_LINK_2
@@ -896,13 +908,14 @@ Partial Class Form4
         BT_LINK_2.BackgroundImageLayout = ImageLayout.Center
         BT_LINK_2.Cursor = Cursors.Hand
         BT_LINK_2.FlatAppearance.BorderSize = 0
-        BT_LINK_2.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(55), CByte(90), CByte(140))
+        BT_LINK_2.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_LINK_2.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(55), CByte(90), CByte(140))
         BT_LINK_2.FlatStyle = FlatStyle.Flat
         BT_LINK_2.Location = New Point(8, 84)
         BT_LINK_2.Name = "BT_LINK_2"
         BT_LINK_2.Size = New Size(55, 53)
         BT_LINK_2.TabIndex = 1
+        BT_LINK_2.TabStop = False
         BT_LINK_2.UseVisualStyleBackColor = True
         ' 
         ' BT_FOX_ON
@@ -918,12 +931,13 @@ Partial Class Form4
         BT_FOX_ON.Name = "BT_FOX_ON"
         BT_FOX_ON.Size = New Size(55, 54)
         BT_FOX_ON.TabIndex = 0
+        BT_FOX_ON.TabStop = False
         BT_FOX_ON.UseVisualStyleBackColor = True
         ' 
         ' LINK_PANEL_SHADOW1
         ' 
         LINK_PANEL_SHADOW1.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
-        LINK_PANEL_SHADOW1.Location = New Point(1548, 308)
+        LINK_PANEL_SHADOW1.Location = New Point(1549, 309)
         LINK_PANEL_SHADOW1.Name = "LINK_PANEL_SHADOW1"
         LINK_PANEL_SHADOW1.Size = New Size(10, 318)
         LINK_PANEL_SHADOW1.TabIndex = 170
@@ -935,7 +949,7 @@ Partial Class Form4
         LINK_PANEL_SHADOW2.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         LINK_PANEL_SHADOW2.Location = New Point(1413, 577)
         LINK_PANEL_SHADOW2.Name = "LINK_PANEL_SHADOW2"
-        LINK_PANEL_SHADOW2.Size = New Size(145, 50)
+        LINK_PANEL_SHADOW2.Size = New Size(146, 50)
         LINK_PANEL_SHADOW2.TabIndex = 171
         LINK_PANEL_SHADOW2.TabStop = False
         LINK_PANEL_SHADOW2.Visible = False
@@ -955,13 +969,14 @@ Partial Class Form4
         BT_CROMEFIND.Name = "BT_CROMEFIND"
         BT_CROMEFIND.Size = New Size(145, 29)
         BT_CROMEFIND.TabIndex = 172
+        BT_CROMEFIND.TabStop = False
         BT_CROMEFIND.Text = "FIND CHROME"
         BT_CROMEFIND.UseVisualStyleBackColor = False
         ' 
         ' PictureBox9
         ' 
         PictureBox9.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
-        PictureBox9.Location = New Point(1413, 208)
+        PictureBox9.Location = New Point(1413, 209)
         PictureBox9.Name = "PictureBox9"
         PictureBox9.Size = New Size(145, 29)
         PictureBox9.TabIndex = 173
@@ -976,10 +991,11 @@ Partial Class Form4
         LOCK_CHROMEFIND.FlatStyle = FlatStyle.Flat
         LOCK_CHROMEFIND.Font = New Font("Bahnschrift SemiCondensed", 9F, FontStyle.Bold)
         LOCK_CHROMEFIND.ForeColor = Color.Silver
-        LOCK_CHROMEFIND.Location = New Point(1411, 205)
+        LOCK_CHROMEFIND.Location = New Point(1410, 205)
         LOCK_CHROMEFIND.Name = "LOCK_CHROMEFIND"
-        LOCK_CHROMEFIND.Size = New Size(145, 29)
+        LOCK_CHROMEFIND.Size = New Size(146, 29)
         LOCK_CHROMEFIND.TabIndex = 174
+        LOCK_CHROMEFIND.TabStop = False
         LOCK_CHROMEFIND.Text = "[ LOCKED ]"
         LOCK_CHROMEFIND.UseVisualStyleBackColor = False
         LOCK_CHROMEFIND.Visible = False

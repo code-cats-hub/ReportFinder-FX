@@ -176,7 +176,8 @@ Partial Class Form1
         BT_SEARCH.Location = New Point(633, 714)
         BT_SEARCH.Name = "BT_SEARCH"
         BT_SEARCH.Size = New Size(647, 34)
-        BT_SEARCH.TabIndex = 35
+        BT_SEARCH.TabIndex = 109
+        BT_SEARCH.TabStop = False
         BT_SEARCH.Text = "SEARCH >>"
         BT_SEARCH.UseVisualStyleBackColor = False
         ' 
@@ -247,7 +248,8 @@ Partial Class Form1
         BT_FG01.Location = New Point(227, 176)
         BT_FG01.Name = "BT_FG01"
         BT_FG01.Size = New Size(160, 30)
-        BT_FG01.TabIndex = 44
+        BT_FG01.TabIndex = 1
+        BT_FG01.TabStop = False
         BT_FG01.Text = "FIELD 1"
         BT_FG01.TextAlign = ContentAlignment.MiddleCenter
         BT_FG01.UseVisualStyleBackColor = False
@@ -267,7 +269,8 @@ Partial Class Form1
         BT_FG06.Location = New Point(227, 207)
         BT_FG06.Name = "BT_FG06"
         BT_FG06.Size = New Size(160, 30)
-        BT_FG06.TabIndex = 45
+        BT_FG06.TabIndex = 6
+        BT_FG06.TabStop = False
         BT_FG06.Text = "FIELD 6"
         BT_FG06.TextAlign = ContentAlignment.MiddleCenter
         BT_FG06.UseVisualStyleBackColor = False
@@ -287,7 +290,8 @@ Partial Class Form1
         BT_FG11.Location = New Point(227, 238)
         BT_FG11.Name = "BT_FG11"
         BT_FG11.Size = New Size(160, 30)
-        BT_FG11.TabIndex = 46
+        BT_FG11.TabIndex = 11
+        BT_FG11.TabStop = False
         BT_FG11.Text = "FIELD 11"
         BT_FG11.TextAlign = ContentAlignment.MiddleCenter
         BT_FG11.UseVisualStyleBackColor = False
@@ -307,7 +311,8 @@ Partial Class Form1
         BT_FG16.Location = New Point(227, 269)
         BT_FG16.Name = "BT_FG16"
         BT_FG16.Size = New Size(160, 30)
-        BT_FG16.TabIndex = 47
+        BT_FG16.TabIndex = 16
+        BT_FG16.TabStop = False
         BT_FG16.Text = "FIELD 16"
         BT_FG16.TextAlign = ContentAlignment.MiddleCenter
         BT_FG16.UseVisualStyleBackColor = False
@@ -327,7 +332,8 @@ Partial Class Form1
         BT_FG02.Location = New Point(388, 176)
         BT_FG02.Name = "BT_FG02"
         BT_FG02.Size = New Size(160, 30)
-        BT_FG02.TabIndex = 48
+        BT_FG02.TabIndex = 2
+        BT_FG02.TabStop = False
         BT_FG02.Text = "FIELD 2"
         BT_FG02.TextAlign = ContentAlignment.MiddleCenter
         BT_FG02.UseVisualStyleBackColor = False
@@ -347,7 +353,8 @@ Partial Class Form1
         BT_FG07.Location = New Point(388, 207)
         BT_FG07.Name = "BT_FG07"
         BT_FG07.Size = New Size(160, 30)
-        BT_FG07.TabIndex = 49
+        BT_FG07.TabIndex = 7
+        BT_FG07.TabStop = False
         BT_FG07.Text = "FIELD 7"
         BT_FG07.TextAlign = ContentAlignment.MiddleCenter
         BT_FG07.UseVisualStyleBackColor = False
@@ -367,7 +374,8 @@ Partial Class Form1
         BT_FG12.Location = New Point(388, 238)
         BT_FG12.Name = "BT_FG12"
         BT_FG12.Size = New Size(160, 30)
-        BT_FG12.TabIndex = 50
+        BT_FG12.TabIndex = 12
+        BT_FG12.TabStop = False
         BT_FG12.Text = "FIELD 12"
         BT_FG12.TextAlign = ContentAlignment.MiddleCenter
         BT_FG12.UseVisualStyleBackColor = False
@@ -387,7 +395,8 @@ Partial Class Form1
         BT_FG17.Location = New Point(388, 269)
         BT_FG17.Name = "BT_FG17"
         BT_FG17.Size = New Size(160, 30)
-        BT_FG17.TabIndex = 51
+        BT_FG17.TabIndex = 17
+        BT_FG17.TabStop = False
         BT_FG17.Text = "FIELD 17"
         BT_FG17.TextAlign = ContentAlignment.MiddleCenter
         BT_FG17.UseVisualStyleBackColor = False
@@ -407,7 +416,8 @@ Partial Class Form1
         BT_FG03.Location = New Point(549, 176)
         BT_FG03.Name = "BT_FG03"
         BT_FG03.Size = New Size(160, 30)
-        BT_FG03.TabIndex = 52
+        BT_FG03.TabIndex = 3
+        BT_FG03.TabStop = False
         BT_FG03.Text = "FIELD 3"
         BT_FG03.TextAlign = ContentAlignment.MiddleCenter
         BT_FG03.UseVisualStyleBackColor = False
@@ -427,7 +437,8 @@ Partial Class Form1
         BT_FG08.Location = New Point(549, 207)
         BT_FG08.Name = "BT_FG08"
         BT_FG08.Size = New Size(160, 30)
-        BT_FG08.TabIndex = 53
+        BT_FG08.TabIndex = 8
+        BT_FG08.TabStop = False
         BT_FG08.Text = "FIELD 8"
         BT_FG08.TextAlign = ContentAlignment.MiddleCenter
         BT_FG08.UseVisualStyleBackColor = False
@@ -447,7 +458,8 @@ Partial Class Form1
         BT_FG13.Location = New Point(549, 238)
         BT_FG13.Name = "BT_FG13"
         BT_FG13.Size = New Size(160, 30)
-        BT_FG13.TabIndex = 54
+        BT_FG13.TabIndex = 13
+        BT_FG13.TabStop = False
         BT_FG13.Text = "FIELD 13"
         BT_FG13.TextAlign = ContentAlignment.MiddleCenter
         BT_FG13.UseVisualStyleBackColor = False
@@ -467,7 +479,8 @@ Partial Class Form1
         BT_FG18.Location = New Point(549, 269)
         BT_FG18.Name = "BT_FG18"
         BT_FG18.Size = New Size(160, 30)
-        BT_FG18.TabIndex = 55
+        BT_FG18.TabIndex = 18
+        BT_FG18.TabStop = False
         BT_FG18.Text = "FIELD 18"
         BT_FG18.TextAlign = ContentAlignment.MiddleCenter
         BT_FG18.UseVisualStyleBackColor = False
@@ -487,7 +500,8 @@ Partial Class Form1
         BT_FG04.Location = New Point(710, 176)
         BT_FG04.Name = "BT_FG04"
         BT_FG04.Size = New Size(160, 30)
-        BT_FG04.TabIndex = 56
+        BT_FG04.TabIndex = 4
+        BT_FG04.TabStop = False
         BT_FG04.Text = "FIELD 4"
         BT_FG04.TextAlign = ContentAlignment.MiddleCenter
         BT_FG04.UseVisualStyleBackColor = False
@@ -507,7 +521,8 @@ Partial Class Form1
         BT_FG09.Location = New Point(710, 207)
         BT_FG09.Name = "BT_FG09"
         BT_FG09.Size = New Size(160, 30)
-        BT_FG09.TabIndex = 57
+        BT_FG09.TabIndex = 9
+        BT_FG09.TabStop = False
         BT_FG09.Text = "FIELD 9"
         BT_FG09.TextAlign = ContentAlignment.MiddleCenter
         BT_FG09.UseVisualStyleBackColor = False
@@ -527,7 +542,8 @@ Partial Class Form1
         BT_FG14.Location = New Point(710, 238)
         BT_FG14.Name = "BT_FG14"
         BT_FG14.Size = New Size(160, 30)
-        BT_FG14.TabIndex = 58
+        BT_FG14.TabIndex = 14
+        BT_FG14.TabStop = False
         BT_FG14.Text = "FIELD 14"
         BT_FG14.TextAlign = ContentAlignment.MiddleCenter
         BT_FG14.UseVisualStyleBackColor = False
@@ -547,7 +563,8 @@ Partial Class Form1
         BT_FG19.Location = New Point(710, 269)
         BT_FG19.Name = "BT_FG19"
         BT_FG19.Size = New Size(160, 30)
-        BT_FG19.TabIndex = 59
+        BT_FG19.TabIndex = 19
+        BT_FG19.TabStop = False
         BT_FG19.Text = "FIELD 19"
         BT_FG19.TextAlign = ContentAlignment.MiddleCenter
         BT_FG19.UseVisualStyleBackColor = False
@@ -567,7 +584,8 @@ Partial Class Form1
         BT_FG05.Location = New Point(871, 176)
         BT_FG05.Name = "BT_FG05"
         BT_FG05.Size = New Size(160, 30)
-        BT_FG05.TabIndex = 60
+        BT_FG05.TabIndex = 5
+        BT_FG05.TabStop = False
         BT_FG05.Text = "FIELD 5"
         BT_FG05.TextAlign = ContentAlignment.MiddleCenter
         BT_FG05.UseVisualStyleBackColor = False
@@ -587,7 +605,8 @@ Partial Class Form1
         BT_FG10.Location = New Point(871, 207)
         BT_FG10.Name = "BT_FG10"
         BT_FG10.Size = New Size(160, 30)
-        BT_FG10.TabIndex = 61
+        BT_FG10.TabIndex = 10
+        BT_FG10.TabStop = False
         BT_FG10.Text = "FIELD 10"
         BT_FG10.TextAlign = ContentAlignment.MiddleCenter
         BT_FG10.UseVisualStyleBackColor = False
@@ -607,7 +626,8 @@ Partial Class Form1
         BT_FG15.Location = New Point(871, 238)
         BT_FG15.Name = "BT_FG15"
         BT_FG15.Size = New Size(160, 30)
-        BT_FG15.TabIndex = 62
+        BT_FG15.TabIndex = 15
+        BT_FG15.TabStop = False
         BT_FG15.Text = "FIELD 15"
         BT_FG15.TextAlign = ContentAlignment.MiddleCenter
         BT_FG15.UseVisualStyleBackColor = False
@@ -627,7 +647,8 @@ Partial Class Form1
         BT_FG20.Location = New Point(871, 269)
         BT_FG20.Name = "BT_FG20"
         BT_FG20.Size = New Size(160, 30)
-        BT_FG20.TabIndex = 63
+        BT_FG20.TabIndex = 20
+        BT_FG20.TabStop = False
         BT_FG20.Text = "FIELD 20"
         BT_FG20.TextAlign = ContentAlignment.MiddleCenter
         BT_FG20.UseVisualStyleBackColor = False
@@ -647,7 +668,8 @@ Partial Class Form1
         BT_SG01.Location = New Point(265, 504)
         BT_SG01.Name = "BT_SG01"
         BT_SG01.Size = New Size(180, 30)
-        BT_SG01.TabIndex = 64
+        BT_SG01.TabIndex = 28
+        BT_SG01.TabStop = False
         BT_SG01.Text = "TYPE 1"
         BT_SG01.TextAlign = ContentAlignment.MiddleCenter
         BT_SG01.UseVisualStyleBackColor = False
@@ -667,7 +689,8 @@ Partial Class Form1
         BT_SG05.Location = New Point(265, 535)
         BT_SG05.Name = "BT_SG05"
         BT_SG05.Size = New Size(180, 30)
-        BT_SG05.TabIndex = 65
+        BT_SG05.TabIndex = 32
+        BT_SG05.TabStop = False
         BT_SG05.Text = "TYPE 5"
         BT_SG05.TextAlign = ContentAlignment.MiddleCenter
         BT_SG05.UseVisualStyleBackColor = False
@@ -687,7 +710,8 @@ Partial Class Form1
         BT_SG02.Location = New Point(446, 504)
         BT_SG02.Name = "BT_SG02"
         BT_SG02.Size = New Size(180, 30)
-        BT_SG02.TabIndex = 67
+        BT_SG02.TabIndex = 29
+        BT_SG02.TabStop = False
         BT_SG02.Text = "TYPE 2"
         BT_SG02.TextAlign = ContentAlignment.MiddleCenter
         BT_SG02.UseVisualStyleBackColor = False
@@ -707,7 +731,8 @@ Partial Class Form1
         BT_SG06.Location = New Point(446, 535)
         BT_SG06.Name = "BT_SG06"
         BT_SG06.Size = New Size(180, 30)
-        BT_SG06.TabIndex = 66
+        BT_SG06.TabIndex = 33
+        BT_SG06.TabStop = False
         BT_SG06.Text = "TYPE 6"
         BT_SG06.TextAlign = ContentAlignment.MiddleCenter
         BT_SG06.UseVisualStyleBackColor = False
@@ -727,7 +752,8 @@ Partial Class Form1
         BT_SG03.Location = New Point(627, 504)
         BT_SG03.Name = "BT_SG03"
         BT_SG03.Size = New Size(180, 30)
-        BT_SG03.TabIndex = 69
+        BT_SG03.TabIndex = 30
+        BT_SG03.TabStop = False
         BT_SG03.Text = "TYPE 3"
         BT_SG03.TextAlign = ContentAlignment.MiddleCenter
         BT_SG03.UseVisualStyleBackColor = False
@@ -747,7 +773,8 @@ Partial Class Form1
         BT_SG07.Location = New Point(627, 535)
         BT_SG07.Name = "BT_SG07"
         BT_SG07.Size = New Size(180, 30)
-        BT_SG07.TabIndex = 68
+        BT_SG07.TabIndex = 34
+        BT_SG07.TabStop = False
         BT_SG07.Text = "TYPE 7"
         BT_SG07.TextAlign = ContentAlignment.MiddleCenter
         BT_SG07.UseVisualStyleBackColor = False
@@ -767,7 +794,8 @@ Partial Class Form1
         BT_SG04.Location = New Point(808, 504)
         BT_SG04.Name = "BT_SG04"
         BT_SG04.Size = New Size(180, 30)
-        BT_SG04.TabIndex = 71
+        BT_SG04.TabIndex = 31
+        BT_SG04.TabStop = False
         BT_SG04.Text = "TYPE 4"
         BT_SG04.TextAlign = ContentAlignment.MiddleCenter
         BT_SG04.UseVisualStyleBackColor = False
@@ -787,7 +815,8 @@ Partial Class Form1
         BT_SG08.Location = New Point(808, 535)
         BT_SG08.Name = "BT_SG08"
         BT_SG08.Size = New Size(180, 30)
-        BT_SG08.TabIndex = 70
+        BT_SG08.TabIndex = 35
+        BT_SG08.TabStop = False
         BT_SG08.Text = "TYPE 8"
         BT_SG08.TextAlign = ContentAlignment.MiddleCenter
         BT_SG08.UseVisualStyleBackColor = False
@@ -806,7 +835,8 @@ Partial Class Form1
         BT_SG_DS.Location = New Point(1062, 634)
         BT_SG_DS.Name = "BT_SG_DS"
         BT_SG_DS.Size = New Size(85, 24)
-        BT_SG_DS.TabIndex = 73
+        BT_SG_DS.TabIndex = 41
+        BT_SG_DS.TabStop = False
         BT_SG_DS.Text = " DESELECT ALL"
         BT_SG_DS.UseVisualStyleBackColor = False
         ' 
@@ -824,7 +854,8 @@ Partial Class Form1
         BT_SG_SEL.Location = New Point(976, 634)
         BT_SG_SEL.Name = "BT_SG_SEL"
         BT_SG_SEL.Size = New Size(85, 24)
-        BT_SG_SEL.TabIndex = 72
+        BT_SG_SEL.TabIndex = 40
+        BT_SG_SEL.TabStop = False
         BT_SG_SEL.Text = "SELECT ALL"
         BT_SG_SEL.UseVisualStyleBackColor = False
         ' 
@@ -864,7 +895,8 @@ Partial Class Form1
         BT_FG_SEL.Location = New Point(976, 367)
         BT_FG_SEL.Name = "BT_FG_SEL"
         BT_FG_SEL.Size = New Size(85, 24)
-        BT_FG_SEL.TabIndex = 85
+        BT_FG_SEL.TabIndex = 26
+        BT_FG_SEL.TabStop = False
         BT_FG_SEL.Text = "SELECT ALL"
         BT_FG_SEL.UseVisualStyleBackColor = False
         ' 
@@ -882,7 +914,8 @@ Partial Class Form1
         BT_FG_DS.Location = New Point(1062, 367)
         BT_FG_DS.Name = "BT_FG_DS"
         BT_FG_DS.Size = New Size(85, 24)
-        BT_FG_DS.TabIndex = 86
+        BT_FG_DS.TabIndex = 27
+        BT_FG_DS.TabStop = False
         BT_FG_DS.Text = " DESELECT ALL"
         BT_FG_DS.UseVisualStyleBackColor = False
         ' 
@@ -941,6 +974,7 @@ Partial Class Form1
         BT_INFO.Name = "BT_INFO"
         BT_INFO.Size = New Size(52, 40)
         BT_INFO.TabIndex = 120
+        BT_INFO.TabStop = False
         BT_INFO.Text = "INFO"
         BT_INFO.UseVisualStyleBackColor = False
         ' 
@@ -957,6 +991,7 @@ Partial Class Form1
         BT_SET.Name = "BT_SET"
         BT_SET.Size = New Size(52, 40)
         BT_SET.TabIndex = 119
+        BT_SET.TabStop = False
         BT_SET.Text = "SETUP"
         BT_SET.UseVisualStyleBackColor = False
         ' 
@@ -1108,7 +1143,8 @@ Partial Class Form1
         BT_FG21.Location = New Point(227, 300)
         BT_FG21.Name = "BT_FG21"
         BT_FG21.Size = New Size(160, 30)
-        BT_FG21.TabIndex = 128
+        BT_FG21.TabIndex = 21
+        BT_FG21.TabStop = False
         BT_FG21.Text = "FIELD 21"
         BT_FG21.TextAlign = ContentAlignment.MiddleCenter
         BT_FG21.UseVisualStyleBackColor = False
@@ -1128,7 +1164,8 @@ Partial Class Form1
         BT_FG22.Location = New Point(388, 300)
         BT_FG22.Name = "BT_FG22"
         BT_FG22.Size = New Size(160, 30)
-        BT_FG22.TabIndex = 129
+        BT_FG22.TabIndex = 22
+        BT_FG22.TabStop = False
         BT_FG22.Text = "FIELD 22"
         BT_FG22.TextAlign = ContentAlignment.MiddleCenter
         BT_FG22.UseVisualStyleBackColor = False
@@ -1148,7 +1185,8 @@ Partial Class Form1
         BT_FG23.Location = New Point(549, 300)
         BT_FG23.Name = "BT_FG23"
         BT_FG23.Size = New Size(160, 30)
-        BT_FG23.TabIndex = 130
+        BT_FG23.TabIndex = 23
+        BT_FG23.TabStop = False
         BT_FG23.Text = "FIELD 23"
         BT_FG23.TextAlign = ContentAlignment.MiddleCenter
         BT_FG23.UseVisualStyleBackColor = False
@@ -1168,7 +1206,8 @@ Partial Class Form1
         BT_FG24.Location = New Point(710, 300)
         BT_FG24.Name = "BT_FG24"
         BT_FG24.Size = New Size(160, 30)
-        BT_FG24.TabIndex = 131
+        BT_FG24.TabIndex = 24
+        BT_FG24.TabStop = False
         BT_FG24.Text = "FIELD 24"
         BT_FG24.TextAlign = ContentAlignment.MiddleCenter
         BT_FG24.UseVisualStyleBackColor = False
@@ -1188,7 +1227,8 @@ Partial Class Form1
         BT_FG25.Location = New Point(871, 300)
         BT_FG25.Name = "BT_FG25"
         BT_FG25.Size = New Size(160, 30)
-        BT_FG25.TabIndex = 132
+        BT_FG25.TabIndex = 25
+        BT_FG25.TabStop = False
         BT_FG25.Text = "FIELD 25"
         BT_FG25.TextAlign = ContentAlignment.MiddleCenter
         BT_FG25.UseVisualStyleBackColor = False
@@ -1208,7 +1248,8 @@ Partial Class Form1
         BT_SG09.Location = New Point(265, 566)
         BT_SG09.Name = "BT_SG09"
         BT_SG09.Size = New Size(180, 30)
-        BT_SG09.TabIndex = 133
+        BT_SG09.TabIndex = 36
+        BT_SG09.TabStop = False
         BT_SG09.Text = "TYPE 9"
         BT_SG09.TextAlign = ContentAlignment.MiddleCenter
         BT_SG09.UseVisualStyleBackColor = False
@@ -1228,7 +1269,8 @@ Partial Class Form1
         BT_SG10.Location = New Point(446, 566)
         BT_SG10.Name = "BT_SG10"
         BT_SG10.Size = New Size(180, 30)
-        BT_SG10.TabIndex = 134
+        BT_SG10.TabIndex = 37
+        BT_SG10.TabStop = False
         BT_SG10.Text = "TYPE 10"
         BT_SG10.TextAlign = ContentAlignment.MiddleCenter
         BT_SG10.UseVisualStyleBackColor = False
@@ -1248,7 +1290,8 @@ Partial Class Form1
         BT_SG11.Location = New Point(627, 566)
         BT_SG11.Name = "BT_SG11"
         BT_SG11.Size = New Size(180, 30)
-        BT_SG11.TabIndex = 135
+        BT_SG11.TabIndex = 38
+        BT_SG11.TabStop = False
         BT_SG11.Text = "TYPE 11"
         BT_SG11.TextAlign = ContentAlignment.MiddleCenter
         BT_SG11.UseVisualStyleBackColor = False
@@ -1268,7 +1311,8 @@ Partial Class Form1
         BT_SG12.Location = New Point(808, 566)
         BT_SG12.Name = "BT_SG12"
         BT_SG12.Size = New Size(180, 30)
-        BT_SG12.TabIndex = 136
+        BT_SG12.TabIndex = 39
+        BT_SG12.TabStop = False
         BT_SG12.Text = "TYPE 12"
         BT_SG12.TextAlign = ContentAlignment.MiddleCenter
         BT_SG12.UseVisualStyleBackColor = False
@@ -1397,6 +1441,7 @@ Partial Class Form1
         LOAD_BUTTON.Name = "LOAD_BUTTON"
         LOAD_BUTTON.Size = New Size(238, 54)
         LOAD_BUTTON.TabIndex = 142
+        LOAD_BUTTON.TabStop = False
         LOAD_BUTTON.Text = "LOAD DATA"
         LOAD_BUTTON.UseVisualStyleBackColor = False
         ' 
@@ -1489,7 +1534,7 @@ Partial Class Form1
         Label19.BackColor = Color.WhiteSmoke
         Label19.Font = New Font("Bahnschrift", 6.5F)
         Label19.ForeColor = Color.DarkGray
-        Label19.Location = New Point(574, 692)
+        Label19.Location = New Point(572, 692)
         Label19.Name = "Label19"
         Label19.Size = New Size(125, 11)
         Label19.TabIndex = 169
@@ -1576,7 +1621,6 @@ Partial Class Form1
         Controls.Add(PictureBox6)
         Controls.Add(PictureBox2)
         Controls.Add(PictureBox14)
-        Cursor = Cursors.Hand
         FormBorderStyle = FormBorderStyle.FixedToolWindow
         Icon = CType(resources.GetObject("$this.Icon"), Icon)
         MaximizeBox = False

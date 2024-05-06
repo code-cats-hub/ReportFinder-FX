@@ -13,6 +13,10 @@ Public Class Form1
             Call CATALOG_LOAD()
             Call FUNCTIONS_LOAD()
         End If
+        GC.Collect()
+        GC.WaitForPendingFinalizers()
+        GC.Collect()
+        GC.WaitForPendingFinalizers()
     End Sub
     Private Sub BT_FG_SEL_Click(sender As Object, e As EventArgs) Handles BT_FG_SEL.Click
         Call FG_SELECT_ALL()

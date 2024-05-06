@@ -7,6 +7,9 @@ Module Module1
     Public path_browser As String = path_chrome
     Public path_user As String = Application.StartupPath()
     Public chrome_lock As Boolean = False
+    Public browser_error As Boolean = False
+    Public browser_error2 As Boolean = False
+
     Public Sub PAUSE()
         Dim wait As Date
         wait = Now.AddMilliseconds(250)
@@ -22,6 +25,45 @@ Module Module1
         Loop
     End Sub
     Public Sub START_SEARCH()
+        Dim a, b As Integer
+        a = 0
+        b = 0
+
+loopback:
+        For Each ctrl As Control In Form1.Controls
+            If TypeOf ctrl Is System.Windows.Forms.CheckBox Then
+                Dim cb As System.Windows.Forms.CheckBox = ctrl
+                If Left(cb.Name, 5) = "BT_FG" And cb.FlatAppearance.BorderSize = 0 And cb.Checked = True Then
+                    a = a + 1
+                End If
+            End If
+        Next
+        For Each ctrl As Control In Form1.Controls
+            If TypeOf ctrl Is System.Windows.Forms.CheckBox Then
+                Dim cb As System.Windows.Forms.CheckBox = ctrl
+                If Left(cb.Name, 5) = "BT_SG" And cb.FlatAppearance.BorderSize = 0 And cb.Checked = True Then
+                    b = b + 1
+                End If
+            End If
+        Next
+
+        If a = 0 Then
+            Dim msg As Integer = MsgBox("No search fields were selected" & vbCrLf & "Did you want to select all fields?", vbYesNo, "Report Finder FX")
+            If msg = vbYes Then
+                Call FG_SELECT_ALL()
+                GoTo loopback
+            End If
+            If msg = vbNo Then GoTo finish
+        End If
+        If b = 0 Then
+            Dim msg As Integer = MsgBox("No result types were selected" & vbCrLf & "Did you want to select all types?", vbYesNo, "Report Finder FX")
+            If msg = vbYes Then
+                Call SG_SELECT_ALL()
+                GoTo loopback
+            End If
+            If msg = vbNo Then GoTo finish
+        End If
+
 
         On Error GoTo fault
         Call SEARCH_PERFORMER()
@@ -30,7 +72,7 @@ Module Module1
         GoTo finish
 
 fault:
-        MsgBox("Search was NOT performed")
+        MsgBox("search failed due to unmatched forces (at least by this app)", vbOKOnly, "Oh no...")
 finish:
     End Sub
     Public Sub RETURN_N_RESET()
@@ -163,9 +205,22 @@ finish:
             If arr_MAP_RES(i, 2) = name_read Then direct_link = arr_MAP_RES(i, 6)
         Next
 
-        MsgBox("Sending to browser")
-        Process.Start(path_browser, direct_link)
+        MsgBox("Sending to selected browser >>>", vbOKOnly, "Report Finder FX")
 
+rollback:
+        On Error GoTo error1
+        Process.Start(path_browser, direct_link)
+        GoTo finish
+error1:
+        If browser_error = False Then
+            Call CHROME_FINDER()
+            browser_error = True
+            GoTo rollback
+        Else
+            Dim msg As Integer = MsgBox("Chrome failed. Do you want to try Firefox instead?", vbYesNo, "It's not a good day for Chrome it seems")
+            If msg = vbYes Then Call FIREFOX_FINDER()
+        End If
+finish:
     End Sub
     Public Sub CHROME_FINDER()
         Dim files As ReadOnlyCollection(Of String)
@@ -206,7 +261,7 @@ rundown:
             path_browser = path_chrome
             chrome_lock = True
         Else
-            MsgBox("path no found")
+            MsgBox("path to chrome no found amigo", vbOKOnly, "Oh no...")
         End If
 finish:
     End Sub
@@ -234,7 +289,7 @@ rundown:
             path_fox = xpathx
             GoTo finishdown
         Else
-            MsgBox("path no found")
+            MsgBox("path to fox no found amigo", vbOKOnly, "Oh no...")
             GoTo finish
         End If
 finishdown:
@@ -251,9 +306,24 @@ finish:
         Form4.LOCK_CHROMEFIND.Visible = False
     End Sub
     Public Sub LINK2BROWSER(push_lnk As String)
+
+rollback:
+        On Error GoTo error1
         Process.Start(path_browser, push_lnk)
+        GoTo finish
+error1:
+        If browser_error2 = False Then
+            Call CHROME_FINDER()
+            browser_error2 = True
+            GoTo rollback
+        Else
+            Dim msg As Integer = MsgBox("Chrome failed. Do you want to try Firefox instead?", vbYesNo, "It's not a good day for Chrome it seems")
+            If msg = vbYes Then Call FIREFOX_FINDER()
+        End If
+finish:
     End Sub
     Public Sub OPEN_GPLN()
+        On Error Resume Next
         Process.Start("C:\Windows\notepad.exe", path_user & "Data\LICENSE NOTICE.txt")
     End Sub
 End Module

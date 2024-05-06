@@ -14,6 +14,10 @@ Public Class Form4
     End Sub
     Private Sub BT_RELOAD_Click(sender As Object, e As EventArgs) Handles BT_RELOAD.Click
         Call CATALOG_LOAD()
+        GC.Collect()
+        GC.WaitForPendingFinalizers()
+        GC.Collect()
+        GC.WaitForPendingFinalizers()
     End Sub
     Private Sub BT_SOURCE_Click(sender As Object, e As EventArgs) Handles BT_SOURCE.Click
         Call SOURCE_LOAD()
@@ -31,9 +35,9 @@ Public Class Form4
         Call FIREFOX_REMOVER()
     End Sub
     Private Sub BT_LINK_1_Click(sender As Object, e As EventArgs) Handles BT_LINK_1.Click
-        Call LINK2BROWSER("https://www.google.com/")
+        Call LINK2BROWSER("https://cognos.gcp.moneygram.com/ibmcognos/bi/?perspective=content&tab=myContent")
     End Sub
     Private Sub BT_LINK_2_Click(sender As Object, e As EventArgs) Handles BT_LINK_2.Click
-        Call LINK2BROWSER("https://www.google.com/")
+        Call LINK2BROWSER("https://cognos.gcp.moneygram.com/ibmcognos/bi/?perspective=content&tab=teamContent")
     End Sub
 End Class

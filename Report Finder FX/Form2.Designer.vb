@@ -626,6 +626,7 @@ Partial Class Form2
         BT_INFO.Name = "BT_INFO"
         BT_INFO.Size = New Size(52, 40)
         BT_INFO.TabIndex = 102
+        BT_INFO.TabStop = False
         BT_INFO.Text = "INFO"
         BT_INFO.UseVisualStyleBackColor = False
         ' 
@@ -643,6 +644,7 @@ Partial Class Form2
         BT_SET.Name = "BT_SET"
         BT_SET.Size = New Size(52, 40)
         BT_SET.TabIndex = 101
+        BT_SET.TabStop = False
         BT_SET.Text = "SETUP"
         BT_SET.UseVisualStyleBackColor = False
         ' 
@@ -717,6 +719,7 @@ Partial Class Form2
         P20_BTC.Name = "P20_BTC"
         P20_BTC.Size = New Size(74, 60)
         P20_BTC.TabIndex = 402
+        P20_BTC.TabStop = False
         P20_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P20_BTC.UseVisualStyleBackColor = False
         ' 
@@ -899,6 +902,7 @@ Partial Class Form2
         P19_BTC.Name = "P19_BTC"
         P19_BTC.Size = New Size(74, 60)
         P19_BTC.TabIndex = 402
+        P19_BTC.TabStop = False
         P19_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P19_BTC.UseVisualStyleBackColor = False
         ' 
@@ -1081,6 +1085,7 @@ Partial Class Form2
         P18_BTC.Name = "P18_BTC"
         P18_BTC.Size = New Size(74, 60)
         P18_BTC.TabIndex = 402
+        P18_BTC.TabStop = False
         P18_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P18_BTC.UseVisualStyleBackColor = False
         ' 
@@ -1263,6 +1268,7 @@ Partial Class Form2
         P17_BTC.Name = "P17_BTC"
         P17_BTC.Size = New Size(74, 60)
         P17_BTC.TabIndex = 402
+        P17_BTC.TabStop = False
         P17_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P17_BTC.UseVisualStyleBackColor = False
         ' 
@@ -1445,6 +1451,7 @@ Partial Class Form2
         P16_BTC.Name = "P16_BTC"
         P16_BTC.Size = New Size(74, 60)
         P16_BTC.TabIndex = 402
+        P16_BTC.TabStop = False
         P16_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P16_BTC.UseVisualStyleBackColor = False
         ' 
@@ -1627,6 +1634,7 @@ Partial Class Form2
         P15_BTC.Name = "P15_BTC"
         P15_BTC.Size = New Size(74, 60)
         P15_BTC.TabIndex = 402
+        P15_BTC.TabStop = False
         P15_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P15_BTC.UseVisualStyleBackColor = False
         ' 
@@ -1809,6 +1817,7 @@ Partial Class Form2
         P14_BTC.Name = "P14_BTC"
         P14_BTC.Size = New Size(74, 60)
         P14_BTC.TabIndex = 402
+        P14_BTC.TabStop = False
         P14_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P14_BTC.UseVisualStyleBackColor = False
         ' 
@@ -1991,6 +2000,7 @@ Partial Class Form2
         P13_BTC.Name = "P13_BTC"
         P13_BTC.Size = New Size(74, 60)
         P13_BTC.TabIndex = 402
+        P13_BTC.TabStop = False
         P13_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P13_BTC.UseVisualStyleBackColor = False
         ' 
@@ -2173,6 +2183,7 @@ Partial Class Form2
         P12_BTC.Name = "P12_BTC"
         P12_BTC.Size = New Size(74, 60)
         P12_BTC.TabIndex = 402
+        P12_BTC.TabStop = False
         P12_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P12_BTC.UseVisualStyleBackColor = False
         ' 
@@ -2355,6 +2366,7 @@ Partial Class Form2
         P11_BTC.Name = "P11_BTC"
         P11_BTC.Size = New Size(74, 60)
         P11_BTC.TabIndex = 402
+        P11_BTC.TabStop = False
         P11_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P11_BTC.UseVisualStyleBackColor = False
         ' 
@@ -2537,6 +2549,7 @@ Partial Class Form2
         P10_BTC.Name = "P10_BTC"
         P10_BTC.Size = New Size(74, 60)
         P10_BTC.TabIndex = 402
+        P10_BTC.TabStop = False
         P10_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P10_BTC.UseVisualStyleBackColor = False
         ' 
@@ -2719,6 +2732,7 @@ Partial Class Form2
         P09_BTC.Name = "P09_BTC"
         P09_BTC.Size = New Size(74, 60)
         P09_BTC.TabIndex = 402
+        P09_BTC.TabStop = False
         P09_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P09_BTC.UseVisualStyleBackColor = False
         ' 
@@ -2901,6 +2915,7 @@ Partial Class Form2
         P08_BTC.Name = "P08_BTC"
         P08_BTC.Size = New Size(74, 60)
         P08_BTC.TabIndex = 402
+        P08_BTC.TabStop = False
         P08_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P08_BTC.UseVisualStyleBackColor = False
         ' 
@@ -3083,6 +3098,7 @@ Partial Class Form2
         P07_BTC.Name = "P07_BTC"
         P07_BTC.Size = New Size(74, 60)
         P07_BTC.TabIndex = 402
+        P07_BTC.TabStop = False
         P07_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P07_BTC.UseVisualStyleBackColor = False
         ' 
@@ -3265,6 +3281,7 @@ Partial Class Form2
         P06_BTC.Name = "P06_BTC"
         P06_BTC.Size = New Size(74, 60)
         P06_BTC.TabIndex = 402
+        P06_BTC.TabStop = False
         P06_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P06_BTC.UseVisualStyleBackColor = False
         ' 
@@ -3447,6 +3464,7 @@ Partial Class Form2
         P05_BTC.Name = "P05_BTC"
         P05_BTC.Size = New Size(74, 60)
         P05_BTC.TabIndex = 402
+        P05_BTC.TabStop = False
         P05_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P05_BTC.UseVisualStyleBackColor = False
         ' 
@@ -3629,6 +3647,7 @@ Partial Class Form2
         P04_BTC.Name = "P04_BTC"
         P04_BTC.Size = New Size(74, 60)
         P04_BTC.TabIndex = 402
+        P04_BTC.TabStop = False
         P04_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P04_BTC.UseVisualStyleBackColor = False
         ' 
@@ -3811,6 +3830,7 @@ Partial Class Form2
         P03_BTC.Name = "P03_BTC"
         P03_BTC.Size = New Size(74, 60)
         P03_BTC.TabIndex = 402
+        P03_BTC.TabStop = False
         P03_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P03_BTC.UseVisualStyleBackColor = False
         ' 
@@ -3993,6 +4013,7 @@ Partial Class Form2
         P02_BTC.Name = "P02_BTC"
         P02_BTC.Size = New Size(74, 60)
         P02_BTC.TabIndex = 402
+        P02_BTC.TabStop = False
         P02_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P02_BTC.UseVisualStyleBackColor = False
         ' 
@@ -4175,6 +4196,7 @@ Partial Class Form2
         P01_BTC.Name = "P01_BTC"
         P01_BTC.Size = New Size(74, 60)
         P01_BTC.TabIndex = 402
+        P01_BTC.TabStop = False
         P01_BTC.TextImageRelation = TextImageRelation.ImageAboveText
         P01_BTC.UseVisualStyleBackColor = False
         ' 
@@ -4344,7 +4366,7 @@ Partial Class Form2
         BT_EXIT.Location = New Point(633, 714)
         BT_EXIT.Name = "BT_EXIT"
         BT_EXIT.Size = New Size(648, 34)
-        BT_EXIT.TabIndex = 107
+        BT_EXIT.TabIndex = 2
         BT_EXIT.Text = "EXIT >>"
         BT_EXIT.UseVisualStyleBackColor = False
         ' 
@@ -4362,7 +4384,7 @@ Partial Class Form2
         BT_BACK.Location = New Point(-16, 714)
         BT_BACK.Name = "BT_BACK"
         BT_BACK.Size = New Size(648, 34)
-        BT_BACK.TabIndex = 108
+        BT_BACK.TabIndex = 1
         BT_BACK.Text = "<< BACK"
         BT_BACK.UseVisualStyleBackColor = False
         ' 
@@ -4409,7 +4431,7 @@ Partial Class Form2
         Label19.BackColor = Color.WhiteSmoke
         Label19.Font = New Font("Bahnschrift", 6.5F)
         Label19.ForeColor = Color.DarkGray
-        Label19.Location = New Point(521, 692)
+        Label19.Location = New Point(570, 692)
         Label19.Name = "Label19"
         Label19.Size = New Size(125, 11)
         Label19.TabIndex = 170
@@ -4417,17 +4439,17 @@ Partial Class Form2
         ' 
         ' PictureBox2
         ' 
-        PictureBox2.Location = New Point(12, 691)
+        PictureBox2.Location = New Point(-16, 691)
         PictureBox2.Name = "PictureBox2"
-        PictureBox2.Size = New Size(1233, 15)
+        PictureBox2.Size = New Size(1263, 15)
         PictureBox2.TabIndex = 171
         PictureBox2.TabStop = False
         ' 
         ' PictureBox5
         ' 
-        PictureBox5.Location = New Point(14, 69)
+        PictureBox5.Location = New Point(-16, 69)
         PictureBox5.Name = "PictureBox5"
-        PictureBox5.Size = New Size(1233, 10)
+        PictureBox5.Size = New Size(1263, 10)
         PictureBox5.TabIndex = 172
         PictureBox5.TabStop = False
         ' 

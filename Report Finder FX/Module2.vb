@@ -25,6 +25,7 @@ Module Module2
         Dim filled As Integer
         Dim CALL_EXCEL As New Excel.Application
 
+        On Error GoTo error1
         CALL_EXCEL.Workbooks.Open(path_user & "Data\REPORT MATRIX.xlsx")
         filled = 0
 
@@ -37,6 +38,7 @@ Module Module2
         dim_RKEY = CALL_WS1.Range("A" & CALL_WS1.Rows.Count).End(Excel.XlDirection.xlUp).Row - 2
         ReDim arr_MAP_RES(dim_RKEY, 6)
 
+        On Error GoTo error2
         '--- LOAD SEARCH FG options ---'
 
         z = CALL_WS4.Range("A" & CALL_WS4.Rows.Count).End(Excel.XlDirection.xlUp).Row
@@ -129,7 +131,13 @@ Module Module2
 
         GC.Collect()
         GC.WaitForPendingFinalizers()
+        GoTo finish
 
+error1:
+        MsgBox("once there was an excel file, but it is no more" & vbCrLf & "make sure you have it here: \Data\REPORT MATRIX.xlsx", vbOKOnly, "Oh no...")
+error2:
+        MsgBox("I tried loading the tables, but tables had other plans", vbOKOnly, "Something strange happened")
+finish:
     End Sub
 
     Public Sub FUNCTIONS_LOAD()
@@ -232,6 +240,7 @@ Module Module2
             .ForeColor = Color.White
             .FlatAppearance.MouseDownBackColor = Color.FromArgb(70, 130, 50)
             .FlatAppearance.MouseOverBackColor = Color.FromArgb(50, 95, 30)
+            .TabStop = True
         End With
 
         Form1.LOAD_PANEL.Visible = False
