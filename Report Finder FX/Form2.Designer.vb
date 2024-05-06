@@ -35,6 +35,156 @@ Partial Class Form2
         BT_SET = New Button()
         PictureBox3 = New PictureBox()
         PANEL_PARENT = New Panel()
+        P30_CHILD = New Panel()
+        P30_BTC = New Button()
+        PictureBox41 = New PictureBox()
+        P30_M01 = New Label()
+        P30_S01 = New Label()
+        PictureBox42 = New PictureBox()
+        P30_M02 = New Label()
+        P30_M03 = New Label()
+        PictureBox43 = New PictureBox()
+        PictureBox44 = New PictureBox()
+        PictureBox45 = New PictureBox()
+        PictureBox46 = New PictureBox()
+        P30_M04 = New Label()
+        PictureBox47 = New PictureBox()
+        PictureBox48 = New PictureBox()
+        P29_CHILD = New Panel()
+        P29_BTC = New Button()
+        PictureBox49 = New PictureBox()
+        P29_M01 = New Label()
+        P29_S01 = New Label()
+        PictureBox50 = New PictureBox()
+        P29_M02 = New Label()
+        P29_M03 = New Label()
+        PictureBox51 = New PictureBox()
+        PictureBox52 = New PictureBox()
+        PictureBox53 = New PictureBox()
+        PictureBox54 = New PictureBox()
+        P29_M04 = New Label()
+        PictureBox55 = New PictureBox()
+        PictureBox56 = New PictureBox()
+        P28_CHILD = New Panel()
+        P28_BTC = New Button()
+        PictureBox57 = New PictureBox()
+        P28_M01 = New Label()
+        P28_S01 = New Label()
+        PictureBox58 = New PictureBox()
+        P28_M02 = New Label()
+        P28_M03 = New Label()
+        PictureBox59 = New PictureBox()
+        PictureBox60 = New PictureBox()
+        PictureBox61 = New PictureBox()
+        PictureBox62 = New PictureBox()
+        P28_M04 = New Label()
+        PictureBox63 = New PictureBox()
+        PictureBox64 = New PictureBox()
+        P27_CHILD = New Panel()
+        P27_BTC = New Button()
+        PictureBox65 = New PictureBox()
+        P27_M01 = New Label()
+        P27_S01 = New Label()
+        PictureBox66 = New PictureBox()
+        P27_M02 = New Label()
+        P27_M03 = New Label()
+        PictureBox67 = New PictureBox()
+        PictureBox68 = New PictureBox()
+        PictureBox69 = New PictureBox()
+        PictureBox70 = New PictureBox()
+        P27_M04 = New Label()
+        PictureBox71 = New PictureBox()
+        PictureBox72 = New PictureBox()
+        P26_CHILD = New Panel()
+        P26_BTC = New Button()
+        PictureBox73 = New PictureBox()
+        P26_M01 = New Label()
+        P26_S01 = New Label()
+        PictureBox74 = New PictureBox()
+        P26_M02 = New Label()
+        P26_M03 = New Label()
+        PictureBox75 = New PictureBox()
+        PictureBox76 = New PictureBox()
+        PictureBox77 = New PictureBox()
+        PictureBox78 = New PictureBox()
+        P26_M04 = New Label()
+        PictureBox79 = New PictureBox()
+        PictureBox80 = New PictureBox()
+        P25_CHILD = New Panel()
+        P25_BTC = New Button()
+        PictureBox81 = New PictureBox()
+        P25_M01 = New Label()
+        P25_S01 = New Label()
+        PictureBox82 = New PictureBox()
+        P25_M02 = New Label()
+        P25_M03 = New Label()
+        PictureBox83 = New PictureBox()
+        PictureBox84 = New PictureBox()
+        PictureBox85 = New PictureBox()
+        PictureBox86 = New PictureBox()
+        P25_M04 = New Label()
+        PictureBox87 = New PictureBox()
+        PictureBox88 = New PictureBox()
+        P24_CHILD = New Panel()
+        P24_BTC = New Button()
+        PictureBox25 = New PictureBox()
+        P24_M01 = New Label()
+        P24_S01 = New Label()
+        PictureBox26 = New PictureBox()
+        P24_M02 = New Label()
+        P24_M03 = New Label()
+        PictureBox27 = New PictureBox()
+        PictureBox28 = New PictureBox()
+        PictureBox29 = New PictureBox()
+        PictureBox30 = New PictureBox()
+        P24_M04 = New Label()
+        PictureBox31 = New PictureBox()
+        PictureBox32 = New PictureBox()
+        P23_CHILD = New Panel()
+        P23_BTC = New Button()
+        PictureBox33 = New PictureBox()
+        P23_M01 = New Label()
+        P23_S01 = New Label()
+        PictureBox34 = New PictureBox()
+        P23_M02 = New Label()
+        P23_M03 = New Label()
+        PictureBox35 = New PictureBox()
+        PictureBox36 = New PictureBox()
+        PictureBox37 = New PictureBox()
+        PictureBox38 = New PictureBox()
+        P23_M04 = New Label()
+        PictureBox39 = New PictureBox()
+        PictureBox40 = New PictureBox()
+        P22_CHILD = New Panel()
+        P22_BTC = New Button()
+        PictureBox6 = New PictureBox()
+        P22_M01 = New Label()
+        P22_S01 = New Label()
+        PictureBox7 = New PictureBox()
+        P22_M02 = New Label()
+        P22_M03 = New Label()
+        PictureBox8 = New PictureBox()
+        PictureBox9 = New PictureBox()
+        PictureBox11 = New PictureBox()
+        PictureBox12 = New PictureBox()
+        P22_M04 = New Label()
+        PictureBox13 = New PictureBox()
+        PictureBox14 = New PictureBox()
+        P21_CHILD = New Panel()
+        P21_BTC = New Button()
+        PictureBox17 = New PictureBox()
+        P21_M01 = New Label()
+        P21_S01 = New Label()
+        PictureBox18 = New PictureBox()
+        P21_M02 = New Label()
+        P21_M03 = New Label()
+        PictureBox19 = New PictureBox()
+        PictureBox20 = New PictureBox()
+        PictureBox21 = New PictureBox()
+        PictureBox22 = New PictureBox()
+        P21_M04 = New Label()
+        PictureBox23 = New PictureBox()
+        PictureBox24 = New PictureBox()
         P20_CHILD = New Panel()
         P20_BTC = New Button()
         P20_S05 = New PictureBox()
@@ -347,6 +497,96 @@ Partial Class Form2
         CType(PictureBox10, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox3, ComponentModel.ISupportInitialize).BeginInit()
         PANEL_PARENT.SuspendLayout()
+        P30_CHILD.SuspendLayout()
+        CType(PictureBox41, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox42, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox43, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox44, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox45, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox46, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox47, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox48, ComponentModel.ISupportInitialize).BeginInit()
+        P29_CHILD.SuspendLayout()
+        CType(PictureBox49, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox50, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox51, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox52, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox53, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox54, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox55, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox56, ComponentModel.ISupportInitialize).BeginInit()
+        P28_CHILD.SuspendLayout()
+        CType(PictureBox57, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox58, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox59, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox60, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox61, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox62, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox63, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox64, ComponentModel.ISupportInitialize).BeginInit()
+        P27_CHILD.SuspendLayout()
+        CType(PictureBox65, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox66, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox67, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox68, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox69, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox70, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox71, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox72, ComponentModel.ISupportInitialize).BeginInit()
+        P26_CHILD.SuspendLayout()
+        CType(PictureBox73, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox74, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox75, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox76, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox77, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox78, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox79, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox80, ComponentModel.ISupportInitialize).BeginInit()
+        P25_CHILD.SuspendLayout()
+        CType(PictureBox81, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox82, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox83, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox84, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox85, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox86, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox87, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox88, ComponentModel.ISupportInitialize).BeginInit()
+        P24_CHILD.SuspendLayout()
+        CType(PictureBox25, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox26, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox27, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox28, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox29, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox30, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox31, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox32, ComponentModel.ISupportInitialize).BeginInit()
+        P23_CHILD.SuspendLayout()
+        CType(PictureBox33, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox34, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox35, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox36, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox37, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox38, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox39, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox40, ComponentModel.ISupportInitialize).BeginInit()
+        P22_CHILD.SuspendLayout()
+        CType(PictureBox6, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox7, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox8, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox9, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox11, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox12, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox13, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox14, ComponentModel.ISupportInitialize).BeginInit()
+        P21_CHILD.SuspendLayout()
+        CType(PictureBox17, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox18, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox19, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox20, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox21, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox22, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox23, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox24, ComponentModel.ISupportInitialize).BeginInit()
         P20_CHILD.SuspendLayout()
         CType(P20_S05, ComponentModel.ISupportInitialize).BeginInit()
         CType(P20_S04, ComponentModel.ISupportInitialize).BeginInit()
@@ -662,6 +902,16 @@ Partial Class Form2
         ' 
         PANEL_PARENT.AutoScroll = True
         PANEL_PARENT.AutoScrollMinSize = New Size(1210, 550)
+        PANEL_PARENT.Controls.Add(P30_CHILD)
+        PANEL_PARENT.Controls.Add(P29_CHILD)
+        PANEL_PARENT.Controls.Add(P28_CHILD)
+        PANEL_PARENT.Controls.Add(P27_CHILD)
+        PANEL_PARENT.Controls.Add(P26_CHILD)
+        PANEL_PARENT.Controls.Add(P25_CHILD)
+        PANEL_PARENT.Controls.Add(P24_CHILD)
+        PANEL_PARENT.Controls.Add(P23_CHILD)
+        PANEL_PARENT.Controls.Add(P22_CHILD)
+        PANEL_PARENT.Controls.Add(P21_CHILD)
         PANEL_PARENT.Controls.Add(P20_CHILD)
         PANEL_PARENT.Controls.Add(P19_CHILD)
         PANEL_PARENT.Controls.Add(P18_CHILD)
@@ -686,6 +936,1846 @@ Partial Class Form2
         PANEL_PARENT.Name = "PANEL_PARENT"
         PANEL_PARENT.Size = New Size(1249, 630)
         PANEL_PARENT.TabIndex = 106
+        ' 
+        ' P30_CHILD
+        ' 
+        P30_CHILD.Controls.Add(P30_BTC)
+        P30_CHILD.Controls.Add(PictureBox41)
+        P30_CHILD.Controls.Add(P30_M01)
+        P30_CHILD.Controls.Add(P30_S01)
+        P30_CHILD.Controls.Add(PictureBox42)
+        P30_CHILD.Controls.Add(P30_M02)
+        P30_CHILD.Controls.Add(P30_M03)
+        P30_CHILD.Controls.Add(PictureBox43)
+        P30_CHILD.Controls.Add(PictureBox44)
+        P30_CHILD.Controls.Add(PictureBox45)
+        P30_CHILD.Controls.Add(PictureBox46)
+        P30_CHILD.Controls.Add(P30_M04)
+        P30_CHILD.Controls.Add(PictureBox47)
+        P30_CHILD.Controls.Add(PictureBox48)
+        P30_CHILD.Location = New Point(8, 5975)
+        P30_CHILD.Name = "P30_CHILD"
+        P30_CHILD.Size = New Size(1221, 190)
+        P30_CHILD.TabIndex = 432
+        ' 
+        ' P30_BTC
+        ' 
+        P30_BTC.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P30_BTC.BackgroundImage = My.Resources.Resources.button_chrome
+        P30_BTC.Cursor = Cursors.Hand
+        P30_BTC.FlatAppearance.BorderSize = 0
+        P30_BTC.FlatStyle = FlatStyle.Flat
+        P30_BTC.Location = New Point(1112, 41)
+        P30_BTC.Name = "P30_BTC"
+        P30_BTC.Size = New Size(74, 60)
+        P30_BTC.TabIndex = 402
+        P30_BTC.TabStop = False
+        P30_BTC.TextImageRelation = TextImageRelation.ImageAboveText
+        P30_BTC.UseVisualStyleBackColor = False
+        ' 
+        ' PictureBox41
+        ' 
+        PictureBox41.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox41.BackgroundImage = My.Resources.Resources.ui2_chromelink
+        PictureBox41.BackgroundImageLayout = ImageLayout.Center
+        PictureBox41.Location = New Point(1092, 3)
+        PictureBox41.Name = "PictureBox41"
+        PictureBox41.Size = New Size(115, 115)
+        PictureBox41.TabIndex = 81
+        PictureBox41.TabStop = False
+        ' 
+        ' P30_M01
+        ' 
+        P30_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P30_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
+        P30_M01.ForeColor = Color.White
+        P30_M01.Location = New Point(52, 4)
+        P30_M01.Name = "P30_M01"
+        P30_M01.Size = New Size(1007, 28)
+        P30_M01.TabIndex = 401
+        P30_M01.Text = "MOD_FIELD_1"
+        P30_M01.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P30_S01
+        ' 
+        P30_S01.AutoSize = True
+        P30_S01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P30_S01.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        P30_S01.ForeColor = Color.White
+        P30_S01.Location = New Point(5, 9)
+        P30_S01.Name = "P30_S01"
+        P30_S01.Size = New Size(32, 17)
+        P30_S01.TabIndex = 112
+        P30_S01.Text = "#30"
+        ' 
+        ' PictureBox42
+        ' 
+        PictureBox42.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox42.Location = New Point(-5, 3)
+        PictureBox42.Name = "PictureBox42"
+        PictureBox42.Size = New Size(1167, 30)
+        PictureBox42.TabIndex = 78
+        PictureBox42.TabStop = False
+        ' 
+        ' P30_M02
+        ' 
+        P30_M02.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P30_M02.Font = New Font("Bahnschrift", 9.5F, FontStyle.Bold)
+        P30_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P30_M02.Location = New Point(1, 61)
+        P30_M02.Name = "P30_M02"
+        P30_M02.Padding = New Padding(5, 0, 5, 0)
+        P30_M02.Size = New Size(539, 47)
+        P30_M02.TabIndex = 82
+        P30_M02.Text = "MOD_FIELD_2"
+        P30_M02.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P30_M03
+        ' 
+        P30_M03.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P30_M03.Font = New Font("Bahnschrift", 9.5F)
+        P30_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P30_M03.Location = New Point(542, 61)
+        P30_M03.Name = "P30_M03"
+        P30_M03.Padding = New Padding(10, 0, 5, 0)
+        P30_M03.Size = New Size(550, 48)
+        P30_M03.TabIndex = 85
+        P30_M03.Text = "MOD_FIELD_3"
+        P30_M03.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox43
+        ' 
+        PictureBox43.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox43.BackgroundImage = My.Resources.Resources.ui2_label_TR
+        PictureBox43.Location = New Point(541, 33)
+        PictureBox43.Name = "PictureBox43"
+        PictureBox43.Size = New Size(553, 20)
+        PictureBox43.TabIndex = 84
+        PictureBox43.TabStop = False
+        ' 
+        ' PictureBox44
+        ' 
+        PictureBox44.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox44.BackgroundImage = My.Resources.Resources.ui2_label_TL
+        PictureBox44.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox44.Location = New Point(1, 33)
+        PictureBox44.Name = "PictureBox44"
+        PictureBox44.Size = New Size(539, 20)
+        PictureBox44.TabIndex = 83
+        PictureBox44.TabStop = False
+        ' 
+        ' PictureBox45
+        ' 
+        PictureBox45.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox45.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox45.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox45.BorderStyle = BorderStyle.FixedSingle
+        PictureBox45.Location = New Point(0, 33)
+        PictureBox45.Name = "PictureBox45"
+        PictureBox45.Size = New Size(541, 85)
+        PictureBox45.TabIndex = 77
+        PictureBox45.TabStop = False
+        ' 
+        ' PictureBox46
+        ' 
+        PictureBox46.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox46.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox46.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox46.BorderStyle = BorderStyle.FixedSingle
+        PictureBox46.Location = New Point(538, 33)
+        PictureBox46.Name = "PictureBox46"
+        PictureBox46.Size = New Size(556, 85)
+        PictureBox46.TabIndex = 80
+        PictureBox46.TabStop = False
+        ' 
+        ' P30_M04
+        ' 
+        P30_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        P30_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
+        P30_M04.ForeColor = Color.White
+        P30_M04.Location = New Point(34, 120)
+        P30_M04.Name = "P30_M04"
+        P30_M04.Size = New Size(1048, 23)
+        P30_M04.TabIndex = 109
+        P30_M04.Text = "MOD_FIELD_4"
+        P30_M04.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox47
+        ' 
+        PictureBox47.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        PictureBox47.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox47.BackgroundImageLayout = ImageLayout.Center
+        PictureBox47.BorderStyle = BorderStyle.FixedSingle
+        PictureBox47.Location = New Point(-1, 117)
+        PictureBox47.Name = "PictureBox47"
+        PictureBox47.Size = New Size(1208, 30)
+        PictureBox47.TabIndex = 79
+        PictureBox47.TabStop = False
+        ' 
+        ' PictureBox48
+        ' 
+        PictureBox48.BackColor = Color.Silver
+        PictureBox48.Location = New Point(4, 8)
+        PictureBox48.Name = "PictureBox48"
+        PictureBox48.Size = New Size(1207, 144)
+        PictureBox48.TabIndex = 404
+        PictureBox48.TabStop = False
+        ' 
+        ' P29_CHILD
+        ' 
+        P29_CHILD.Controls.Add(P29_BTC)
+        P29_CHILD.Controls.Add(PictureBox49)
+        P29_CHILD.Controls.Add(P29_M01)
+        P29_CHILD.Controls.Add(P29_S01)
+        P29_CHILD.Controls.Add(PictureBox50)
+        P29_CHILD.Controls.Add(P29_M02)
+        P29_CHILD.Controls.Add(P29_M03)
+        P29_CHILD.Controls.Add(PictureBox51)
+        P29_CHILD.Controls.Add(PictureBox52)
+        P29_CHILD.Controls.Add(PictureBox53)
+        P29_CHILD.Controls.Add(PictureBox54)
+        P29_CHILD.Controls.Add(P29_M04)
+        P29_CHILD.Controls.Add(PictureBox55)
+        P29_CHILD.Controls.Add(PictureBox56)
+        P29_CHILD.Location = New Point(8, 5770)
+        P29_CHILD.Name = "P29_CHILD"
+        P29_CHILD.Size = New Size(1221, 190)
+        P29_CHILD.TabIndex = 431
+        ' 
+        ' P29_BTC
+        ' 
+        P29_BTC.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P29_BTC.BackgroundImage = My.Resources.Resources.button_chrome
+        P29_BTC.Cursor = Cursors.Hand
+        P29_BTC.FlatAppearance.BorderSize = 0
+        P29_BTC.FlatStyle = FlatStyle.Flat
+        P29_BTC.Location = New Point(1112, 41)
+        P29_BTC.Name = "P29_BTC"
+        P29_BTC.Size = New Size(74, 60)
+        P29_BTC.TabIndex = 402
+        P29_BTC.TabStop = False
+        P29_BTC.TextImageRelation = TextImageRelation.ImageAboveText
+        P29_BTC.UseVisualStyleBackColor = False
+        ' 
+        ' PictureBox49
+        ' 
+        PictureBox49.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox49.BackgroundImage = My.Resources.Resources.ui2_chromelink
+        PictureBox49.BackgroundImageLayout = ImageLayout.Center
+        PictureBox49.Location = New Point(1092, 3)
+        PictureBox49.Name = "PictureBox49"
+        PictureBox49.Size = New Size(115, 115)
+        PictureBox49.TabIndex = 81
+        PictureBox49.TabStop = False
+        ' 
+        ' P29_M01
+        ' 
+        P29_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P29_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
+        P29_M01.ForeColor = Color.White
+        P29_M01.Location = New Point(52, 4)
+        P29_M01.Name = "P29_M01"
+        P29_M01.Size = New Size(1007, 28)
+        P29_M01.TabIndex = 401
+        P29_M01.Text = "MOD_FIELD_1"
+        P29_M01.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P29_S01
+        ' 
+        P29_S01.AutoSize = True
+        P29_S01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P29_S01.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        P29_S01.ForeColor = Color.White
+        P29_S01.Location = New Point(5, 9)
+        P29_S01.Name = "P29_S01"
+        P29_S01.Size = New Size(31, 17)
+        P29_S01.TabIndex = 112
+        P29_S01.Text = "#29"
+        ' 
+        ' PictureBox50
+        ' 
+        PictureBox50.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox50.Location = New Point(-5, 3)
+        PictureBox50.Name = "PictureBox50"
+        PictureBox50.Size = New Size(1167, 30)
+        PictureBox50.TabIndex = 78
+        PictureBox50.TabStop = False
+        ' 
+        ' P29_M02
+        ' 
+        P29_M02.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P29_M02.Font = New Font("Bahnschrift", 9.5F, FontStyle.Bold)
+        P29_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P29_M02.Location = New Point(1, 61)
+        P29_M02.Name = "P29_M02"
+        P29_M02.Padding = New Padding(5, 0, 5, 0)
+        P29_M02.Size = New Size(539, 47)
+        P29_M02.TabIndex = 82
+        P29_M02.Text = "MOD_FIELD_2"
+        P29_M02.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P29_M03
+        ' 
+        P29_M03.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P29_M03.Font = New Font("Bahnschrift", 9.5F)
+        P29_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P29_M03.Location = New Point(542, 61)
+        P29_M03.Name = "P29_M03"
+        P29_M03.Padding = New Padding(10, 0, 5, 0)
+        P29_M03.Size = New Size(550, 48)
+        P29_M03.TabIndex = 85
+        P29_M03.Text = "MOD_FIELD_3"
+        P29_M03.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox51
+        ' 
+        PictureBox51.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox51.BackgroundImage = My.Resources.Resources.ui2_label_TR
+        PictureBox51.Location = New Point(541, 33)
+        PictureBox51.Name = "PictureBox51"
+        PictureBox51.Size = New Size(553, 20)
+        PictureBox51.TabIndex = 84
+        PictureBox51.TabStop = False
+        ' 
+        ' PictureBox52
+        ' 
+        PictureBox52.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox52.BackgroundImage = My.Resources.Resources.ui2_label_TL
+        PictureBox52.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox52.Location = New Point(1, 33)
+        PictureBox52.Name = "PictureBox52"
+        PictureBox52.Size = New Size(539, 20)
+        PictureBox52.TabIndex = 83
+        PictureBox52.TabStop = False
+        ' 
+        ' PictureBox53
+        ' 
+        PictureBox53.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox53.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox53.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox53.BorderStyle = BorderStyle.FixedSingle
+        PictureBox53.Location = New Point(0, 33)
+        PictureBox53.Name = "PictureBox53"
+        PictureBox53.Size = New Size(541, 85)
+        PictureBox53.TabIndex = 77
+        PictureBox53.TabStop = False
+        ' 
+        ' PictureBox54
+        ' 
+        PictureBox54.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox54.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox54.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox54.BorderStyle = BorderStyle.FixedSingle
+        PictureBox54.Location = New Point(538, 33)
+        PictureBox54.Name = "PictureBox54"
+        PictureBox54.Size = New Size(556, 85)
+        PictureBox54.TabIndex = 80
+        PictureBox54.TabStop = False
+        ' 
+        ' P29_M04
+        ' 
+        P29_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        P29_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
+        P29_M04.ForeColor = Color.White
+        P29_M04.Location = New Point(34, 120)
+        P29_M04.Name = "P29_M04"
+        P29_M04.Size = New Size(1048, 23)
+        P29_M04.TabIndex = 109
+        P29_M04.Text = "MOD_FIELD_4"
+        P29_M04.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox55
+        ' 
+        PictureBox55.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        PictureBox55.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox55.BackgroundImageLayout = ImageLayout.Center
+        PictureBox55.BorderStyle = BorderStyle.FixedSingle
+        PictureBox55.Location = New Point(-1, 117)
+        PictureBox55.Name = "PictureBox55"
+        PictureBox55.Size = New Size(1208, 30)
+        PictureBox55.TabIndex = 79
+        PictureBox55.TabStop = False
+        ' 
+        ' PictureBox56
+        ' 
+        PictureBox56.BackColor = Color.Silver
+        PictureBox56.Location = New Point(4, 8)
+        PictureBox56.Name = "PictureBox56"
+        PictureBox56.Size = New Size(1207, 144)
+        PictureBox56.TabIndex = 404
+        PictureBox56.TabStop = False
+        ' 
+        ' P28_CHILD
+        ' 
+        P28_CHILD.Controls.Add(P28_BTC)
+        P28_CHILD.Controls.Add(PictureBox57)
+        P28_CHILD.Controls.Add(P28_M01)
+        P28_CHILD.Controls.Add(P28_S01)
+        P28_CHILD.Controls.Add(PictureBox58)
+        P28_CHILD.Controls.Add(P28_M02)
+        P28_CHILD.Controls.Add(P28_M03)
+        P28_CHILD.Controls.Add(PictureBox59)
+        P28_CHILD.Controls.Add(PictureBox60)
+        P28_CHILD.Controls.Add(PictureBox61)
+        P28_CHILD.Controls.Add(PictureBox62)
+        P28_CHILD.Controls.Add(P28_M04)
+        P28_CHILD.Controls.Add(PictureBox63)
+        P28_CHILD.Controls.Add(PictureBox64)
+        P28_CHILD.Location = New Point(8, 5566)
+        P28_CHILD.Name = "P28_CHILD"
+        P28_CHILD.Size = New Size(1221, 190)
+        P28_CHILD.TabIndex = 430
+        ' 
+        ' P28_BTC
+        ' 
+        P28_BTC.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P28_BTC.BackgroundImage = My.Resources.Resources.button_chrome
+        P28_BTC.Cursor = Cursors.Hand
+        P28_BTC.FlatAppearance.BorderSize = 0
+        P28_BTC.FlatStyle = FlatStyle.Flat
+        P28_BTC.Location = New Point(1112, 41)
+        P28_BTC.Name = "P28_BTC"
+        P28_BTC.Size = New Size(74, 60)
+        P28_BTC.TabIndex = 402
+        P28_BTC.TabStop = False
+        P28_BTC.TextImageRelation = TextImageRelation.ImageAboveText
+        P28_BTC.UseVisualStyleBackColor = False
+        ' 
+        ' PictureBox57
+        ' 
+        PictureBox57.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox57.BackgroundImage = My.Resources.Resources.ui2_chromelink
+        PictureBox57.BackgroundImageLayout = ImageLayout.Center
+        PictureBox57.Location = New Point(1092, 3)
+        PictureBox57.Name = "PictureBox57"
+        PictureBox57.Size = New Size(115, 115)
+        PictureBox57.TabIndex = 81
+        PictureBox57.TabStop = False
+        ' 
+        ' P28_M01
+        ' 
+        P28_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P28_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
+        P28_M01.ForeColor = Color.White
+        P28_M01.Location = New Point(52, 4)
+        P28_M01.Name = "P28_M01"
+        P28_M01.Size = New Size(1007, 28)
+        P28_M01.TabIndex = 401
+        P28_M01.Text = "MOD_FIELD_1"
+        P28_M01.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P28_S01
+        ' 
+        P28_S01.AutoSize = True
+        P28_S01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P28_S01.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        P28_S01.ForeColor = Color.White
+        P28_S01.Location = New Point(5, 9)
+        P28_S01.Name = "P28_S01"
+        P28_S01.Size = New Size(32, 17)
+        P28_S01.TabIndex = 112
+        P28_S01.Text = "#28"
+        ' 
+        ' PictureBox58
+        ' 
+        PictureBox58.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox58.Location = New Point(-5, 3)
+        PictureBox58.Name = "PictureBox58"
+        PictureBox58.Size = New Size(1167, 30)
+        PictureBox58.TabIndex = 78
+        PictureBox58.TabStop = False
+        ' 
+        ' P28_M02
+        ' 
+        P28_M02.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P28_M02.Font = New Font("Bahnschrift", 9.5F, FontStyle.Bold)
+        P28_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P28_M02.Location = New Point(1, 61)
+        P28_M02.Name = "P28_M02"
+        P28_M02.Padding = New Padding(5, 0, 5, 0)
+        P28_M02.Size = New Size(539, 47)
+        P28_M02.TabIndex = 82
+        P28_M02.Text = "MOD_FIELD_2"
+        P28_M02.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P28_M03
+        ' 
+        P28_M03.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P28_M03.Font = New Font("Bahnschrift", 9.5F)
+        P28_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P28_M03.Location = New Point(542, 61)
+        P28_M03.Name = "P28_M03"
+        P28_M03.Padding = New Padding(10, 0, 5, 0)
+        P28_M03.Size = New Size(550, 48)
+        P28_M03.TabIndex = 85
+        P28_M03.Text = "MOD_FIELD_3"
+        P28_M03.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox59
+        ' 
+        PictureBox59.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox59.BackgroundImage = My.Resources.Resources.ui2_label_TR
+        PictureBox59.Location = New Point(541, 33)
+        PictureBox59.Name = "PictureBox59"
+        PictureBox59.Size = New Size(553, 20)
+        PictureBox59.TabIndex = 84
+        PictureBox59.TabStop = False
+        ' 
+        ' PictureBox60
+        ' 
+        PictureBox60.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox60.BackgroundImage = My.Resources.Resources.ui2_label_TL
+        PictureBox60.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox60.Location = New Point(1, 33)
+        PictureBox60.Name = "PictureBox60"
+        PictureBox60.Size = New Size(539, 20)
+        PictureBox60.TabIndex = 83
+        PictureBox60.TabStop = False
+        ' 
+        ' PictureBox61
+        ' 
+        PictureBox61.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox61.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox61.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox61.BorderStyle = BorderStyle.FixedSingle
+        PictureBox61.Location = New Point(0, 33)
+        PictureBox61.Name = "PictureBox61"
+        PictureBox61.Size = New Size(541, 85)
+        PictureBox61.TabIndex = 77
+        PictureBox61.TabStop = False
+        ' 
+        ' PictureBox62
+        ' 
+        PictureBox62.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox62.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox62.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox62.BorderStyle = BorderStyle.FixedSingle
+        PictureBox62.Location = New Point(538, 33)
+        PictureBox62.Name = "PictureBox62"
+        PictureBox62.Size = New Size(556, 85)
+        PictureBox62.TabIndex = 80
+        PictureBox62.TabStop = False
+        ' 
+        ' P28_M04
+        ' 
+        P28_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        P28_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
+        P28_M04.ForeColor = Color.White
+        P28_M04.Location = New Point(34, 120)
+        P28_M04.Name = "P28_M04"
+        P28_M04.Size = New Size(1048, 23)
+        P28_M04.TabIndex = 109
+        P28_M04.Text = "MOD_FIELD_4"
+        P28_M04.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox63
+        ' 
+        PictureBox63.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        PictureBox63.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox63.BackgroundImageLayout = ImageLayout.Center
+        PictureBox63.BorderStyle = BorderStyle.FixedSingle
+        PictureBox63.Location = New Point(-1, 117)
+        PictureBox63.Name = "PictureBox63"
+        PictureBox63.Size = New Size(1208, 30)
+        PictureBox63.TabIndex = 79
+        PictureBox63.TabStop = False
+        ' 
+        ' PictureBox64
+        ' 
+        PictureBox64.BackColor = Color.Silver
+        PictureBox64.Location = New Point(4, 8)
+        PictureBox64.Name = "PictureBox64"
+        PictureBox64.Size = New Size(1207, 144)
+        PictureBox64.TabIndex = 404
+        PictureBox64.TabStop = False
+        ' 
+        ' P27_CHILD
+        ' 
+        P27_CHILD.Controls.Add(P27_BTC)
+        P27_CHILD.Controls.Add(PictureBox65)
+        P27_CHILD.Controls.Add(P27_M01)
+        P27_CHILD.Controls.Add(P27_S01)
+        P27_CHILD.Controls.Add(PictureBox66)
+        P27_CHILD.Controls.Add(P27_M02)
+        P27_CHILD.Controls.Add(P27_M03)
+        P27_CHILD.Controls.Add(PictureBox67)
+        P27_CHILD.Controls.Add(PictureBox68)
+        P27_CHILD.Controls.Add(PictureBox69)
+        P27_CHILD.Controls.Add(PictureBox70)
+        P27_CHILD.Controls.Add(P27_M04)
+        P27_CHILD.Controls.Add(PictureBox71)
+        P27_CHILD.Controls.Add(PictureBox72)
+        P27_CHILD.Location = New Point(8, 5361)
+        P27_CHILD.Name = "P27_CHILD"
+        P27_CHILD.Size = New Size(1221, 190)
+        P27_CHILD.TabIndex = 429
+        ' 
+        ' P27_BTC
+        ' 
+        P27_BTC.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P27_BTC.BackgroundImage = My.Resources.Resources.button_chrome
+        P27_BTC.Cursor = Cursors.Hand
+        P27_BTC.FlatAppearance.BorderSize = 0
+        P27_BTC.FlatStyle = FlatStyle.Flat
+        P27_BTC.Location = New Point(1112, 41)
+        P27_BTC.Name = "P27_BTC"
+        P27_BTC.Size = New Size(74, 60)
+        P27_BTC.TabIndex = 402
+        P27_BTC.TabStop = False
+        P27_BTC.TextImageRelation = TextImageRelation.ImageAboveText
+        P27_BTC.UseVisualStyleBackColor = False
+        ' 
+        ' PictureBox65
+        ' 
+        PictureBox65.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox65.BackgroundImage = My.Resources.Resources.ui2_chromelink
+        PictureBox65.BackgroundImageLayout = ImageLayout.Center
+        PictureBox65.Location = New Point(1092, 3)
+        PictureBox65.Name = "PictureBox65"
+        PictureBox65.Size = New Size(115, 115)
+        PictureBox65.TabIndex = 81
+        PictureBox65.TabStop = False
+        ' 
+        ' P27_M01
+        ' 
+        P27_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P27_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
+        P27_M01.ForeColor = Color.White
+        P27_M01.Location = New Point(52, 4)
+        P27_M01.Name = "P27_M01"
+        P27_M01.Size = New Size(1007, 28)
+        P27_M01.TabIndex = 401
+        P27_M01.Text = "MOD_FIELD_1"
+        P27_M01.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P27_S01
+        ' 
+        P27_S01.AutoSize = True
+        P27_S01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P27_S01.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        P27_S01.ForeColor = Color.White
+        P27_S01.Location = New Point(5, 9)
+        P27_S01.Name = "P27_S01"
+        P27_S01.Size = New Size(31, 17)
+        P27_S01.TabIndex = 112
+        P27_S01.Text = "#27"
+        ' 
+        ' PictureBox66
+        ' 
+        PictureBox66.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox66.Location = New Point(-5, 3)
+        PictureBox66.Name = "PictureBox66"
+        PictureBox66.Size = New Size(1167, 30)
+        PictureBox66.TabIndex = 78
+        PictureBox66.TabStop = False
+        ' 
+        ' P27_M02
+        ' 
+        P27_M02.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P27_M02.Font = New Font("Bahnschrift", 9.5F, FontStyle.Bold)
+        P27_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P27_M02.Location = New Point(1, 61)
+        P27_M02.Name = "P27_M02"
+        P27_M02.Padding = New Padding(5, 0, 5, 0)
+        P27_M02.Size = New Size(539, 47)
+        P27_M02.TabIndex = 82
+        P27_M02.Text = "MOD_FIELD_2"
+        P27_M02.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P27_M03
+        ' 
+        P27_M03.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P27_M03.Font = New Font("Bahnschrift", 9.5F)
+        P27_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P27_M03.Location = New Point(542, 61)
+        P27_M03.Name = "P27_M03"
+        P27_M03.Padding = New Padding(10, 0, 5, 0)
+        P27_M03.Size = New Size(550, 48)
+        P27_M03.TabIndex = 85
+        P27_M03.Text = "MOD_FIELD_3"
+        P27_M03.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox67
+        ' 
+        PictureBox67.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox67.BackgroundImage = My.Resources.Resources.ui2_label_TR
+        PictureBox67.Location = New Point(541, 33)
+        PictureBox67.Name = "PictureBox67"
+        PictureBox67.Size = New Size(553, 20)
+        PictureBox67.TabIndex = 84
+        PictureBox67.TabStop = False
+        ' 
+        ' PictureBox68
+        ' 
+        PictureBox68.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox68.BackgroundImage = My.Resources.Resources.ui2_label_TL
+        PictureBox68.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox68.Location = New Point(1, 33)
+        PictureBox68.Name = "PictureBox68"
+        PictureBox68.Size = New Size(539, 20)
+        PictureBox68.TabIndex = 83
+        PictureBox68.TabStop = False
+        ' 
+        ' PictureBox69
+        ' 
+        PictureBox69.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox69.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox69.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox69.BorderStyle = BorderStyle.FixedSingle
+        PictureBox69.Location = New Point(0, 33)
+        PictureBox69.Name = "PictureBox69"
+        PictureBox69.Size = New Size(541, 85)
+        PictureBox69.TabIndex = 77
+        PictureBox69.TabStop = False
+        ' 
+        ' PictureBox70
+        ' 
+        PictureBox70.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox70.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox70.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox70.BorderStyle = BorderStyle.FixedSingle
+        PictureBox70.Location = New Point(538, 33)
+        PictureBox70.Name = "PictureBox70"
+        PictureBox70.Size = New Size(556, 85)
+        PictureBox70.TabIndex = 80
+        PictureBox70.TabStop = False
+        ' 
+        ' P27_M04
+        ' 
+        P27_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        P27_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
+        P27_M04.ForeColor = Color.White
+        P27_M04.Location = New Point(34, 120)
+        P27_M04.Name = "P27_M04"
+        P27_M04.Size = New Size(1048, 23)
+        P27_M04.TabIndex = 109
+        P27_M04.Text = "MOD_FIELD_4"
+        P27_M04.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox71
+        ' 
+        PictureBox71.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        PictureBox71.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox71.BackgroundImageLayout = ImageLayout.Center
+        PictureBox71.BorderStyle = BorderStyle.FixedSingle
+        PictureBox71.Location = New Point(-1, 117)
+        PictureBox71.Name = "PictureBox71"
+        PictureBox71.Size = New Size(1208, 30)
+        PictureBox71.TabIndex = 79
+        PictureBox71.TabStop = False
+        ' 
+        ' PictureBox72
+        ' 
+        PictureBox72.BackColor = Color.Silver
+        PictureBox72.Location = New Point(4, 8)
+        PictureBox72.Name = "PictureBox72"
+        PictureBox72.Size = New Size(1207, 144)
+        PictureBox72.TabIndex = 404
+        PictureBox72.TabStop = False
+        ' 
+        ' P26_CHILD
+        ' 
+        P26_CHILD.Controls.Add(P26_BTC)
+        P26_CHILD.Controls.Add(PictureBox73)
+        P26_CHILD.Controls.Add(P26_M01)
+        P26_CHILD.Controls.Add(P26_S01)
+        P26_CHILD.Controls.Add(PictureBox74)
+        P26_CHILD.Controls.Add(P26_M02)
+        P26_CHILD.Controls.Add(P26_M03)
+        P26_CHILD.Controls.Add(PictureBox75)
+        P26_CHILD.Controls.Add(PictureBox76)
+        P26_CHILD.Controls.Add(PictureBox77)
+        P26_CHILD.Controls.Add(PictureBox78)
+        P26_CHILD.Controls.Add(P26_M04)
+        P26_CHILD.Controls.Add(PictureBox79)
+        P26_CHILD.Controls.Add(PictureBox80)
+        P26_CHILD.Location = New Point(8, 5157)
+        P26_CHILD.Name = "P26_CHILD"
+        P26_CHILD.Size = New Size(1221, 190)
+        P26_CHILD.TabIndex = 428
+        ' 
+        ' P26_BTC
+        ' 
+        P26_BTC.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P26_BTC.BackgroundImage = My.Resources.Resources.button_chrome
+        P26_BTC.Cursor = Cursors.Hand
+        P26_BTC.FlatAppearance.BorderSize = 0
+        P26_BTC.FlatStyle = FlatStyle.Flat
+        P26_BTC.Location = New Point(1112, 41)
+        P26_BTC.Name = "P26_BTC"
+        P26_BTC.Size = New Size(74, 60)
+        P26_BTC.TabIndex = 402
+        P26_BTC.TabStop = False
+        P26_BTC.TextImageRelation = TextImageRelation.ImageAboveText
+        P26_BTC.UseVisualStyleBackColor = False
+        ' 
+        ' PictureBox73
+        ' 
+        PictureBox73.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox73.BackgroundImage = My.Resources.Resources.ui2_chromelink
+        PictureBox73.BackgroundImageLayout = ImageLayout.Center
+        PictureBox73.Location = New Point(1092, 3)
+        PictureBox73.Name = "PictureBox73"
+        PictureBox73.Size = New Size(115, 115)
+        PictureBox73.TabIndex = 81
+        PictureBox73.TabStop = False
+        ' 
+        ' P26_M01
+        ' 
+        P26_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P26_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
+        P26_M01.ForeColor = Color.White
+        P26_M01.Location = New Point(52, 4)
+        P26_M01.Name = "P26_M01"
+        P26_M01.Size = New Size(1007, 28)
+        P26_M01.TabIndex = 401
+        P26_M01.Text = "MOD_FIELD_1"
+        P26_M01.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P26_S01
+        ' 
+        P26_S01.AutoSize = True
+        P26_S01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P26_S01.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        P26_S01.ForeColor = Color.White
+        P26_S01.Location = New Point(5, 9)
+        P26_S01.Name = "P26_S01"
+        P26_S01.Size = New Size(31, 17)
+        P26_S01.TabIndex = 112
+        P26_S01.Text = "#26"
+        ' 
+        ' PictureBox74
+        ' 
+        PictureBox74.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox74.Location = New Point(-5, 3)
+        PictureBox74.Name = "PictureBox74"
+        PictureBox74.Size = New Size(1167, 30)
+        PictureBox74.TabIndex = 78
+        PictureBox74.TabStop = False
+        ' 
+        ' P26_M02
+        ' 
+        P26_M02.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P26_M02.Font = New Font("Bahnschrift", 9.5F, FontStyle.Bold)
+        P26_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P26_M02.Location = New Point(1, 61)
+        P26_M02.Name = "P26_M02"
+        P26_M02.Padding = New Padding(5, 0, 5, 0)
+        P26_M02.Size = New Size(539, 47)
+        P26_M02.TabIndex = 82
+        P26_M02.Text = "MOD_FIELD_2"
+        P26_M02.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P26_M03
+        ' 
+        P26_M03.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P26_M03.Font = New Font("Bahnschrift", 9.5F)
+        P26_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P26_M03.Location = New Point(542, 61)
+        P26_M03.Name = "P26_M03"
+        P26_M03.Padding = New Padding(10, 0, 5, 0)
+        P26_M03.Size = New Size(550, 48)
+        P26_M03.TabIndex = 85
+        P26_M03.Text = "MOD_FIELD_3"
+        P26_M03.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox75
+        ' 
+        PictureBox75.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox75.BackgroundImage = My.Resources.Resources.ui2_label_TR
+        PictureBox75.Location = New Point(541, 33)
+        PictureBox75.Name = "PictureBox75"
+        PictureBox75.Size = New Size(553, 20)
+        PictureBox75.TabIndex = 84
+        PictureBox75.TabStop = False
+        ' 
+        ' PictureBox76
+        ' 
+        PictureBox76.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox76.BackgroundImage = My.Resources.Resources.ui2_label_TL
+        PictureBox76.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox76.Location = New Point(1, 33)
+        PictureBox76.Name = "PictureBox76"
+        PictureBox76.Size = New Size(539, 20)
+        PictureBox76.TabIndex = 83
+        PictureBox76.TabStop = False
+        ' 
+        ' PictureBox77
+        ' 
+        PictureBox77.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox77.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox77.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox77.BorderStyle = BorderStyle.FixedSingle
+        PictureBox77.Location = New Point(0, 33)
+        PictureBox77.Name = "PictureBox77"
+        PictureBox77.Size = New Size(541, 85)
+        PictureBox77.TabIndex = 77
+        PictureBox77.TabStop = False
+        ' 
+        ' PictureBox78
+        ' 
+        PictureBox78.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox78.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox78.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox78.BorderStyle = BorderStyle.FixedSingle
+        PictureBox78.Location = New Point(538, 33)
+        PictureBox78.Name = "PictureBox78"
+        PictureBox78.Size = New Size(556, 85)
+        PictureBox78.TabIndex = 80
+        PictureBox78.TabStop = False
+        ' 
+        ' P26_M04
+        ' 
+        P26_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        P26_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
+        P26_M04.ForeColor = Color.White
+        P26_M04.Location = New Point(34, 120)
+        P26_M04.Name = "P26_M04"
+        P26_M04.Size = New Size(1048, 23)
+        P26_M04.TabIndex = 109
+        P26_M04.Text = "MOD_FIELD_4"
+        P26_M04.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox79
+        ' 
+        PictureBox79.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        PictureBox79.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox79.BackgroundImageLayout = ImageLayout.Center
+        PictureBox79.BorderStyle = BorderStyle.FixedSingle
+        PictureBox79.Location = New Point(-1, 117)
+        PictureBox79.Name = "PictureBox79"
+        PictureBox79.Size = New Size(1208, 30)
+        PictureBox79.TabIndex = 79
+        PictureBox79.TabStop = False
+        ' 
+        ' PictureBox80
+        ' 
+        PictureBox80.BackColor = Color.Silver
+        PictureBox80.Location = New Point(4, 8)
+        PictureBox80.Name = "PictureBox80"
+        PictureBox80.Size = New Size(1207, 144)
+        PictureBox80.TabIndex = 404
+        PictureBox80.TabStop = False
+        ' 
+        ' P25_CHILD
+        ' 
+        P25_CHILD.Controls.Add(P25_BTC)
+        P25_CHILD.Controls.Add(PictureBox81)
+        P25_CHILD.Controls.Add(P25_M01)
+        P25_CHILD.Controls.Add(P25_S01)
+        P25_CHILD.Controls.Add(PictureBox82)
+        P25_CHILD.Controls.Add(P25_M02)
+        P25_CHILD.Controls.Add(P25_M03)
+        P25_CHILD.Controls.Add(PictureBox83)
+        P25_CHILD.Controls.Add(PictureBox84)
+        P25_CHILD.Controls.Add(PictureBox85)
+        P25_CHILD.Controls.Add(PictureBox86)
+        P25_CHILD.Controls.Add(P25_M04)
+        P25_CHILD.Controls.Add(PictureBox87)
+        P25_CHILD.Controls.Add(PictureBox88)
+        P25_CHILD.Location = New Point(8, 4952)
+        P25_CHILD.Name = "P25_CHILD"
+        P25_CHILD.Size = New Size(1221, 190)
+        P25_CHILD.TabIndex = 427
+        ' 
+        ' P25_BTC
+        ' 
+        P25_BTC.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P25_BTC.BackgroundImage = My.Resources.Resources.button_chrome
+        P25_BTC.Cursor = Cursors.Hand
+        P25_BTC.FlatAppearance.BorderSize = 0
+        P25_BTC.FlatStyle = FlatStyle.Flat
+        P25_BTC.Location = New Point(1112, 41)
+        P25_BTC.Name = "P25_BTC"
+        P25_BTC.Size = New Size(74, 60)
+        P25_BTC.TabIndex = 402
+        P25_BTC.TabStop = False
+        P25_BTC.TextImageRelation = TextImageRelation.ImageAboveText
+        P25_BTC.UseVisualStyleBackColor = False
+        ' 
+        ' PictureBox81
+        ' 
+        PictureBox81.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox81.BackgroundImage = My.Resources.Resources.ui2_chromelink
+        PictureBox81.BackgroundImageLayout = ImageLayout.Center
+        PictureBox81.Location = New Point(1092, 3)
+        PictureBox81.Name = "PictureBox81"
+        PictureBox81.Size = New Size(115, 115)
+        PictureBox81.TabIndex = 81
+        PictureBox81.TabStop = False
+        ' 
+        ' P25_M01
+        ' 
+        P25_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P25_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
+        P25_M01.ForeColor = Color.White
+        P25_M01.Location = New Point(52, 4)
+        P25_M01.Name = "P25_M01"
+        P25_M01.Size = New Size(1007, 28)
+        P25_M01.TabIndex = 401
+        P25_M01.Text = "MOD_FIELD_1"
+        P25_M01.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P25_S01
+        ' 
+        P25_S01.AutoSize = True
+        P25_S01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P25_S01.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        P25_S01.ForeColor = Color.White
+        P25_S01.Location = New Point(5, 9)
+        P25_S01.Name = "P25_S01"
+        P25_S01.Size = New Size(32, 17)
+        P25_S01.TabIndex = 112
+        P25_S01.Text = "#25"
+        ' 
+        ' PictureBox82
+        ' 
+        PictureBox82.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox82.Location = New Point(-5, 3)
+        PictureBox82.Name = "PictureBox82"
+        PictureBox82.Size = New Size(1167, 30)
+        PictureBox82.TabIndex = 78
+        PictureBox82.TabStop = False
+        ' 
+        ' P25_M02
+        ' 
+        P25_M02.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P25_M02.Font = New Font("Bahnschrift", 9.5F, FontStyle.Bold)
+        P25_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P25_M02.Location = New Point(1, 61)
+        P25_M02.Name = "P25_M02"
+        P25_M02.Padding = New Padding(5, 0, 5, 0)
+        P25_M02.Size = New Size(539, 47)
+        P25_M02.TabIndex = 82
+        P25_M02.Text = "MOD_FIELD_2"
+        P25_M02.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P25_M03
+        ' 
+        P25_M03.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P25_M03.Font = New Font("Bahnschrift", 9.5F)
+        P25_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P25_M03.Location = New Point(542, 61)
+        P25_M03.Name = "P25_M03"
+        P25_M03.Padding = New Padding(10, 0, 5, 0)
+        P25_M03.Size = New Size(550, 48)
+        P25_M03.TabIndex = 85
+        P25_M03.Text = "MOD_FIELD_3"
+        P25_M03.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox83
+        ' 
+        PictureBox83.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox83.BackgroundImage = My.Resources.Resources.ui2_label_TR
+        PictureBox83.Location = New Point(541, 33)
+        PictureBox83.Name = "PictureBox83"
+        PictureBox83.Size = New Size(553, 20)
+        PictureBox83.TabIndex = 84
+        PictureBox83.TabStop = False
+        ' 
+        ' PictureBox84
+        ' 
+        PictureBox84.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox84.BackgroundImage = My.Resources.Resources.ui2_label_TL
+        PictureBox84.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox84.Location = New Point(1, 33)
+        PictureBox84.Name = "PictureBox84"
+        PictureBox84.Size = New Size(539, 20)
+        PictureBox84.TabIndex = 83
+        PictureBox84.TabStop = False
+        ' 
+        ' PictureBox85
+        ' 
+        PictureBox85.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox85.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox85.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox85.BorderStyle = BorderStyle.FixedSingle
+        PictureBox85.Location = New Point(0, 33)
+        PictureBox85.Name = "PictureBox85"
+        PictureBox85.Size = New Size(541, 85)
+        PictureBox85.TabIndex = 77
+        PictureBox85.TabStop = False
+        ' 
+        ' PictureBox86
+        ' 
+        PictureBox86.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox86.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox86.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox86.BorderStyle = BorderStyle.FixedSingle
+        PictureBox86.Location = New Point(538, 33)
+        PictureBox86.Name = "PictureBox86"
+        PictureBox86.Size = New Size(556, 85)
+        PictureBox86.TabIndex = 80
+        PictureBox86.TabStop = False
+        ' 
+        ' P25_M04
+        ' 
+        P25_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        P25_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
+        P25_M04.ForeColor = Color.White
+        P25_M04.Location = New Point(34, 120)
+        P25_M04.Name = "P25_M04"
+        P25_M04.Size = New Size(1048, 23)
+        P25_M04.TabIndex = 109
+        P25_M04.Text = "MOD_FIELD_4"
+        P25_M04.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox87
+        ' 
+        PictureBox87.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        PictureBox87.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox87.BackgroundImageLayout = ImageLayout.Center
+        PictureBox87.BorderStyle = BorderStyle.FixedSingle
+        PictureBox87.Location = New Point(-1, 117)
+        PictureBox87.Name = "PictureBox87"
+        PictureBox87.Size = New Size(1208, 30)
+        PictureBox87.TabIndex = 79
+        PictureBox87.TabStop = False
+        ' 
+        ' PictureBox88
+        ' 
+        PictureBox88.BackColor = Color.Silver
+        PictureBox88.Location = New Point(4, 8)
+        PictureBox88.Name = "PictureBox88"
+        PictureBox88.Size = New Size(1207, 144)
+        PictureBox88.TabIndex = 404
+        PictureBox88.TabStop = False
+        ' 
+        ' P24_CHILD
+        ' 
+        P24_CHILD.Controls.Add(P24_BTC)
+        P24_CHILD.Controls.Add(PictureBox25)
+        P24_CHILD.Controls.Add(P24_M01)
+        P24_CHILD.Controls.Add(P24_S01)
+        P24_CHILD.Controls.Add(PictureBox26)
+        P24_CHILD.Controls.Add(P24_M02)
+        P24_CHILD.Controls.Add(P24_M03)
+        P24_CHILD.Controls.Add(PictureBox27)
+        P24_CHILD.Controls.Add(PictureBox28)
+        P24_CHILD.Controls.Add(PictureBox29)
+        P24_CHILD.Controls.Add(PictureBox30)
+        P24_CHILD.Controls.Add(P24_M04)
+        P24_CHILD.Controls.Add(PictureBox31)
+        P24_CHILD.Controls.Add(PictureBox32)
+        P24_CHILD.Location = New Point(8, 4748)
+        P24_CHILD.Name = "P24_CHILD"
+        P24_CHILD.Size = New Size(1221, 190)
+        P24_CHILD.TabIndex = 426
+        ' 
+        ' P24_BTC
+        ' 
+        P24_BTC.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P24_BTC.BackgroundImage = My.Resources.Resources.button_chrome
+        P24_BTC.Cursor = Cursors.Hand
+        P24_BTC.FlatAppearance.BorderSize = 0
+        P24_BTC.FlatStyle = FlatStyle.Flat
+        P24_BTC.Location = New Point(1112, 41)
+        P24_BTC.Name = "P24_BTC"
+        P24_BTC.Size = New Size(74, 60)
+        P24_BTC.TabIndex = 402
+        P24_BTC.TabStop = False
+        P24_BTC.TextImageRelation = TextImageRelation.ImageAboveText
+        P24_BTC.UseVisualStyleBackColor = False
+        ' 
+        ' PictureBox25
+        ' 
+        PictureBox25.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox25.BackgroundImage = My.Resources.Resources.ui2_chromelink
+        PictureBox25.BackgroundImageLayout = ImageLayout.Center
+        PictureBox25.Location = New Point(1092, 3)
+        PictureBox25.Name = "PictureBox25"
+        PictureBox25.Size = New Size(115, 115)
+        PictureBox25.TabIndex = 81
+        PictureBox25.TabStop = False
+        ' 
+        ' P24_M01
+        ' 
+        P24_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P24_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
+        P24_M01.ForeColor = Color.White
+        P24_M01.Location = New Point(52, 4)
+        P24_M01.Name = "P24_M01"
+        P24_M01.Size = New Size(1007, 28)
+        P24_M01.TabIndex = 401
+        P24_M01.Text = "MOD_FIELD_1"
+        P24_M01.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P24_S01
+        ' 
+        P24_S01.AutoSize = True
+        P24_S01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P24_S01.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        P24_S01.ForeColor = Color.White
+        P24_S01.Location = New Point(5, 9)
+        P24_S01.Name = "P24_S01"
+        P24_S01.Size = New Size(32, 17)
+        P24_S01.TabIndex = 112
+        P24_S01.Text = "#24"
+        ' 
+        ' PictureBox26
+        ' 
+        PictureBox26.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox26.Location = New Point(-5, 3)
+        PictureBox26.Name = "PictureBox26"
+        PictureBox26.Size = New Size(1167, 30)
+        PictureBox26.TabIndex = 78
+        PictureBox26.TabStop = False
+        ' 
+        ' P24_M02
+        ' 
+        P24_M02.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P24_M02.Font = New Font("Bahnschrift", 9.5F, FontStyle.Bold)
+        P24_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P24_M02.Location = New Point(1, 61)
+        P24_M02.Name = "P24_M02"
+        P24_M02.Padding = New Padding(5, 0, 5, 0)
+        P24_M02.Size = New Size(539, 47)
+        P24_M02.TabIndex = 82
+        P24_M02.Text = "MOD_FIELD_2"
+        P24_M02.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P24_M03
+        ' 
+        P24_M03.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P24_M03.Font = New Font("Bahnschrift", 9.5F)
+        P24_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P24_M03.Location = New Point(542, 61)
+        P24_M03.Name = "P24_M03"
+        P24_M03.Padding = New Padding(10, 0, 5, 0)
+        P24_M03.Size = New Size(550, 48)
+        P24_M03.TabIndex = 85
+        P24_M03.Text = "MOD_FIELD_3"
+        P24_M03.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox27
+        ' 
+        PictureBox27.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox27.BackgroundImage = My.Resources.Resources.ui2_label_TR
+        PictureBox27.Location = New Point(541, 33)
+        PictureBox27.Name = "PictureBox27"
+        PictureBox27.Size = New Size(553, 20)
+        PictureBox27.TabIndex = 84
+        PictureBox27.TabStop = False
+        ' 
+        ' PictureBox28
+        ' 
+        PictureBox28.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox28.BackgroundImage = My.Resources.Resources.ui2_label_TL
+        PictureBox28.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox28.Location = New Point(1, 33)
+        PictureBox28.Name = "PictureBox28"
+        PictureBox28.Size = New Size(539, 20)
+        PictureBox28.TabIndex = 83
+        PictureBox28.TabStop = False
+        ' 
+        ' PictureBox29
+        ' 
+        PictureBox29.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox29.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox29.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox29.BorderStyle = BorderStyle.FixedSingle
+        PictureBox29.Location = New Point(0, 33)
+        PictureBox29.Name = "PictureBox29"
+        PictureBox29.Size = New Size(541, 85)
+        PictureBox29.TabIndex = 77
+        PictureBox29.TabStop = False
+        ' 
+        ' PictureBox30
+        ' 
+        PictureBox30.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox30.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox30.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox30.BorderStyle = BorderStyle.FixedSingle
+        PictureBox30.Location = New Point(538, 33)
+        PictureBox30.Name = "PictureBox30"
+        PictureBox30.Size = New Size(556, 85)
+        PictureBox30.TabIndex = 80
+        PictureBox30.TabStop = False
+        ' 
+        ' P24_M04
+        ' 
+        P24_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        P24_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
+        P24_M04.ForeColor = Color.White
+        P24_M04.Location = New Point(34, 120)
+        P24_M04.Name = "P24_M04"
+        P24_M04.Size = New Size(1048, 23)
+        P24_M04.TabIndex = 109
+        P24_M04.Text = "MOD_FIELD_4"
+        P24_M04.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox31
+        ' 
+        PictureBox31.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        PictureBox31.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox31.BackgroundImageLayout = ImageLayout.Center
+        PictureBox31.BorderStyle = BorderStyle.FixedSingle
+        PictureBox31.Location = New Point(-1, 117)
+        PictureBox31.Name = "PictureBox31"
+        PictureBox31.Size = New Size(1208, 30)
+        PictureBox31.TabIndex = 79
+        PictureBox31.TabStop = False
+        ' 
+        ' PictureBox32
+        ' 
+        PictureBox32.BackColor = Color.Silver
+        PictureBox32.Location = New Point(4, 8)
+        PictureBox32.Name = "PictureBox32"
+        PictureBox32.Size = New Size(1207, 144)
+        PictureBox32.TabIndex = 404
+        PictureBox32.TabStop = False
+        ' 
+        ' P23_CHILD
+        ' 
+        P23_CHILD.Controls.Add(P23_BTC)
+        P23_CHILD.Controls.Add(PictureBox33)
+        P23_CHILD.Controls.Add(P23_M01)
+        P23_CHILD.Controls.Add(P23_S01)
+        P23_CHILD.Controls.Add(PictureBox34)
+        P23_CHILD.Controls.Add(P23_M02)
+        P23_CHILD.Controls.Add(P23_M03)
+        P23_CHILD.Controls.Add(PictureBox35)
+        P23_CHILD.Controls.Add(PictureBox36)
+        P23_CHILD.Controls.Add(PictureBox37)
+        P23_CHILD.Controls.Add(PictureBox38)
+        P23_CHILD.Controls.Add(P23_M04)
+        P23_CHILD.Controls.Add(PictureBox39)
+        P23_CHILD.Controls.Add(PictureBox40)
+        P23_CHILD.Location = New Point(8, 4543)
+        P23_CHILD.Name = "P23_CHILD"
+        P23_CHILD.Size = New Size(1221, 190)
+        P23_CHILD.TabIndex = 425
+        ' 
+        ' P23_BTC
+        ' 
+        P23_BTC.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P23_BTC.BackgroundImage = My.Resources.Resources.button_chrome
+        P23_BTC.Cursor = Cursors.Hand
+        P23_BTC.FlatAppearance.BorderSize = 0
+        P23_BTC.FlatStyle = FlatStyle.Flat
+        P23_BTC.Location = New Point(1112, 41)
+        P23_BTC.Name = "P23_BTC"
+        P23_BTC.Size = New Size(74, 60)
+        P23_BTC.TabIndex = 402
+        P23_BTC.TabStop = False
+        P23_BTC.TextImageRelation = TextImageRelation.ImageAboveText
+        P23_BTC.UseVisualStyleBackColor = False
+        ' 
+        ' PictureBox33
+        ' 
+        PictureBox33.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox33.BackgroundImage = My.Resources.Resources.ui2_chromelink
+        PictureBox33.BackgroundImageLayout = ImageLayout.Center
+        PictureBox33.Location = New Point(1092, 3)
+        PictureBox33.Name = "PictureBox33"
+        PictureBox33.Size = New Size(115, 115)
+        PictureBox33.TabIndex = 81
+        PictureBox33.TabStop = False
+        ' 
+        ' P23_M01
+        ' 
+        P23_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P23_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
+        P23_M01.ForeColor = Color.White
+        P23_M01.Location = New Point(52, 4)
+        P23_M01.Name = "P23_M01"
+        P23_M01.Size = New Size(1007, 28)
+        P23_M01.TabIndex = 401
+        P23_M01.Text = "MOD_FIELD_1"
+        P23_M01.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P23_S01
+        ' 
+        P23_S01.AutoSize = True
+        P23_S01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P23_S01.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        P23_S01.ForeColor = Color.White
+        P23_S01.Location = New Point(5, 9)
+        P23_S01.Name = "P23_S01"
+        P23_S01.Size = New Size(31, 17)
+        P23_S01.TabIndex = 112
+        P23_S01.Text = "#23"
+        ' 
+        ' PictureBox34
+        ' 
+        PictureBox34.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox34.Location = New Point(-5, 3)
+        PictureBox34.Name = "PictureBox34"
+        PictureBox34.Size = New Size(1167, 30)
+        PictureBox34.TabIndex = 78
+        PictureBox34.TabStop = False
+        ' 
+        ' P23_M02
+        ' 
+        P23_M02.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P23_M02.Font = New Font("Bahnschrift", 9.5F, FontStyle.Bold)
+        P23_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P23_M02.Location = New Point(1, 61)
+        P23_M02.Name = "P23_M02"
+        P23_M02.Padding = New Padding(5, 0, 5, 0)
+        P23_M02.Size = New Size(539, 47)
+        P23_M02.TabIndex = 82
+        P23_M02.Text = "MOD_FIELD_2"
+        P23_M02.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P23_M03
+        ' 
+        P23_M03.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P23_M03.Font = New Font("Bahnschrift", 9.5F)
+        P23_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P23_M03.Location = New Point(542, 61)
+        P23_M03.Name = "P23_M03"
+        P23_M03.Padding = New Padding(10, 0, 5, 0)
+        P23_M03.Size = New Size(550, 48)
+        P23_M03.TabIndex = 85
+        P23_M03.Text = "MOD_FIELD_3"
+        P23_M03.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox35
+        ' 
+        PictureBox35.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox35.BackgroundImage = My.Resources.Resources.ui2_label_TR
+        PictureBox35.Location = New Point(541, 33)
+        PictureBox35.Name = "PictureBox35"
+        PictureBox35.Size = New Size(553, 20)
+        PictureBox35.TabIndex = 84
+        PictureBox35.TabStop = False
+        ' 
+        ' PictureBox36
+        ' 
+        PictureBox36.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox36.BackgroundImage = My.Resources.Resources.ui2_label_TL
+        PictureBox36.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox36.Location = New Point(1, 33)
+        PictureBox36.Name = "PictureBox36"
+        PictureBox36.Size = New Size(539, 20)
+        PictureBox36.TabIndex = 83
+        PictureBox36.TabStop = False
+        ' 
+        ' PictureBox37
+        ' 
+        PictureBox37.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox37.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox37.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox37.BorderStyle = BorderStyle.FixedSingle
+        PictureBox37.Location = New Point(0, 33)
+        PictureBox37.Name = "PictureBox37"
+        PictureBox37.Size = New Size(541, 85)
+        PictureBox37.TabIndex = 77
+        PictureBox37.TabStop = False
+        ' 
+        ' PictureBox38
+        ' 
+        PictureBox38.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox38.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox38.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox38.BorderStyle = BorderStyle.FixedSingle
+        PictureBox38.Location = New Point(538, 33)
+        PictureBox38.Name = "PictureBox38"
+        PictureBox38.Size = New Size(556, 85)
+        PictureBox38.TabIndex = 80
+        PictureBox38.TabStop = False
+        ' 
+        ' P23_M04
+        ' 
+        P23_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        P23_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
+        P23_M04.ForeColor = Color.White
+        P23_M04.Location = New Point(34, 120)
+        P23_M04.Name = "P23_M04"
+        P23_M04.Size = New Size(1048, 23)
+        P23_M04.TabIndex = 109
+        P23_M04.Text = "MOD_FIELD_4"
+        P23_M04.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox39
+        ' 
+        PictureBox39.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        PictureBox39.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox39.BackgroundImageLayout = ImageLayout.Center
+        PictureBox39.BorderStyle = BorderStyle.FixedSingle
+        PictureBox39.Location = New Point(-1, 117)
+        PictureBox39.Name = "PictureBox39"
+        PictureBox39.Size = New Size(1208, 30)
+        PictureBox39.TabIndex = 79
+        PictureBox39.TabStop = False
+        ' 
+        ' PictureBox40
+        ' 
+        PictureBox40.BackColor = Color.Silver
+        PictureBox40.Location = New Point(4, 8)
+        PictureBox40.Name = "PictureBox40"
+        PictureBox40.Size = New Size(1207, 144)
+        PictureBox40.TabIndex = 404
+        PictureBox40.TabStop = False
+        ' 
+        ' P22_CHILD
+        ' 
+        P22_CHILD.Controls.Add(P22_BTC)
+        P22_CHILD.Controls.Add(PictureBox6)
+        P22_CHILD.Controls.Add(P22_M01)
+        P22_CHILD.Controls.Add(P22_S01)
+        P22_CHILD.Controls.Add(PictureBox7)
+        P22_CHILD.Controls.Add(P22_M02)
+        P22_CHILD.Controls.Add(P22_M03)
+        P22_CHILD.Controls.Add(PictureBox8)
+        P22_CHILD.Controls.Add(PictureBox9)
+        P22_CHILD.Controls.Add(PictureBox11)
+        P22_CHILD.Controls.Add(PictureBox12)
+        P22_CHILD.Controls.Add(P22_M04)
+        P22_CHILD.Controls.Add(PictureBox13)
+        P22_CHILD.Controls.Add(PictureBox14)
+        P22_CHILD.Location = New Point(8, 4339)
+        P22_CHILD.Name = "P22_CHILD"
+        P22_CHILD.Size = New Size(1221, 190)
+        P22_CHILD.TabIndex = 424
+        ' 
+        ' P22_BTC
+        ' 
+        P22_BTC.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P22_BTC.BackgroundImage = My.Resources.Resources.button_chrome
+        P22_BTC.Cursor = Cursors.Hand
+        P22_BTC.FlatAppearance.BorderSize = 0
+        P22_BTC.FlatStyle = FlatStyle.Flat
+        P22_BTC.Location = New Point(1112, 41)
+        P22_BTC.Name = "P22_BTC"
+        P22_BTC.Size = New Size(74, 60)
+        P22_BTC.TabIndex = 402
+        P22_BTC.TabStop = False
+        P22_BTC.TextImageRelation = TextImageRelation.ImageAboveText
+        P22_BTC.UseVisualStyleBackColor = False
+        ' 
+        ' PictureBox6
+        ' 
+        PictureBox6.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox6.BackgroundImage = My.Resources.Resources.ui2_chromelink
+        PictureBox6.BackgroundImageLayout = ImageLayout.Center
+        PictureBox6.Location = New Point(1092, 3)
+        PictureBox6.Name = "PictureBox6"
+        PictureBox6.Size = New Size(115, 115)
+        PictureBox6.TabIndex = 81
+        PictureBox6.TabStop = False
+        ' 
+        ' P22_M01
+        ' 
+        P22_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P22_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
+        P22_M01.ForeColor = Color.White
+        P22_M01.Location = New Point(52, 4)
+        P22_M01.Name = "P22_M01"
+        P22_M01.Size = New Size(1007, 28)
+        P22_M01.TabIndex = 401
+        P22_M01.Text = "MOD_FIELD_1"
+        P22_M01.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P22_S01
+        ' 
+        P22_S01.AutoSize = True
+        P22_S01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P22_S01.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        P22_S01.ForeColor = Color.White
+        P22_S01.Location = New Point(5, 9)
+        P22_S01.Name = "P22_S01"
+        P22_S01.Size = New Size(31, 17)
+        P22_S01.TabIndex = 112
+        P22_S01.Text = "#22"
+        ' 
+        ' PictureBox7
+        ' 
+        PictureBox7.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox7.Location = New Point(-5, 3)
+        PictureBox7.Name = "PictureBox7"
+        PictureBox7.Size = New Size(1167, 30)
+        PictureBox7.TabIndex = 78
+        PictureBox7.TabStop = False
+        ' 
+        ' P22_M02
+        ' 
+        P22_M02.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P22_M02.Font = New Font("Bahnschrift", 9.5F, FontStyle.Bold)
+        P22_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P22_M02.Location = New Point(1, 61)
+        P22_M02.Name = "P22_M02"
+        P22_M02.Padding = New Padding(5, 0, 5, 0)
+        P22_M02.Size = New Size(539, 47)
+        P22_M02.TabIndex = 82
+        P22_M02.Text = "MOD_FIELD_2"
+        P22_M02.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P22_M03
+        ' 
+        P22_M03.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P22_M03.Font = New Font("Bahnschrift", 9.5F)
+        P22_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P22_M03.Location = New Point(542, 61)
+        P22_M03.Name = "P22_M03"
+        P22_M03.Padding = New Padding(10, 0, 5, 0)
+        P22_M03.Size = New Size(550, 48)
+        P22_M03.TabIndex = 85
+        P22_M03.Text = "MOD_FIELD_3"
+        P22_M03.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox8
+        ' 
+        PictureBox8.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox8.BackgroundImage = My.Resources.Resources.ui2_label_TR
+        PictureBox8.Location = New Point(541, 33)
+        PictureBox8.Name = "PictureBox8"
+        PictureBox8.Size = New Size(553, 20)
+        PictureBox8.TabIndex = 84
+        PictureBox8.TabStop = False
+        ' 
+        ' PictureBox9
+        ' 
+        PictureBox9.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox9.BackgroundImage = My.Resources.Resources.ui2_label_TL
+        PictureBox9.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox9.Location = New Point(1, 33)
+        PictureBox9.Name = "PictureBox9"
+        PictureBox9.Size = New Size(539, 20)
+        PictureBox9.TabIndex = 83
+        PictureBox9.TabStop = False
+        ' 
+        ' PictureBox11
+        ' 
+        PictureBox11.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox11.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox11.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox11.BorderStyle = BorderStyle.FixedSingle
+        PictureBox11.Location = New Point(0, 33)
+        PictureBox11.Name = "PictureBox11"
+        PictureBox11.Size = New Size(541, 85)
+        PictureBox11.TabIndex = 77
+        PictureBox11.TabStop = False
+        ' 
+        ' PictureBox12
+        ' 
+        PictureBox12.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox12.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox12.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox12.BorderStyle = BorderStyle.FixedSingle
+        PictureBox12.Location = New Point(538, 33)
+        PictureBox12.Name = "PictureBox12"
+        PictureBox12.Size = New Size(556, 85)
+        PictureBox12.TabIndex = 80
+        PictureBox12.TabStop = False
+        ' 
+        ' P22_M04
+        ' 
+        P22_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        P22_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
+        P22_M04.ForeColor = Color.White
+        P22_M04.Location = New Point(34, 120)
+        P22_M04.Name = "P22_M04"
+        P22_M04.Size = New Size(1048, 23)
+        P22_M04.TabIndex = 109
+        P22_M04.Text = "MOD_FIELD_4"
+        P22_M04.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox13
+        ' 
+        PictureBox13.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        PictureBox13.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox13.BackgroundImageLayout = ImageLayout.Center
+        PictureBox13.BorderStyle = BorderStyle.FixedSingle
+        PictureBox13.Location = New Point(-1, 117)
+        PictureBox13.Name = "PictureBox13"
+        PictureBox13.Size = New Size(1208, 30)
+        PictureBox13.TabIndex = 79
+        PictureBox13.TabStop = False
+        ' 
+        ' PictureBox14
+        ' 
+        PictureBox14.BackColor = Color.Silver
+        PictureBox14.Location = New Point(4, 8)
+        PictureBox14.Name = "PictureBox14"
+        PictureBox14.Size = New Size(1207, 144)
+        PictureBox14.TabIndex = 404
+        PictureBox14.TabStop = False
+        ' 
+        ' P21_CHILD
+        ' 
+        P21_CHILD.Controls.Add(P21_BTC)
+        P21_CHILD.Controls.Add(PictureBox17)
+        P21_CHILD.Controls.Add(P21_M01)
+        P21_CHILD.Controls.Add(P21_S01)
+        P21_CHILD.Controls.Add(PictureBox18)
+        P21_CHILD.Controls.Add(P21_M02)
+        P21_CHILD.Controls.Add(P21_M03)
+        P21_CHILD.Controls.Add(PictureBox19)
+        P21_CHILD.Controls.Add(PictureBox20)
+        P21_CHILD.Controls.Add(PictureBox21)
+        P21_CHILD.Controls.Add(PictureBox22)
+        P21_CHILD.Controls.Add(P21_M04)
+        P21_CHILD.Controls.Add(PictureBox23)
+        P21_CHILD.Controls.Add(PictureBox24)
+        P21_CHILD.Location = New Point(8, 4134)
+        P21_CHILD.Name = "P21_CHILD"
+        P21_CHILD.Size = New Size(1221, 190)
+        P21_CHILD.TabIndex = 423
+        ' 
+        ' P21_BTC
+        ' 
+        P21_BTC.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P21_BTC.BackgroundImage = My.Resources.Resources.button_chrome
+        P21_BTC.Cursor = Cursors.Hand
+        P21_BTC.FlatAppearance.BorderSize = 0
+        P21_BTC.FlatStyle = FlatStyle.Flat
+        P21_BTC.Location = New Point(1112, 41)
+        P21_BTC.Name = "P21_BTC"
+        P21_BTC.Size = New Size(74, 60)
+        P21_BTC.TabIndex = 402
+        P21_BTC.TabStop = False
+        P21_BTC.TextImageRelation = TextImageRelation.ImageAboveText
+        P21_BTC.UseVisualStyleBackColor = False
+        ' 
+        ' PictureBox17
+        ' 
+        PictureBox17.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox17.BackgroundImage = My.Resources.Resources.ui2_chromelink
+        PictureBox17.BackgroundImageLayout = ImageLayout.Center
+        PictureBox17.Location = New Point(1092, 3)
+        PictureBox17.Name = "PictureBox17"
+        PictureBox17.Size = New Size(115, 115)
+        PictureBox17.TabIndex = 81
+        PictureBox17.TabStop = False
+        ' 
+        ' P21_M01
+        ' 
+        P21_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P21_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
+        P21_M01.ForeColor = Color.White
+        P21_M01.Location = New Point(52, 4)
+        P21_M01.Name = "P21_M01"
+        P21_M01.Size = New Size(1007, 28)
+        P21_M01.TabIndex = 401
+        P21_M01.Text = "MOD_FIELD_1"
+        P21_M01.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P21_S01
+        ' 
+        P21_S01.AutoSize = True
+        P21_S01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P21_S01.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        P21_S01.ForeColor = Color.White
+        P21_S01.Location = New Point(5, 9)
+        P21_S01.Name = "P21_S01"
+        P21_S01.Size = New Size(29, 17)
+        P21_S01.TabIndex = 112
+        P21_S01.Text = "#21"
+        ' 
+        ' PictureBox18
+        ' 
+        PictureBox18.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        PictureBox18.Location = New Point(-5, 3)
+        PictureBox18.Name = "PictureBox18"
+        PictureBox18.Size = New Size(1167, 30)
+        PictureBox18.TabIndex = 78
+        PictureBox18.TabStop = False
+        ' 
+        ' P21_M02
+        ' 
+        P21_M02.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P21_M02.Font = New Font("Bahnschrift", 9.5F, FontStyle.Bold)
+        P21_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P21_M02.Location = New Point(1, 61)
+        P21_M02.Name = "P21_M02"
+        P21_M02.Padding = New Padding(5, 0, 5, 0)
+        P21_M02.Size = New Size(539, 47)
+        P21_M02.TabIndex = 82
+        P21_M02.Text = "MOD_FIELD_2"
+        P21_M02.TextAlign = ContentAlignment.MiddleCenter
+        ' 
+        ' P21_M03
+        ' 
+        P21_M03.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        P21_M03.Font = New Font("Bahnschrift", 9.5F)
+        P21_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
+        P21_M03.Location = New Point(542, 61)
+        P21_M03.Name = "P21_M03"
+        P21_M03.Padding = New Padding(10, 0, 5, 0)
+        P21_M03.Size = New Size(550, 48)
+        P21_M03.TabIndex = 85
+        P21_M03.Text = "MOD_FIELD_3"
+        P21_M03.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox19
+        ' 
+        PictureBox19.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox19.BackgroundImage = My.Resources.Resources.ui2_label_TR
+        PictureBox19.Location = New Point(541, 33)
+        PictureBox19.Name = "PictureBox19"
+        PictureBox19.Size = New Size(553, 20)
+        PictureBox19.TabIndex = 84
+        PictureBox19.TabStop = False
+        ' 
+        ' PictureBox20
+        ' 
+        PictureBox20.BackColor = Color.FromArgb(CByte(150), CByte(150), CByte(150))
+        PictureBox20.BackgroundImage = My.Resources.Resources.ui2_label_TL
+        PictureBox20.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox20.Location = New Point(1, 33)
+        PictureBox20.Name = "PictureBox20"
+        PictureBox20.Size = New Size(539, 20)
+        PictureBox20.TabIndex = 83
+        PictureBox20.TabStop = False
+        ' 
+        ' PictureBox21
+        ' 
+        PictureBox21.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox21.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox21.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox21.BorderStyle = BorderStyle.FixedSingle
+        PictureBox21.Location = New Point(0, 33)
+        PictureBox21.Name = "PictureBox21"
+        PictureBox21.Size = New Size(541, 85)
+        PictureBox21.TabIndex = 77
+        PictureBox21.TabStop = False
+        ' 
+        ' PictureBox22
+        ' 
+        PictureBox22.BackColor = Color.FromArgb(CByte(230), CByte(230), CByte(230))
+        PictureBox22.BackgroundImage = My.Resources.Resources.ui2_mid_section
+        PictureBox22.BackgroundImageLayout = ImageLayout.Stretch
+        PictureBox22.BorderStyle = BorderStyle.FixedSingle
+        PictureBox22.Location = New Point(538, 33)
+        PictureBox22.Name = "PictureBox22"
+        PictureBox22.Size = New Size(556, 85)
+        PictureBox22.TabIndex = 80
+        PictureBox22.TabStop = False
+        ' 
+        ' P21_M04
+        ' 
+        P21_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        P21_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
+        P21_M04.ForeColor = Color.White
+        P21_M04.Location = New Point(34, 120)
+        P21_M04.Name = "P21_M04"
+        P21_M04.Size = New Size(1048, 23)
+        P21_M04.TabIndex = 109
+        P21_M04.Text = "MOD_FIELD_4"
+        P21_M04.TextAlign = ContentAlignment.MiddleLeft
+        ' 
+        ' PictureBox23
+        ' 
+        PictureBox23.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
+        PictureBox23.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox23.BackgroundImageLayout = ImageLayout.Center
+        PictureBox23.BorderStyle = BorderStyle.FixedSingle
+        PictureBox23.Location = New Point(-1, 117)
+        PictureBox23.Name = "PictureBox23"
+        PictureBox23.Size = New Size(1208, 30)
+        PictureBox23.TabIndex = 79
+        PictureBox23.TabStop = False
+        ' 
+        ' PictureBox24
+        ' 
+        PictureBox24.BackColor = Color.Silver
+        PictureBox24.Location = New Point(4, 8)
+        PictureBox24.Name = "PictureBox24"
+        PictureBox24.Size = New Size(1207, 144)
+        PictureBox24.TabIndex = 404
+        PictureBox24.TabStop = False
         ' 
         ' P20_CHILD
         ' 
@@ -737,7 +2827,7 @@ Partial Class Form2
         ' P20_M01
         ' 
         P20_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P20_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P20_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P20_M01.ForeColor = Color.White
         P20_M01.Location = New Point(52, 4)
         P20_M01.Name = "P20_M01"
@@ -774,6 +2864,7 @@ Partial Class Form2
         P20_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P20_M02.Location = New Point(1, 61)
         P20_M02.Name = "P20_M02"
+        P20_M02.Padding = New Padding(5, 0, 5, 0)
         P20_M02.Size = New Size(539, 47)
         P20_M02.TabIndex = 82
         P20_M02.Text = "MOD_FIELD_2"
@@ -786,7 +2877,7 @@ Partial Class Form2
         P20_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P20_M03.Location = New Point(542, 61)
         P20_M03.Name = "P20_M03"
-        P20_M03.Padding = New Padding(10, 0, 0, 0)
+        P20_M03.Padding = New Padding(10, 0, 5, 0)
         P20_M03.Size = New Size(550, 48)
         P20_M03.TabIndex = 85
         P20_M03.Text = "MOD_FIELD_3"
@@ -842,7 +2933,7 @@ Partial Class Form2
         P20_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P20_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P20_M04.ForeColor = Color.White
-        P20_M04.Location = New Point(44, 122)
+        P20_M04.Location = New Point(34, 120)
         P20_M04.Name = "P20_M04"
         P20_M04.Size = New Size(1048, 23)
         P20_M04.TabIndex = 109
@@ -920,7 +3011,7 @@ Partial Class Form2
         ' P19_M01
         ' 
         P19_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P19_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P19_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P19_M01.ForeColor = Color.White
         P19_M01.Location = New Point(52, 4)
         P19_M01.Name = "P19_M01"
@@ -957,6 +3048,7 @@ Partial Class Form2
         P19_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P19_M02.Location = New Point(1, 61)
         P19_M02.Name = "P19_M02"
+        P19_M02.Padding = New Padding(5, 0, 5, 0)
         P19_M02.Size = New Size(539, 47)
         P19_M02.TabIndex = 82
         P19_M02.Text = "MOD_FIELD_2"
@@ -1025,7 +3117,7 @@ Partial Class Form2
         P19_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P19_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P19_M04.ForeColor = Color.White
-        P19_M04.Location = New Point(44, 122)
+        P19_M04.Location = New Point(34, 120)
         P19_M04.Name = "P19_M04"
         P19_M04.Size = New Size(1048, 23)
         P19_M04.TabIndex = 109
@@ -1103,7 +3195,7 @@ Partial Class Form2
         ' P18_M01
         ' 
         P18_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P18_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P18_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P18_M01.ForeColor = Color.White
         P18_M01.Location = New Point(52, 4)
         P18_M01.Name = "P18_M01"
@@ -1140,6 +3232,7 @@ Partial Class Form2
         P18_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P18_M02.Location = New Point(1, 61)
         P18_M02.Name = "P18_M02"
+        P18_M02.Padding = New Padding(5, 0, 5, 0)
         P18_M02.Size = New Size(539, 47)
         P18_M02.TabIndex = 82
         P18_M02.Text = "MOD_FIELD_2"
@@ -1152,7 +3245,7 @@ Partial Class Form2
         P18_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P18_M03.Location = New Point(542, 61)
         P18_M03.Name = "P18_M03"
-        P18_M03.Padding = New Padding(10, 0, 0, 0)
+        P18_M03.Padding = New Padding(10, 0, 5, 0)
         P18_M03.Size = New Size(550, 48)
         P18_M03.TabIndex = 85
         P18_M03.Text = "MOD_FIELD_3"
@@ -1208,7 +3301,7 @@ Partial Class Form2
         P18_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P18_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P18_M04.ForeColor = Color.White
-        P18_M04.Location = New Point(44, 122)
+        P18_M04.Location = New Point(34, 120)
         P18_M04.Name = "P18_M04"
         P18_M04.Size = New Size(1048, 23)
         P18_M04.TabIndex = 109
@@ -1286,7 +3379,7 @@ Partial Class Form2
         ' P17_M01
         ' 
         P17_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P17_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P17_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P17_M01.ForeColor = Color.White
         P17_M01.Location = New Point(52, 4)
         P17_M01.Name = "P17_M01"
@@ -1323,6 +3416,7 @@ Partial Class Form2
         P17_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P17_M02.Location = New Point(1, 61)
         P17_M02.Name = "P17_M02"
+        P17_M02.Padding = New Padding(5, 0, 5, 0)
         P17_M02.Size = New Size(539, 47)
         P17_M02.TabIndex = 82
         P17_M02.Text = "MOD_FIELD_2"
@@ -1335,7 +3429,7 @@ Partial Class Form2
         P17_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P17_M03.Location = New Point(542, 61)
         P17_M03.Name = "P17_M03"
-        P17_M03.Padding = New Padding(10, 0, 0, 0)
+        P17_M03.Padding = New Padding(10, 0, 5, 0)
         P17_M03.Size = New Size(550, 48)
         P17_M03.TabIndex = 85
         P17_M03.Text = "MOD_FIELD_3"
@@ -1391,7 +3485,7 @@ Partial Class Form2
         P17_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P17_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P17_M04.ForeColor = Color.White
-        P17_M04.Location = New Point(44, 122)
+        P17_M04.Location = New Point(34, 120)
         P17_M04.Name = "P17_M04"
         P17_M04.Size = New Size(1048, 23)
         P17_M04.TabIndex = 109
@@ -1469,7 +3563,7 @@ Partial Class Form2
         ' P16_M01
         ' 
         P16_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P16_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P16_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P16_M01.ForeColor = Color.White
         P16_M01.Location = New Point(52, 4)
         P16_M01.Name = "P16_M01"
@@ -1506,6 +3600,7 @@ Partial Class Form2
         P16_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P16_M02.Location = New Point(1, 61)
         P16_M02.Name = "P16_M02"
+        P16_M02.Padding = New Padding(5, 0, 5, 0)
         P16_M02.Size = New Size(539, 47)
         P16_M02.TabIndex = 82
         P16_M02.Text = "MOD_FIELD_2"
@@ -1518,7 +3613,7 @@ Partial Class Form2
         P16_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P16_M03.Location = New Point(542, 61)
         P16_M03.Name = "P16_M03"
-        P16_M03.Padding = New Padding(10, 0, 0, 0)
+        P16_M03.Padding = New Padding(10, 0, 5, 0)
         P16_M03.Size = New Size(550, 48)
         P16_M03.TabIndex = 85
         P16_M03.Text = "MOD_FIELD_3"
@@ -1574,7 +3669,7 @@ Partial Class Form2
         P16_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P16_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P16_M04.ForeColor = Color.White
-        P16_M04.Location = New Point(44, 122)
+        P16_M04.Location = New Point(34, 120)
         P16_M04.Name = "P16_M04"
         P16_M04.Size = New Size(1048, 23)
         P16_M04.TabIndex = 109
@@ -1652,7 +3747,7 @@ Partial Class Form2
         ' P15_M01
         ' 
         P15_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P15_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P15_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P15_M01.ForeColor = Color.White
         P15_M01.Location = New Point(52, 4)
         P15_M01.Name = "P15_M01"
@@ -1689,6 +3784,7 @@ Partial Class Form2
         P15_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P15_M02.Location = New Point(1, 61)
         P15_M02.Name = "P15_M02"
+        P15_M02.Padding = New Padding(5, 0, 5, 0)
         P15_M02.Size = New Size(539, 47)
         P15_M02.TabIndex = 82
         P15_M02.Text = "MOD_FIELD_2"
@@ -1701,7 +3797,7 @@ Partial Class Form2
         P15_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P15_M03.Location = New Point(542, 61)
         P15_M03.Name = "P15_M03"
-        P15_M03.Padding = New Padding(10, 0, 0, 0)
+        P15_M03.Padding = New Padding(10, 0, 5, 0)
         P15_M03.Size = New Size(550, 48)
         P15_M03.TabIndex = 85
         P15_M03.Text = "MOD_FIELD_3"
@@ -1757,7 +3853,7 @@ Partial Class Form2
         P15_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P15_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P15_M04.ForeColor = Color.White
-        P15_M04.Location = New Point(44, 122)
+        P15_M04.Location = New Point(34, 120)
         P15_M04.Name = "P15_M04"
         P15_M04.Size = New Size(1048, 23)
         P15_M04.TabIndex = 109
@@ -1835,7 +3931,7 @@ Partial Class Form2
         ' P14_M01
         ' 
         P14_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P14_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P14_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P14_M01.ForeColor = Color.White
         P14_M01.Location = New Point(52, 4)
         P14_M01.Name = "P14_M01"
@@ -1872,6 +3968,7 @@ Partial Class Form2
         P14_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P14_M02.Location = New Point(1, 61)
         P14_M02.Name = "P14_M02"
+        P14_M02.Padding = New Padding(5, 0, 5, 0)
         P14_M02.Size = New Size(539, 47)
         P14_M02.TabIndex = 82
         P14_M02.Text = "MOD_FIELD_2"
@@ -1884,7 +3981,7 @@ Partial Class Form2
         P14_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P14_M03.Location = New Point(542, 61)
         P14_M03.Name = "P14_M03"
-        P14_M03.Padding = New Padding(10, 0, 0, 0)
+        P14_M03.Padding = New Padding(10, 0, 5, 0)
         P14_M03.Size = New Size(550, 48)
         P14_M03.TabIndex = 85
         P14_M03.Text = "MOD_FIELD_3"
@@ -1940,7 +4037,7 @@ Partial Class Form2
         P14_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P14_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P14_M04.ForeColor = Color.White
-        P14_M04.Location = New Point(44, 122)
+        P14_M04.Location = New Point(34, 120)
         P14_M04.Name = "P14_M04"
         P14_M04.Size = New Size(1048, 23)
         P14_M04.TabIndex = 109
@@ -2018,7 +4115,7 @@ Partial Class Form2
         ' P13_M01
         ' 
         P13_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P13_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P13_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P13_M01.ForeColor = Color.White
         P13_M01.Location = New Point(52, 4)
         P13_M01.Name = "P13_M01"
@@ -2055,6 +4152,7 @@ Partial Class Form2
         P13_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P13_M02.Location = New Point(1, 61)
         P13_M02.Name = "P13_M02"
+        P13_M02.Padding = New Padding(5, 0, 5, 0)
         P13_M02.Size = New Size(539, 47)
         P13_M02.TabIndex = 82
         P13_M02.Text = "MOD_FIELD_2"
@@ -2067,7 +4165,7 @@ Partial Class Form2
         P13_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P13_M03.Location = New Point(542, 61)
         P13_M03.Name = "P13_M03"
-        P13_M03.Padding = New Padding(10, 0, 0, 0)
+        P13_M03.Padding = New Padding(10, 0, 5, 0)
         P13_M03.Size = New Size(550, 48)
         P13_M03.TabIndex = 85
         P13_M03.Text = "MOD_FIELD_3"
@@ -2123,7 +4221,7 @@ Partial Class Form2
         P13_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P13_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P13_M04.ForeColor = Color.White
-        P13_M04.Location = New Point(44, 122)
+        P13_M04.Location = New Point(34, 120)
         P13_M04.Name = "P13_M04"
         P13_M04.Size = New Size(1048, 23)
         P13_M04.TabIndex = 109
@@ -2201,7 +4299,7 @@ Partial Class Form2
         ' P12_M01
         ' 
         P12_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P12_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P12_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P12_M01.ForeColor = Color.White
         P12_M01.Location = New Point(52, 4)
         P12_M01.Name = "P12_M01"
@@ -2238,6 +4336,7 @@ Partial Class Form2
         P12_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P12_M02.Location = New Point(1, 61)
         P12_M02.Name = "P12_M02"
+        P12_M02.Padding = New Padding(5, 0, 5, 0)
         P12_M02.Size = New Size(539, 47)
         P12_M02.TabIndex = 82
         P12_M02.Text = "MOD_FIELD_2"
@@ -2250,7 +4349,7 @@ Partial Class Form2
         P12_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P12_M03.Location = New Point(542, 61)
         P12_M03.Name = "P12_M03"
-        P12_M03.Padding = New Padding(10, 0, 0, 0)
+        P12_M03.Padding = New Padding(10, 0, 5, 0)
         P12_M03.Size = New Size(550, 48)
         P12_M03.TabIndex = 85
         P12_M03.Text = "MOD_FIELD_3"
@@ -2306,7 +4405,7 @@ Partial Class Form2
         P12_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P12_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P12_M04.ForeColor = Color.White
-        P12_M04.Location = New Point(44, 122)
+        P12_M04.Location = New Point(34, 120)
         P12_M04.Name = "P12_M04"
         P12_M04.Size = New Size(1048, 23)
         P12_M04.TabIndex = 109
@@ -2384,7 +4483,7 @@ Partial Class Form2
         ' P11_M01
         ' 
         P11_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P11_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P11_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P11_M01.ForeColor = Color.White
         P11_M01.Location = New Point(52, 4)
         P11_M01.Name = "P11_M01"
@@ -2421,6 +4520,7 @@ Partial Class Form2
         P11_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P11_M02.Location = New Point(1, 61)
         P11_M02.Name = "P11_M02"
+        P11_M02.Padding = New Padding(5, 0, 5, 0)
         P11_M02.Size = New Size(539, 47)
         P11_M02.TabIndex = 82
         P11_M02.Text = "MOD_FIELD_2"
@@ -2433,7 +4533,7 @@ Partial Class Form2
         P11_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P11_M03.Location = New Point(542, 61)
         P11_M03.Name = "P11_M03"
-        P11_M03.Padding = New Padding(10, 0, 0, 0)
+        P11_M03.Padding = New Padding(10, 0, 5, 0)
         P11_M03.Size = New Size(550, 48)
         P11_M03.TabIndex = 85
         P11_M03.Text = "MOD_FIELD_3"
@@ -2489,7 +4589,7 @@ Partial Class Form2
         P11_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P11_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P11_M04.ForeColor = Color.White
-        P11_M04.Location = New Point(44, 122)
+        P11_M04.Location = New Point(34, 120)
         P11_M04.Name = "P11_M04"
         P11_M04.Size = New Size(1048, 23)
         P11_M04.TabIndex = 109
@@ -2567,7 +4667,7 @@ Partial Class Form2
         ' P10_M01
         ' 
         P10_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P10_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P10_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P10_M01.ForeColor = Color.White
         P10_M01.Location = New Point(52, 4)
         P10_M01.Name = "P10_M01"
@@ -2604,6 +4704,7 @@ Partial Class Form2
         P10_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P10_M02.Location = New Point(1, 61)
         P10_M02.Name = "P10_M02"
+        P10_M02.Padding = New Padding(5, 0, 5, 0)
         P10_M02.Size = New Size(539, 47)
         P10_M02.TabIndex = 82
         P10_M02.Text = "MOD_FIELD_2"
@@ -2616,7 +4717,7 @@ Partial Class Form2
         P10_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P10_M03.Location = New Point(542, 61)
         P10_M03.Name = "P10_M03"
-        P10_M03.Padding = New Padding(10, 0, 0, 0)
+        P10_M03.Padding = New Padding(10, 0, 5, 0)
         P10_M03.Size = New Size(550, 48)
         P10_M03.TabIndex = 85
         P10_M03.Text = "MOD_FIELD_3"
@@ -2672,7 +4773,7 @@ Partial Class Form2
         P10_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P10_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P10_M04.ForeColor = Color.White
-        P10_M04.Location = New Point(44, 122)
+        P10_M04.Location = New Point(34, 120)
         P10_M04.Name = "P10_M04"
         P10_M04.Size = New Size(1048, 23)
         P10_M04.TabIndex = 109
@@ -2750,7 +4851,7 @@ Partial Class Form2
         ' P09_M01
         ' 
         P09_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P09_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P09_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P09_M01.ForeColor = Color.White
         P09_M01.Location = New Point(52, 4)
         P09_M01.Name = "P09_M01"
@@ -2787,6 +4888,7 @@ Partial Class Form2
         P09_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P09_M02.Location = New Point(1, 61)
         P09_M02.Name = "P09_M02"
+        P09_M02.Padding = New Padding(5, 0, 5, 0)
         P09_M02.Size = New Size(539, 47)
         P09_M02.TabIndex = 82
         P09_M02.Text = "MOD_FIELD_2"
@@ -2799,7 +4901,7 @@ Partial Class Form2
         P09_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P09_M03.Location = New Point(542, 61)
         P09_M03.Name = "P09_M03"
-        P09_M03.Padding = New Padding(10, 0, 0, 0)
+        P09_M03.Padding = New Padding(10, 0, 5, 0)
         P09_M03.Size = New Size(550, 48)
         P09_M03.TabIndex = 85
         P09_M03.Text = "MOD_FIELD_3"
@@ -2855,7 +4957,7 @@ Partial Class Form2
         P09_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P09_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P09_M04.ForeColor = Color.White
-        P09_M04.Location = New Point(44, 122)
+        P09_M04.Location = New Point(34, 120)
         P09_M04.Name = "P09_M04"
         P09_M04.Size = New Size(1048, 23)
         P09_M04.TabIndex = 109
@@ -2933,7 +5035,7 @@ Partial Class Form2
         ' P08_M01
         ' 
         P08_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P08_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P08_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P08_M01.ForeColor = Color.White
         P08_M01.Location = New Point(52, 4)
         P08_M01.Name = "P08_M01"
@@ -2970,6 +5072,7 @@ Partial Class Form2
         P08_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P08_M02.Location = New Point(1, 61)
         P08_M02.Name = "P08_M02"
+        P08_M02.Padding = New Padding(5, 0, 5, 0)
         P08_M02.Size = New Size(539, 47)
         P08_M02.TabIndex = 82
         P08_M02.Text = "MOD_FIELD_2"
@@ -2982,7 +5085,7 @@ Partial Class Form2
         P08_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P08_M03.Location = New Point(542, 61)
         P08_M03.Name = "P08_M03"
-        P08_M03.Padding = New Padding(10, 0, 0, 0)
+        P08_M03.Padding = New Padding(10, 0, 5, 0)
         P08_M03.Size = New Size(550, 48)
         P08_M03.TabIndex = 85
         P08_M03.Text = "MOD_FIELD_3"
@@ -3038,7 +5141,7 @@ Partial Class Form2
         P08_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P08_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P08_M04.ForeColor = Color.White
-        P08_M04.Location = New Point(44, 122)
+        P08_M04.Location = New Point(34, 120)
         P08_M04.Name = "P08_M04"
         P08_M04.Size = New Size(1048, 23)
         P08_M04.TabIndex = 109
@@ -3116,7 +5219,7 @@ Partial Class Form2
         ' P07_M01
         ' 
         P07_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P07_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P07_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P07_M01.ForeColor = Color.White
         P07_M01.Location = New Point(52, 4)
         P07_M01.Name = "P07_M01"
@@ -3153,6 +5256,7 @@ Partial Class Form2
         P07_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P07_M02.Location = New Point(1, 61)
         P07_M02.Name = "P07_M02"
+        P07_M02.Padding = New Padding(5, 0, 5, 0)
         P07_M02.Size = New Size(539, 47)
         P07_M02.TabIndex = 82
         P07_M02.Text = "MOD_FIELD_2"
@@ -3165,7 +5269,7 @@ Partial Class Form2
         P07_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P07_M03.Location = New Point(542, 61)
         P07_M03.Name = "P07_M03"
-        P07_M03.Padding = New Padding(10, 0, 0, 0)
+        P07_M03.Padding = New Padding(10, 0, 5, 0)
         P07_M03.Size = New Size(550, 48)
         P07_M03.TabIndex = 85
         P07_M03.Text = "MOD_FIELD_3"
@@ -3221,7 +5325,7 @@ Partial Class Form2
         P07_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P07_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P07_M04.ForeColor = Color.White
-        P07_M04.Location = New Point(44, 122)
+        P07_M04.Location = New Point(34, 120)
         P07_M04.Name = "P07_M04"
         P07_M04.Size = New Size(1048, 23)
         P07_M04.TabIndex = 109
@@ -3299,7 +5403,7 @@ Partial Class Form2
         ' P06_M01
         ' 
         P06_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P06_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P06_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P06_M01.ForeColor = Color.White
         P06_M01.Location = New Point(52, 4)
         P06_M01.Name = "P06_M01"
@@ -3336,6 +5440,7 @@ Partial Class Form2
         P06_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P06_M02.Location = New Point(1, 61)
         P06_M02.Name = "P06_M02"
+        P06_M02.Padding = New Padding(5, 0, 5, 0)
         P06_M02.Size = New Size(539, 47)
         P06_M02.TabIndex = 82
         P06_M02.Text = "MOD_FIELD_2"
@@ -3348,7 +5453,7 @@ Partial Class Form2
         P06_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P06_M03.Location = New Point(542, 61)
         P06_M03.Name = "P06_M03"
-        P06_M03.Padding = New Padding(10, 0, 0, 0)
+        P06_M03.Padding = New Padding(10, 0, 5, 0)
         P06_M03.Size = New Size(550, 48)
         P06_M03.TabIndex = 85
         P06_M03.Text = "MOD_FIELD_3"
@@ -3404,7 +5509,7 @@ Partial Class Form2
         P06_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P06_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P06_M04.ForeColor = Color.White
-        P06_M04.Location = New Point(44, 122)
+        P06_M04.Location = New Point(34, 120)
         P06_M04.Name = "P06_M04"
         P06_M04.Size = New Size(1048, 23)
         P06_M04.TabIndex = 109
@@ -3482,7 +5587,7 @@ Partial Class Form2
         ' P05_M01
         ' 
         P05_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P05_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P05_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P05_M01.ForeColor = Color.White
         P05_M01.Location = New Point(52, 4)
         P05_M01.Name = "P05_M01"
@@ -3519,6 +5624,7 @@ Partial Class Form2
         P05_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P05_M02.Location = New Point(1, 61)
         P05_M02.Name = "P05_M02"
+        P05_M02.Padding = New Padding(5, 0, 5, 0)
         P05_M02.Size = New Size(539, 47)
         P05_M02.TabIndex = 82
         P05_M02.Text = "MOD_FIELD_2"
@@ -3531,7 +5637,7 @@ Partial Class Form2
         P05_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P05_M03.Location = New Point(542, 61)
         P05_M03.Name = "P05_M03"
-        P05_M03.Padding = New Padding(10, 0, 0, 0)
+        P05_M03.Padding = New Padding(10, 0, 5, 0)
         P05_M03.Size = New Size(550, 48)
         P05_M03.TabIndex = 85
         P05_M03.Text = "MOD_FIELD_3"
@@ -3587,7 +5693,7 @@ Partial Class Form2
         P05_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P05_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P05_M04.ForeColor = Color.White
-        P05_M04.Location = New Point(44, 122)
+        P05_M04.Location = New Point(34, 120)
         P05_M04.Name = "P05_M04"
         P05_M04.Size = New Size(1048, 23)
         P05_M04.TabIndex = 109
@@ -3665,7 +5771,7 @@ Partial Class Form2
         ' P04_M01
         ' 
         P04_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P04_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P04_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P04_M01.ForeColor = Color.White
         P04_M01.Location = New Point(52, 4)
         P04_M01.Name = "P04_M01"
@@ -3702,6 +5808,7 @@ Partial Class Form2
         P04_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P04_M02.Location = New Point(1, 61)
         P04_M02.Name = "P04_M02"
+        P04_M02.Padding = New Padding(5, 0, 5, 0)
         P04_M02.Size = New Size(539, 47)
         P04_M02.TabIndex = 82
         P04_M02.Text = "MOD_FIELD_2"
@@ -3714,7 +5821,7 @@ Partial Class Form2
         P04_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P04_M03.Location = New Point(542, 61)
         P04_M03.Name = "P04_M03"
-        P04_M03.Padding = New Padding(10, 0, 0, 0)
+        P04_M03.Padding = New Padding(10, 0, 5, 0)
         P04_M03.Size = New Size(550, 48)
         P04_M03.TabIndex = 85
         P04_M03.Text = "MOD_FIELD_3"
@@ -3770,7 +5877,7 @@ Partial Class Form2
         P04_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P04_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P04_M04.ForeColor = Color.White
-        P04_M04.Location = New Point(44, 122)
+        P04_M04.Location = New Point(34, 120)
         P04_M04.Name = "P04_M04"
         P04_M04.Size = New Size(1048, 23)
         P04_M04.TabIndex = 109
@@ -3848,7 +5955,7 @@ Partial Class Form2
         ' P03_M01
         ' 
         P03_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P03_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P03_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P03_M01.ForeColor = Color.White
         P03_M01.Location = New Point(52, 4)
         P03_M01.Name = "P03_M01"
@@ -3885,6 +5992,7 @@ Partial Class Form2
         P03_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P03_M02.Location = New Point(1, 61)
         P03_M02.Name = "P03_M02"
+        P03_M02.Padding = New Padding(5, 0, 5, 0)
         P03_M02.Size = New Size(539, 47)
         P03_M02.TabIndex = 82
         P03_M02.Text = "MOD_FIELD_2"
@@ -3897,7 +6005,7 @@ Partial Class Form2
         P03_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P03_M03.Location = New Point(542, 61)
         P03_M03.Name = "P03_M03"
-        P03_M03.Padding = New Padding(10, 0, 0, 0)
+        P03_M03.Padding = New Padding(10, 0, 5, 0)
         P03_M03.Size = New Size(550, 48)
         P03_M03.TabIndex = 85
         P03_M03.Text = "MOD_FIELD_3"
@@ -3953,7 +6061,7 @@ Partial Class Form2
         P03_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P03_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P03_M04.ForeColor = Color.White
-        P03_M04.Location = New Point(44, 122)
+        P03_M04.Location = New Point(34, 120)
         P03_M04.Name = "P03_M04"
         P03_M04.Size = New Size(1048, 23)
         P03_M04.TabIndex = 109
@@ -4031,7 +6139,7 @@ Partial Class Form2
         ' P02_M01
         ' 
         P02_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P02_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P02_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold)
         P02_M01.ForeColor = Color.White
         P02_M01.Location = New Point(52, 4)
         P02_M01.Name = "P02_M01"
@@ -4068,6 +6176,7 @@ Partial Class Form2
         P02_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P02_M02.Location = New Point(1, 61)
         P02_M02.Name = "P02_M02"
+        P02_M02.Padding = New Padding(5, 0, 5, 0)
         P02_M02.Size = New Size(539, 47)
         P02_M02.TabIndex = 82
         P02_M02.Text = "MOD_FIELD_2"
@@ -4080,7 +6189,7 @@ Partial Class Form2
         P02_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P02_M03.Location = New Point(542, 61)
         P02_M03.Name = "P02_M03"
-        P02_M03.Padding = New Padding(10, 0, 0, 0)
+        P02_M03.Padding = New Padding(10, 0, 5, 0)
         P02_M03.Size = New Size(550, 48)
         P02_M03.TabIndex = 85
         P02_M03.Text = "MOD_FIELD_3"
@@ -4136,7 +6245,7 @@ Partial Class Form2
         P02_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P02_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P02_M04.ForeColor = Color.White
-        P02_M04.Location = New Point(44, 122)
+        P02_M04.Location = New Point(34, 120)
         P02_M04.Name = "P02_M04"
         P02_M04.Size = New Size(1048, 23)
         P02_M04.TabIndex = 109
@@ -4215,7 +6324,7 @@ Partial Class Form2
         ' P01_M01
         ' 
         P01_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        P01_M01.Font = New Font("Bahnschrift", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        P01_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         P01_M01.ForeColor = Color.White
         P01_M01.Location = New Point(52, 4)
         P01_M01.Name = "P01_M01"
@@ -4253,6 +6362,7 @@ Partial Class Form2
         P01_M02.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P01_M02.Location = New Point(1, 61)
         P01_M02.Name = "P01_M02"
+        P01_M02.Padding = New Padding(5, 0, 5, 0)
         P01_M02.Size = New Size(539, 47)
         P01_M02.TabIndex = 82
         P01_M02.Text = "MOD_FIELD_2"
@@ -4265,7 +6375,7 @@ Partial Class Form2
         P01_M03.ForeColor = Color.FromArgb(CByte(15), CByte(15), CByte(15))
         P01_M03.Location = New Point(542, 61)
         P01_M03.Name = "P01_M03"
-        P01_M03.Padding = New Padding(10, 0, 0, 0)
+        P01_M03.Padding = New Padding(10, 0, 5, 0)
         P01_M03.Size = New Size(551, 48)
         P01_M03.TabIndex = 85
         P01_M03.Text = "MOD_FIELD_3"
@@ -4324,11 +6434,11 @@ Partial Class Form2
         P01_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P01_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P01_M04.ForeColor = Color.White
-        P01_M04.Location = New Point(44, 120)
+        P01_M04.Location = New Point(34, 120)
         P01_M04.Name = "P01_M04"
         P01_M04.Size = New Size(1048, 23)
         P01_M04.TabIndex = 109
-        P01_M04.Text = "MOD_FIELD_4"
+        P01_M04.Text = "Team content > Settlement Ops, Treasury, Commissions Reporting > Shared Reports > Settlement Ops- Brandon > (+) Transaction Research"
         P01_M04.TextAlign = ContentAlignment.MiddleLeft
         ' 
         ' P01_S08
@@ -4488,6 +6598,106 @@ Partial Class Form2
         CType(PictureBox10, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox3, ComponentModel.ISupportInitialize).EndInit()
         PANEL_PARENT.ResumeLayout(False)
+        P30_CHILD.ResumeLayout(False)
+        P30_CHILD.PerformLayout()
+        CType(PictureBox41, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox42, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox43, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox44, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox45, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox46, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox47, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox48, ComponentModel.ISupportInitialize).EndInit()
+        P29_CHILD.ResumeLayout(False)
+        P29_CHILD.PerformLayout()
+        CType(PictureBox49, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox50, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox51, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox52, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox53, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox54, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox55, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox56, ComponentModel.ISupportInitialize).EndInit()
+        P28_CHILD.ResumeLayout(False)
+        P28_CHILD.PerformLayout()
+        CType(PictureBox57, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox58, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox59, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox60, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox61, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox62, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox63, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox64, ComponentModel.ISupportInitialize).EndInit()
+        P27_CHILD.ResumeLayout(False)
+        P27_CHILD.PerformLayout()
+        CType(PictureBox65, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox66, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox67, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox68, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox69, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox70, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox71, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox72, ComponentModel.ISupportInitialize).EndInit()
+        P26_CHILD.ResumeLayout(False)
+        P26_CHILD.PerformLayout()
+        CType(PictureBox73, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox74, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox75, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox76, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox77, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox78, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox79, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox80, ComponentModel.ISupportInitialize).EndInit()
+        P25_CHILD.ResumeLayout(False)
+        P25_CHILD.PerformLayout()
+        CType(PictureBox81, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox82, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox83, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox84, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox85, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox86, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox87, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox88, ComponentModel.ISupportInitialize).EndInit()
+        P24_CHILD.ResumeLayout(False)
+        P24_CHILD.PerformLayout()
+        CType(PictureBox25, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox26, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox27, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox28, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox29, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox30, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox31, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox32, ComponentModel.ISupportInitialize).EndInit()
+        P23_CHILD.ResumeLayout(False)
+        P23_CHILD.PerformLayout()
+        CType(PictureBox33, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox34, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox35, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox36, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox37, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox38, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox39, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox40, ComponentModel.ISupportInitialize).EndInit()
+        P22_CHILD.ResumeLayout(False)
+        P22_CHILD.PerformLayout()
+        CType(PictureBox6, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox7, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox8, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox9, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox11, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox12, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox13, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox14, ComponentModel.ISupportInitialize).EndInit()
+        P21_CHILD.ResumeLayout(False)
+        P21_CHILD.PerformLayout()
+        CType(PictureBox17, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox18, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox19, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox20, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox21, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox22, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox23, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox24, ComponentModel.ISupportInitialize).EndInit()
         P20_CHILD.ResumeLayout(False)
         P20_CHILD.PerformLayout()
         CType(P20_S05, ComponentModel.ISupportInitialize).EndInit()
@@ -5019,5 +7229,155 @@ Partial Class Form2
     Friend WithEvents Label19 As Label
     Friend WithEvents PictureBox2 As PictureBox
     Friend WithEvents PictureBox5 As PictureBox
+    Friend WithEvents P24_CHILD As Panel
+    Friend WithEvents P24_BTC As Button
+    Friend WithEvents PictureBox25 As PictureBox
+    Friend WithEvents P24_M01 As Label
+    Friend WithEvents P24_S01 As Label
+    Friend WithEvents PictureBox26 As PictureBox
+    Friend WithEvents P24_M02 As Label
+    Friend WithEvents P24_M03 As Label
+    Friend WithEvents PictureBox27 As PictureBox
+    Friend WithEvents PictureBox28 As PictureBox
+    Friend WithEvents PictureBox29 As PictureBox
+    Friend WithEvents PictureBox30 As PictureBox
+    Friend WithEvents P24_M04 As Label
+    Friend WithEvents PictureBox31 As PictureBox
+    Friend WithEvents PictureBox32 As PictureBox
+    Friend WithEvents P23_CHILD As Panel
+    Friend WithEvents P23_BTC As Button
+    Friend WithEvents PictureBox33 As PictureBox
+    Friend WithEvents P23_M01 As Label
+    Friend WithEvents P23_S01 As Label
+    Friend WithEvents PictureBox34 As PictureBox
+    Friend WithEvents P23_M02 As Label
+    Friend WithEvents P23_M03 As Label
+    Friend WithEvents PictureBox35 As PictureBox
+    Friend WithEvents PictureBox36 As PictureBox
+    Friend WithEvents PictureBox37 As PictureBox
+    Friend WithEvents PictureBox38 As PictureBox
+    Friend WithEvents P23_M04 As Label
+    Friend WithEvents PictureBox39 As PictureBox
+    Friend WithEvents PictureBox40 As PictureBox
+    Friend WithEvents P22_CHILD As Panel
+    Friend WithEvents P22_BTC As Button
+    Friend WithEvents PictureBox6 As PictureBox
+    Friend WithEvents P22_M01 As Label
+    Friend WithEvents P22_S01 As Label
+    Friend WithEvents PictureBox7 As PictureBox
+    Friend WithEvents P22_M02 As Label
+    Friend WithEvents P22_M03 As Label
+    Friend WithEvents PictureBox8 As PictureBox
+    Friend WithEvents PictureBox9 As PictureBox
+    Friend WithEvents PictureBox11 As PictureBox
+    Friend WithEvents PictureBox12 As PictureBox
+    Friend WithEvents P22_M04 As Label
+    Friend WithEvents PictureBox13 As PictureBox
+    Friend WithEvents PictureBox14 As PictureBox
+    Friend WithEvents P21_CHILD As Panel
+    Friend WithEvents P21_BTC As Button
+    Friend WithEvents PictureBox17 As PictureBox
+    Friend WithEvents P21_M01 As Label
+    Friend WithEvents P21_S01 As Label
+    Friend WithEvents PictureBox18 As PictureBox
+    Friend WithEvents P21_M02 As Label
+    Friend WithEvents P21_M03 As Label
+    Friend WithEvents PictureBox19 As PictureBox
+    Friend WithEvents PictureBox20 As PictureBox
+    Friend WithEvents PictureBox21 As PictureBox
+    Friend WithEvents PictureBox22 As PictureBox
+    Friend WithEvents P21_M04 As Label
+    Friend WithEvents PictureBox23 As PictureBox
+    Friend WithEvents PictureBox24 As PictureBox
+    Friend WithEvents P30_CHILD As Panel
+    Friend WithEvents P30_BTC As Button
+    Friend WithEvents PictureBox41 As PictureBox
+    Friend WithEvents P30_M01 As Label
+    Friend WithEvents P30_S01 As Label
+    Friend WithEvents PictureBox42 As PictureBox
+    Friend WithEvents P30_M02 As Label
+    Friend WithEvents P30_M03 As Label
+    Friend WithEvents PictureBox43 As PictureBox
+    Friend WithEvents PictureBox44 As PictureBox
+    Friend WithEvents PictureBox45 As PictureBox
+    Friend WithEvents PictureBox46 As PictureBox
+    Friend WithEvents P30_M04 As Label
+    Friend WithEvents PictureBox47 As PictureBox
+    Friend WithEvents PictureBox48 As PictureBox
+    Friend WithEvents P29_CHILD As Panel
+    Friend WithEvents P29_BTC As Button
+    Friend WithEvents PictureBox49 As PictureBox
+    Friend WithEvents P29_M01 As Label
+    Friend WithEvents P29_S01 As Label
+    Friend WithEvents PictureBox50 As PictureBox
+    Friend WithEvents P29_M02 As Label
+    Friend WithEvents P29_M03 As Label
+    Friend WithEvents PictureBox51 As PictureBox
+    Friend WithEvents PictureBox52 As PictureBox
+    Friend WithEvents PictureBox53 As PictureBox
+    Friend WithEvents PictureBox54 As PictureBox
+    Friend WithEvents P29_M04 As Label
+    Friend WithEvents PictureBox55 As PictureBox
+    Friend WithEvents PictureBox56 As PictureBox
+    Friend WithEvents P28_CHILD As Panel
+    Friend WithEvents P28_BTC As Button
+    Friend WithEvents PictureBox57 As PictureBox
+    Friend WithEvents P28_M01 As Label
+    Friend WithEvents P28_S01 As Label
+    Friend WithEvents PictureBox58 As PictureBox
+    Friend WithEvents P28_M02 As Label
+    Friend WithEvents P28_M03 As Label
+    Friend WithEvents PictureBox59 As PictureBox
+    Friend WithEvents PictureBox60 As PictureBox
+    Friend WithEvents PictureBox61 As PictureBox
+    Friend WithEvents PictureBox62 As PictureBox
+    Friend WithEvents P28_M04 As Label
+    Friend WithEvents PictureBox63 As PictureBox
+    Friend WithEvents PictureBox64 As PictureBox
+    Friend WithEvents P27_CHILD As Panel
+    Friend WithEvents P27_BTC As Button
+    Friend WithEvents PictureBox65 As PictureBox
+    Friend WithEvents P27_M01 As Label
+    Friend WithEvents P27_S01 As Label
+    Friend WithEvents PictureBox66 As PictureBox
+    Friend WithEvents P27_M02 As Label
+    Friend WithEvents P27_M03 As Label
+    Friend WithEvents PictureBox67 As PictureBox
+    Friend WithEvents PictureBox68 As PictureBox
+    Friend WithEvents PictureBox69 As PictureBox
+    Friend WithEvents PictureBox70 As PictureBox
+    Friend WithEvents P27_M04 As Label
+    Friend WithEvents PictureBox71 As PictureBox
+    Friend WithEvents PictureBox72 As PictureBox
+    Friend WithEvents P26_CHILD As Panel
+    Friend WithEvents P26_BTC As Button
+    Friend WithEvents PictureBox73 As PictureBox
+    Friend WithEvents P26_M01 As Label
+    Friend WithEvents P26_S01 As Label
+    Friend WithEvents PictureBox74 As PictureBox
+    Friend WithEvents P26_M02 As Label
+    Friend WithEvents P26_M03 As Label
+    Friend WithEvents PictureBox75 As PictureBox
+    Friend WithEvents PictureBox76 As PictureBox
+    Friend WithEvents PictureBox77 As PictureBox
+    Friend WithEvents PictureBox78 As PictureBox
+    Friend WithEvents P26_M04 As Label
+    Friend WithEvents PictureBox79 As PictureBox
+    Friend WithEvents PictureBox80 As PictureBox
+    Friend WithEvents P25_CHILD As Panel
+    Friend WithEvents P25_BTC As Button
+    Friend WithEvents PictureBox81 As PictureBox
+    Friend WithEvents P25_M01 As Label
+    Friend WithEvents P25_S01 As Label
+    Friend WithEvents PictureBox82 As PictureBox
+    Friend WithEvents P25_M02 As Label
+    Friend WithEvents P25_M03 As Label
+    Friend WithEvents PictureBox83 As PictureBox
+    Friend WithEvents PictureBox84 As PictureBox
+    Friend WithEvents PictureBox85 As PictureBox
+    Friend WithEvents PictureBox86 As PictureBox
+    Friend WithEvents P25_M04 As Label
+    Friend WithEvents PictureBox87 As PictureBox
+    Friend WithEvents PictureBox88 As PictureBox
 
 End Class

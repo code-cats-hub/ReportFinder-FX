@@ -297,9 +297,9 @@ Partial Class Form3
         Label13.ForeColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         Label13.Location = New Point(232, 219)
         Label13.Name = "Label13"
-        Label13.Size = New Size(323, 13)
+        Label13.Size = New Size(315, 13)
         Label13.TabIndex = 159
-        Label13.Text = "A MAPPING FILE ""REPORT CATALOG"" IS REQUIRED TO RUN THE PROGRAM"
+        Label13.Text = "A MAPPING FILE ""REPORT MATRIX"" IS REQUIRED TO RUN THE PROGRAM"
         ' 
         ' Label14
         ' 
@@ -385,7 +385,7 @@ Partial Class Form3
         BT_GPL.Cursor = Cursors.Hand
         BT_GPL.FlatAppearance.BorderSize = 0
         BT_GPL.FlatStyle = FlatStyle.Flat
-        BT_GPL.Location = New Point(551, 333)
+        BT_GPL.Location = New Point(555, 331)
         BT_GPL.Margin = New Padding(0)
         BT_GPL.Name = "BT_GPL"
         BT_GPL.Size = New Size(84, 34)

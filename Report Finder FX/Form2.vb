@@ -67,9 +67,9 @@ Public Class Form2
         Call BTC_PUSH2CHROME("P18")
     End Sub
     Private Sub P19_BTC_Click(sender As Object, e As EventArgs) Handles P19_BTC.Click
-        Call BTC_PUSH2CHROME("P19")
+        BTC_PUSH2CHROME("P19")
     End Sub
     Private Sub P20_BTC_Click(sender As Object, e As EventArgs) Handles P20_BTC.Click
-        Call BTC_PUSH2CHROME("P20")
+        BTC_PUSH2CHROME("P20")
     End Sub
 End Class

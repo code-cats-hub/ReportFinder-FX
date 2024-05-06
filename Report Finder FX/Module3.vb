@@ -190,10 +190,16 @@ Module Module3
                     If TypeOf ctrl2 Is System.Windows.Forms.Label Then
                         Dim rlabel As System.Windows.Forms.Label = ctrl2
                         Select Case Mid(rlabel.Name, 5, 3)
+                            Case "S01"
+                                For i = 1 To dim_RKEY
+                                    If arr_MAP_RES(i, 1) = arr_PASS(CInt(Mid(rlabel.Name, 2, 2))) Then
+                                        rlabel.Text = arr_MAP_RES(i, 1)
+                                    End If
+                                Next
                             Case "M01"
                                 For i = 1 To dim_RKEY
                                     If arr_MAP_RES(i, 1) = arr_PASS(CInt(Mid(rlabel.Name, 2, 2))) Then
-                                        rlabel.Text = arr_MAP_RES(i, 2)
+                                        rlabel.Text = arr_MAP_RES(i, 2).ToUpper
                                     End If
                                 Next
                             Case "M02"
