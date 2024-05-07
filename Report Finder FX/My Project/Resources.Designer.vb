@@ -232,9 +232,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend ReadOnly Property ui2_bottom_bar() As System.Drawing.Bitmap
+        Friend ReadOnly Property ui2_bottom_bar4() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("ui2_bottom_bar", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("ui2_bottom_bar4", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property

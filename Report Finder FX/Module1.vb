@@ -9,6 +9,8 @@ Module Module1
     Public chrome_lock As Boolean = False
     Public browser_error As Boolean = False
     Public browser_error2 As Boolean = False
+    Public msg_displayed As Boolean = False
+    Public msg2_displayed As Boolean = False
 
     Public Sub PAUSE()
         Dim wait As Date
@@ -192,36 +194,6 @@ finish:
         Next
 
     End Sub
-    Public Sub BTC_PUSH2CHROME(panel_nr As String)
-
-        Dim i As Integer
-        Dim name_read As String
-        Dim direct_link As String
-
-        name_read = TryCast(Form2.Controls.Find(panel_nr & "_M01", True).First, Label).Text
-        direct_link = "https://www.google.com/"
-
-        For i = 1 To dim_RKEY
-            If arr_MAP_RES(i, 2) = name_read Then direct_link = arr_MAP_RES(i, 6)
-        Next
-
-        MsgBox("Sending to selected browser >>>", vbOKOnly, "Report Finder FX")
-
-rollback:
-        On Error GoTo error1
-        Process.Start(path_browser, direct_link)
-        GoTo finish
-error1:
-        If browser_error = False Then
-            Call CHROME_FINDER()
-            browser_error = True
-            GoTo rollback
-        Else
-            Dim msg As Integer = MsgBox("Chrome failed. Do you want to try Firefox instead?", vbYesNo, "It's not a good day for Chrome it seems")
-            If msg = vbYes Then Call FIREFOX_FINDER()
-        End If
-finish:
-    End Sub
     Public Sub CHROME_FINDER()
         Dim files As ReadOnlyCollection(Of String)
         Dim xpathx As String
@@ -259,9 +231,18 @@ rundown:
                 .Cursor = Cursors.Default
             End With
             path_browser = path_chrome
+            browser_error = False
             chrome_lock = True
         Else
-            MsgBox("path to chrome no found amigo", vbOKOnly, "Oh no...")
+            With Form4.BT_CROMEFIND
+                .Text = "CHROME NOT FOUND"
+                .BackColor = Color.FromArgb(115, 50, 50)
+                .FlatAppearance.MouseDownBackColor = Color.FromArgb(115, 50, 50)
+                .FlatAppearance.MouseOverBackColor = Color.FromArgb(115, 50, 50)
+                .Cursor = Cursors.Default
+            End With
+            browser_error = True
+            chrome_lock = True
         End If
 finish:
     End Sub
@@ -270,6 +251,7 @@ finish:
         Dim xpathx As String
         xpathx = ""
 
+        If browser_error2 = True Then GoTo finish
         If path_fox <> "" Then GoTo finishdown
 
         On Error GoTo next1
@@ -289,7 +271,11 @@ rundown:
             path_fox = xpathx
             GoTo finishdown
         Else
-            MsgBox("path to fox no found amigo", vbOKOnly, "Oh no...")
+            If msg2_displayed = False Then
+                MsgBox("Firefox Web Browser could not be found", vbOKOnly, "Report Finder FX")
+                msg2_displayed = True
+            End If
+            browser_error2 = True
             GoTo finish
         End If
 finishdown:
@@ -297,6 +283,7 @@ finishdown:
         Form4.BT_FOX_OFF.Visible = False
         Form4.LINK_LABEL_FOX_OFF.Visible = False
         Form4.LOCK_CHROMEFIND.Visible = True
+        browser_error2 = False
 finish:
     End Sub
     Public Sub FIREFOX_REMOVER()
@@ -312,13 +299,57 @@ rollback:
         Process.Start(path_browser, push_lnk)
         GoTo finish
 error1:
-        If browser_error2 = False Then
+        If browser_error = False Then
             Call CHROME_FINDER()
-            browser_error2 = True
             GoTo rollback
         Else
-            Dim msg As Integer = MsgBox("Chrome failed. Do you want to try Firefox instead?", vbYesNo, "It's not a good day for Chrome it seems")
-            If msg = vbYes Then Call FIREFOX_FINDER()
+            If msg_displayed = False Then
+                MsgBox("Chrome Web Browser could not be found" & vbCrLf & "Default browser will be used from now on", vbOKOnly, "Report Finder FX")
+                msg_displayed = True
+            End If
+            Dim WebDefault As New Process
+
+            WebDefault.StartInfo.FileName = push_lnk
+            WebDefault.StartInfo.UseShellExecute = True
+            WebDefault.StartInfo.RedirectStandardOutput = False
+            WebDefault.Start()
+            WebDefault.Dispose()
+        End If
+finish:
+    End Sub
+    Public Sub BTC_PUSH2CHROME(panel_nr As String)
+
+        Dim i As Integer
+        Dim name_read As String
+        Dim direct_link As String
+
+        name_read = TryCast(Form2.Controls.Find(panel_nr & "_M01", True).First, Label).Text
+        direct_link = "https://cognos.gcp.moneygram.com/ibmcognos/bi/"
+
+        For i = 1 To dim_RKEY
+            If arr_MAP_RES(i, 2) = name_read Then direct_link = arr_MAP_RES(i, 6)
+        Next
+
+rollback:
+        On Error GoTo error1
+        Process.Start(path_browser, direct_link)
+        GoTo finish
+error1:
+        If browser_error = False Then
+            Call CHROME_FINDER()
+            GoTo rollback
+        Else
+            If msg_displayed = False Then
+                MsgBox("Chrome Web Browser could not be found" & vbCrLf & "Default browser will be used from now on" & vbCrLf & "You can find Firefox option in [SETUP]>[LINKS PANEL]", vbOKOnly, "Report Finder FX")
+                msg_displayed = True
+            End If
+            Dim WebDefault As New Process
+
+            WebDefault.StartInfo.FileName = direct_link
+            WebDefault.StartInfo.UseShellExecute = True
+            WebDefault.StartInfo.RedirectStandardOutput = False
+            WebDefault.Start()
+            WebDefault.Dispose()
         End If
 finish:
     End Sub

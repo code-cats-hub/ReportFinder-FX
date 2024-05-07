@@ -170,8 +170,8 @@
   <data name="ui1_mid_section2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ui1_mid_section2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ui2_bottom_bar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ui2_bottom_bar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ui2_bottom_bar4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ui2_bottom_bar4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ui2_chromelink" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ui2_chromelink.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

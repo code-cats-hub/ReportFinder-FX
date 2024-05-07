@@ -36,6 +36,7 @@ Partial Class Form2
         PictureBox3 = New PictureBox()
         PANEL_PARENT = New Panel()
         P30_CHILD = New Panel()
+        P30_M05 = New Label()
         P30_BTC = New Button()
         PictureBox41 = New PictureBox()
         P30_M01 = New Label()
@@ -51,6 +52,7 @@ Partial Class Form2
         PictureBox47 = New PictureBox()
         PictureBox48 = New PictureBox()
         P29_CHILD = New Panel()
+        P29_M05 = New Label()
         P29_BTC = New Button()
         PictureBox49 = New PictureBox()
         P29_M01 = New Label()
@@ -66,6 +68,7 @@ Partial Class Form2
         PictureBox55 = New PictureBox()
         PictureBox56 = New PictureBox()
         P28_CHILD = New Panel()
+        P28_M05 = New Label()
         P28_BTC = New Button()
         PictureBox57 = New PictureBox()
         P28_M01 = New Label()
@@ -81,6 +84,7 @@ Partial Class Form2
         PictureBox63 = New PictureBox()
         PictureBox64 = New PictureBox()
         P27_CHILD = New Panel()
+        P27_M05 = New Label()
         P27_BTC = New Button()
         PictureBox65 = New PictureBox()
         P27_M01 = New Label()
@@ -96,6 +100,7 @@ Partial Class Form2
         PictureBox71 = New PictureBox()
         PictureBox72 = New PictureBox()
         P26_CHILD = New Panel()
+        P26_M05 = New Label()
         P26_BTC = New Button()
         PictureBox73 = New PictureBox()
         P26_M01 = New Label()
@@ -111,6 +116,7 @@ Partial Class Form2
         PictureBox79 = New PictureBox()
         PictureBox80 = New PictureBox()
         P25_CHILD = New Panel()
+        P25_M05 = New Label()
         P25_BTC = New Button()
         PictureBox81 = New PictureBox()
         P25_M01 = New Label()
@@ -126,6 +132,7 @@ Partial Class Form2
         PictureBox87 = New PictureBox()
         PictureBox88 = New PictureBox()
         P24_CHILD = New Panel()
+        P24_M05 = New Label()
         P24_BTC = New Button()
         PictureBox25 = New PictureBox()
         P24_M01 = New Label()
@@ -141,6 +148,7 @@ Partial Class Form2
         PictureBox31 = New PictureBox()
         PictureBox32 = New PictureBox()
         P23_CHILD = New Panel()
+        P23_M05 = New Label()
         P23_BTC = New Button()
         PictureBox33 = New PictureBox()
         P23_M01 = New Label()
@@ -156,6 +164,7 @@ Partial Class Form2
         PictureBox39 = New PictureBox()
         PictureBox40 = New PictureBox()
         P22_CHILD = New Panel()
+        P22_M05 = New Label()
         P22_BTC = New Button()
         PictureBox6 = New PictureBox()
         P22_M01 = New Label()
@@ -171,6 +180,7 @@ Partial Class Form2
         PictureBox13 = New PictureBox()
         PictureBox14 = New PictureBox()
         P21_CHILD = New Panel()
+        P21_M05 = New Label()
         P21_BTC = New Button()
         PictureBox17 = New PictureBox()
         P21_M01 = New Label()
@@ -186,6 +196,7 @@ Partial Class Form2
         PictureBox23 = New PictureBox()
         PictureBox24 = New PictureBox()
         P20_CHILD = New Panel()
+        P20_M05 = New Label()
         P20_BTC = New Button()
         P20_S05 = New PictureBox()
         P20_M01 = New Label()
@@ -201,6 +212,7 @@ Partial Class Form2
         P20_S08 = New PictureBox()
         P20_S09 = New PictureBox()
         P19_CHILD = New Panel()
+        P19_M05 = New Label()
         P19_BTC = New Button()
         P19_S05 = New PictureBox()
         P19_M01 = New Label()
@@ -216,6 +228,7 @@ Partial Class Form2
         P19_S08 = New PictureBox()
         P19_S09 = New PictureBox()
         P18_CHILD = New Panel()
+        P18_M05 = New Label()
         P18_BTC = New Button()
         P18_S05 = New PictureBox()
         P18_M01 = New Label()
@@ -231,6 +244,7 @@ Partial Class Form2
         P18_S08 = New PictureBox()
         P18_S09 = New PictureBox()
         P17_CHILD = New Panel()
+        P17_M05 = New Label()
         P17_BTC = New Button()
         P17_S05 = New PictureBox()
         P17_M01 = New Label()
@@ -246,6 +260,7 @@ Partial Class Form2
         P17_S08 = New PictureBox()
         P17_S09 = New PictureBox()
         P16_CHILD = New Panel()
+        P16_M05 = New Label()
         P16_BTC = New Button()
         P16_S05 = New PictureBox()
         P16_M01 = New Label()
@@ -261,6 +276,7 @@ Partial Class Form2
         P16_S08 = New PictureBox()
         P16_S09 = New PictureBox()
         P15_CHILD = New Panel()
+        P15_M05 = New Label()
         P15_BTC = New Button()
         P15_S05 = New PictureBox()
         P15_M01 = New Label()
@@ -276,6 +292,7 @@ Partial Class Form2
         P15_S08 = New PictureBox()
         P15_S09 = New PictureBox()
         P14_CHILD = New Panel()
+        P14_M05 = New Label()
         P14_BTC = New Button()
         P14_S05 = New PictureBox()
         P14_M01 = New Label()
@@ -291,6 +308,7 @@ Partial Class Form2
         P14_S08 = New PictureBox()
         P14_S09 = New PictureBox()
         P13_CHILD = New Panel()
+        P13_M05 = New Label()
         P13_BTC = New Button()
         P13_S05 = New PictureBox()
         P13_M01 = New Label()
@@ -306,6 +324,7 @@ Partial Class Form2
         P13_S08 = New PictureBox()
         P13_S09 = New PictureBox()
         P12_CHILD = New Panel()
+        P12_M05 = New Label()
         P12_BTC = New Button()
         P12_S05 = New PictureBox()
         P12_M01 = New Label()
@@ -321,6 +340,7 @@ Partial Class Form2
         P12_S08 = New PictureBox()
         P12_S09 = New PictureBox()
         P11_CHILD = New Panel()
+        P11_M05 = New Label()
         P11_BTC = New Button()
         P11_S05 = New PictureBox()
         P11_M01 = New Label()
@@ -336,6 +356,7 @@ Partial Class Form2
         P11_S08 = New PictureBox()
         P11_S09 = New PictureBox()
         P10_CHILD = New Panel()
+        P10_M05 = New Label()
         P10_BTC = New Button()
         P10_S05 = New PictureBox()
         P10_M01 = New Label()
@@ -351,6 +372,7 @@ Partial Class Form2
         P10_S08 = New PictureBox()
         P10_S09 = New PictureBox()
         P09_CHILD = New Panel()
+        P09_M05 = New Label()
         P09_BTC = New Button()
         P09_S05 = New PictureBox()
         P09_M01 = New Label()
@@ -366,6 +388,7 @@ Partial Class Form2
         P09_S08 = New PictureBox()
         P09_S09 = New PictureBox()
         P08_CHILD = New Panel()
+        P08_M05 = New Label()
         P08_BTC = New Button()
         P08_S05 = New PictureBox()
         P08_M01 = New Label()
@@ -381,6 +404,7 @@ Partial Class Form2
         P08_S08 = New PictureBox()
         P08_S09 = New PictureBox()
         P07_CHILD = New Panel()
+        P07_M05 = New Label()
         P07_BTC = New Button()
         P07_S05 = New PictureBox()
         P07_M01 = New Label()
@@ -396,6 +420,7 @@ Partial Class Form2
         P07_S08 = New PictureBox()
         P07_S09 = New PictureBox()
         P06_CHILD = New Panel()
+        P06_M05 = New Label()
         P06_BTC = New Button()
         P06_S05 = New PictureBox()
         P06_M01 = New Label()
@@ -411,6 +436,7 @@ Partial Class Form2
         P06_S08 = New PictureBox()
         P06_S09 = New PictureBox()
         P05_CHILD = New Panel()
+        P05_M05 = New Label()
         P05_BTC = New Button()
         P05_S05 = New PictureBox()
         P05_M01 = New Label()
@@ -426,6 +452,7 @@ Partial Class Form2
         P05_S08 = New PictureBox()
         P05_S09 = New PictureBox()
         P04_CHILD = New Panel()
+        P04_M05 = New Label()
         P04_BTC = New Button()
         P04_S05 = New PictureBox()
         P04_M01 = New Label()
@@ -441,6 +468,7 @@ Partial Class Form2
         P04_S08 = New PictureBox()
         P04_S09 = New PictureBox()
         P03_CHILD = New Panel()
+        P03_M05 = New Label()
         P03_BTC = New Button()
         P03_S05 = New PictureBox()
         P03_M01 = New Label()
@@ -456,6 +484,7 @@ Partial Class Form2
         P03_S08 = New PictureBox()
         P03_S09 = New PictureBox()
         P02_CHILD = New Panel()
+        P02_M05 = New Label()
         P02_BTC = New Button()
         P02_S05 = New PictureBox()
         P02_M01 = New Label()
@@ -471,6 +500,7 @@ Partial Class Form2
         P02_S08 = New PictureBox()
         P02_S09 = New PictureBox()
         P01_CHILD = New Panel()
+        P01_M05 = New Label()
         P01_BTC = New Button()
         P01_S05 = New PictureBox()
         P01_M01 = New Label()
@@ -494,6 +524,10 @@ Partial Class Form2
         Label19 = New Label()
         PictureBox2 = New PictureBox()
         PictureBox5 = New PictureBox()
+        PictureBox89 = New PictureBox()
+        PictureBox90 = New PictureBox()
+        PictureBox91 = New PictureBox()
+        PictureBox92 = New PictureBox()
         CType(PictureBox10, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox3, ComponentModel.ISupportInitialize).BeginInit()
         PANEL_PARENT.SuspendLayout()
@@ -773,6 +807,10 @@ Partial Class Form2
         CType(PictureBox16, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox2, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox5, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox89, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox90, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox91, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox92, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' Label1
@@ -860,7 +898,7 @@ Partial Class Form2
         BT_INFO.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_INFO.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_INFO.FlatStyle = FlatStyle.Flat
-        BT_INFO.Font = New Font("Bahnschrift SemiCondensed", 10F, FontStyle.Bold)
+        BT_INFO.Font = New Font("Bahnschrift SemiCondensed", 11F, FontStyle.Bold)
         BT_INFO.ForeColor = Color.FromArgb(CByte(215), CByte(230), CByte(250))
         BT_INFO.Location = New Point(1149, 13)
         BT_INFO.Name = "BT_INFO"
@@ -878,11 +916,11 @@ Partial Class Form2
         BT_SET.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_SET.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_SET.FlatStyle = FlatStyle.Flat
-        BT_SET.Font = New Font("Bahnschrift SemiCondensed", 10F, FontStyle.Bold)
+        BT_SET.Font = New Font("Bahnschrift SemiCondensed", 11F, FontStyle.Bold)
         BT_SET.ForeColor = Color.FromArgb(CByte(215), CByte(230), CByte(250))
         BT_SET.Location = New Point(1203, 13)
         BT_SET.Name = "BT_SET"
-        BT_SET.Size = New Size(52, 40)
+        BT_SET.Size = New Size(60, 40)
         BT_SET.TabIndex = 101
         BT_SET.TabStop = False
         BT_SET.Text = "SETUP"
@@ -932,13 +970,14 @@ Partial Class Form2
         PANEL_PARENT.Controls.Add(P03_CHILD)
         PANEL_PARENT.Controls.Add(P02_CHILD)
         PANEL_PARENT.Controls.Add(P01_CHILD)
-        PANEL_PARENT.Location = New Point(15, 71)
+        PANEL_PARENT.Location = New Point(13, 71)
         PANEL_PARENT.Name = "PANEL_PARENT"
-        PANEL_PARENT.Size = New Size(1249, 630)
+        PANEL_PARENT.Size = New Size(1249, 636)
         PANEL_PARENT.TabIndex = 106
         ' 
         ' P30_CHILD
         ' 
+        P30_CHILD.Controls.Add(P30_M05)
         P30_CHILD.Controls.Add(P30_BTC)
         P30_CHILD.Controls.Add(PictureBox41)
         P30_CHILD.Controls.Add(P30_M01)
@@ -957,6 +996,18 @@ Partial Class Form2
         P30_CHILD.Name = "P30_CHILD"
         P30_CHILD.Size = New Size(1221, 190)
         P30_CHILD.TabIndex = 432
+        ' 
+        ' P30_M05
+        ' 
+        P30_M05.AutoSize = True
+        P30_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P30_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P30_M05.ForeColor = Color.White
+        P30_M05.Location = New Point(33, 11)
+        P30_M05.Name = "P30_M05"
+        P30_M05.Size = New Size(40, 14)
+        P30_M05.TabIndex = 406
+        P30_M05.Text = "- R000"
         ' 
         ' P30_BTC
         ' 
@@ -1093,9 +1144,9 @@ Partial Class Form2
         P30_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P30_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P30_M04.ForeColor = Color.White
-        P30_M04.Location = New Point(34, 120)
+        P30_M04.Location = New Point(47, 120)
         P30_M04.Name = "P30_M04"
-        P30_M04.Size = New Size(1048, 23)
+        P30_M04.Size = New Size(1047, 23)
         P30_M04.TabIndex = 109
         P30_M04.Text = "MOD_FIELD_4"
         P30_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -1103,7 +1154,7 @@ Partial Class Form2
         ' PictureBox47
         ' 
         PictureBox47.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        PictureBox47.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox47.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         PictureBox47.BackgroundImageLayout = ImageLayout.Center
         PictureBox47.BorderStyle = BorderStyle.FixedSingle
         PictureBox47.Location = New Point(-1, 117)
@@ -1123,6 +1174,7 @@ Partial Class Form2
         ' 
         ' P29_CHILD
         ' 
+        P29_CHILD.Controls.Add(P29_M05)
         P29_CHILD.Controls.Add(P29_BTC)
         P29_CHILD.Controls.Add(PictureBox49)
         P29_CHILD.Controls.Add(P29_M01)
@@ -1141,6 +1193,18 @@ Partial Class Form2
         P29_CHILD.Name = "P29_CHILD"
         P29_CHILD.Size = New Size(1221, 190)
         P29_CHILD.TabIndex = 431
+        ' 
+        ' P29_M05
+        ' 
+        P29_M05.AutoSize = True
+        P29_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P29_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P29_M05.ForeColor = Color.White
+        P29_M05.Location = New Point(33, 11)
+        P29_M05.Name = "P29_M05"
+        P29_M05.Size = New Size(40, 14)
+        P29_M05.TabIndex = 406
+        P29_M05.Text = "- R000"
         ' 
         ' P29_BTC
         ' 
@@ -1277,9 +1341,9 @@ Partial Class Form2
         P29_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P29_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P29_M04.ForeColor = Color.White
-        P29_M04.Location = New Point(34, 120)
+        P29_M04.Location = New Point(47, 120)
         P29_M04.Name = "P29_M04"
-        P29_M04.Size = New Size(1048, 23)
+        P29_M04.Size = New Size(1047, 23)
         P29_M04.TabIndex = 109
         P29_M04.Text = "MOD_FIELD_4"
         P29_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -1287,7 +1351,7 @@ Partial Class Form2
         ' PictureBox55
         ' 
         PictureBox55.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        PictureBox55.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox55.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         PictureBox55.BackgroundImageLayout = ImageLayout.Center
         PictureBox55.BorderStyle = BorderStyle.FixedSingle
         PictureBox55.Location = New Point(-1, 117)
@@ -1307,6 +1371,7 @@ Partial Class Form2
         ' 
         ' P28_CHILD
         ' 
+        P28_CHILD.Controls.Add(P28_M05)
         P28_CHILD.Controls.Add(P28_BTC)
         P28_CHILD.Controls.Add(PictureBox57)
         P28_CHILD.Controls.Add(P28_M01)
@@ -1325,6 +1390,18 @@ Partial Class Form2
         P28_CHILD.Name = "P28_CHILD"
         P28_CHILD.Size = New Size(1221, 190)
         P28_CHILD.TabIndex = 430
+        ' 
+        ' P28_M05
+        ' 
+        P28_M05.AutoSize = True
+        P28_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P28_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P28_M05.ForeColor = Color.White
+        P28_M05.Location = New Point(33, 11)
+        P28_M05.Name = "P28_M05"
+        P28_M05.Size = New Size(40, 14)
+        P28_M05.TabIndex = 406
+        P28_M05.Text = "- R000"
         ' 
         ' P28_BTC
         ' 
@@ -1461,9 +1538,9 @@ Partial Class Form2
         P28_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P28_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P28_M04.ForeColor = Color.White
-        P28_M04.Location = New Point(34, 120)
+        P28_M04.Location = New Point(47, 120)
         P28_M04.Name = "P28_M04"
-        P28_M04.Size = New Size(1048, 23)
+        P28_M04.Size = New Size(1047, 23)
         P28_M04.TabIndex = 109
         P28_M04.Text = "MOD_FIELD_4"
         P28_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -1471,7 +1548,7 @@ Partial Class Form2
         ' PictureBox63
         ' 
         PictureBox63.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        PictureBox63.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox63.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         PictureBox63.BackgroundImageLayout = ImageLayout.Center
         PictureBox63.BorderStyle = BorderStyle.FixedSingle
         PictureBox63.Location = New Point(-1, 117)
@@ -1491,6 +1568,7 @@ Partial Class Form2
         ' 
         ' P27_CHILD
         ' 
+        P27_CHILD.Controls.Add(P27_M05)
         P27_CHILD.Controls.Add(P27_BTC)
         P27_CHILD.Controls.Add(PictureBox65)
         P27_CHILD.Controls.Add(P27_M01)
@@ -1509,6 +1587,18 @@ Partial Class Form2
         P27_CHILD.Name = "P27_CHILD"
         P27_CHILD.Size = New Size(1221, 190)
         P27_CHILD.TabIndex = 429
+        ' 
+        ' P27_M05
+        ' 
+        P27_M05.AutoSize = True
+        P27_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P27_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P27_M05.ForeColor = Color.White
+        P27_M05.Location = New Point(33, 11)
+        P27_M05.Name = "P27_M05"
+        P27_M05.Size = New Size(40, 14)
+        P27_M05.TabIndex = 406
+        P27_M05.Text = "- R000"
         ' 
         ' P27_BTC
         ' 
@@ -1645,9 +1735,9 @@ Partial Class Form2
         P27_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P27_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P27_M04.ForeColor = Color.White
-        P27_M04.Location = New Point(34, 120)
+        P27_M04.Location = New Point(47, 120)
         P27_M04.Name = "P27_M04"
-        P27_M04.Size = New Size(1048, 23)
+        P27_M04.Size = New Size(1047, 23)
         P27_M04.TabIndex = 109
         P27_M04.Text = "MOD_FIELD_4"
         P27_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -1655,7 +1745,7 @@ Partial Class Form2
         ' PictureBox71
         ' 
         PictureBox71.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        PictureBox71.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox71.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         PictureBox71.BackgroundImageLayout = ImageLayout.Center
         PictureBox71.BorderStyle = BorderStyle.FixedSingle
         PictureBox71.Location = New Point(-1, 117)
@@ -1675,6 +1765,7 @@ Partial Class Form2
         ' 
         ' P26_CHILD
         ' 
+        P26_CHILD.Controls.Add(P26_M05)
         P26_CHILD.Controls.Add(P26_BTC)
         P26_CHILD.Controls.Add(PictureBox73)
         P26_CHILD.Controls.Add(P26_M01)
@@ -1693,6 +1784,18 @@ Partial Class Form2
         P26_CHILD.Name = "P26_CHILD"
         P26_CHILD.Size = New Size(1221, 190)
         P26_CHILD.TabIndex = 428
+        ' 
+        ' P26_M05
+        ' 
+        P26_M05.AutoSize = True
+        P26_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P26_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P26_M05.ForeColor = Color.White
+        P26_M05.Location = New Point(33, 11)
+        P26_M05.Name = "P26_M05"
+        P26_M05.Size = New Size(40, 14)
+        P26_M05.TabIndex = 406
+        P26_M05.Text = "- R000"
         ' 
         ' P26_BTC
         ' 
@@ -1829,9 +1932,9 @@ Partial Class Form2
         P26_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P26_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P26_M04.ForeColor = Color.White
-        P26_M04.Location = New Point(34, 120)
+        P26_M04.Location = New Point(47, 120)
         P26_M04.Name = "P26_M04"
-        P26_M04.Size = New Size(1048, 23)
+        P26_M04.Size = New Size(1047, 23)
         P26_M04.TabIndex = 109
         P26_M04.Text = "MOD_FIELD_4"
         P26_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -1839,7 +1942,7 @@ Partial Class Form2
         ' PictureBox79
         ' 
         PictureBox79.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        PictureBox79.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox79.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         PictureBox79.BackgroundImageLayout = ImageLayout.Center
         PictureBox79.BorderStyle = BorderStyle.FixedSingle
         PictureBox79.Location = New Point(-1, 117)
@@ -1859,6 +1962,7 @@ Partial Class Form2
         ' 
         ' P25_CHILD
         ' 
+        P25_CHILD.Controls.Add(P25_M05)
         P25_CHILD.Controls.Add(P25_BTC)
         P25_CHILD.Controls.Add(PictureBox81)
         P25_CHILD.Controls.Add(P25_M01)
@@ -1877,6 +1981,18 @@ Partial Class Form2
         P25_CHILD.Name = "P25_CHILD"
         P25_CHILD.Size = New Size(1221, 190)
         P25_CHILD.TabIndex = 427
+        ' 
+        ' P25_M05
+        ' 
+        P25_M05.AutoSize = True
+        P25_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P25_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P25_M05.ForeColor = Color.White
+        P25_M05.Location = New Point(33, 11)
+        P25_M05.Name = "P25_M05"
+        P25_M05.Size = New Size(40, 14)
+        P25_M05.TabIndex = 406
+        P25_M05.Text = "- R000"
         ' 
         ' P25_BTC
         ' 
@@ -2013,9 +2129,9 @@ Partial Class Form2
         P25_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P25_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P25_M04.ForeColor = Color.White
-        P25_M04.Location = New Point(34, 120)
+        P25_M04.Location = New Point(47, 120)
         P25_M04.Name = "P25_M04"
-        P25_M04.Size = New Size(1048, 23)
+        P25_M04.Size = New Size(1047, 23)
         P25_M04.TabIndex = 109
         P25_M04.Text = "MOD_FIELD_4"
         P25_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -2023,7 +2139,7 @@ Partial Class Form2
         ' PictureBox87
         ' 
         PictureBox87.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        PictureBox87.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox87.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         PictureBox87.BackgroundImageLayout = ImageLayout.Center
         PictureBox87.BorderStyle = BorderStyle.FixedSingle
         PictureBox87.Location = New Point(-1, 117)
@@ -2043,6 +2159,7 @@ Partial Class Form2
         ' 
         ' P24_CHILD
         ' 
+        P24_CHILD.Controls.Add(P24_M05)
         P24_CHILD.Controls.Add(P24_BTC)
         P24_CHILD.Controls.Add(PictureBox25)
         P24_CHILD.Controls.Add(P24_M01)
@@ -2061,6 +2178,18 @@ Partial Class Form2
         P24_CHILD.Name = "P24_CHILD"
         P24_CHILD.Size = New Size(1221, 190)
         P24_CHILD.TabIndex = 426
+        ' 
+        ' P24_M05
+        ' 
+        P24_M05.AutoSize = True
+        P24_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P24_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P24_M05.ForeColor = Color.White
+        P24_M05.Location = New Point(33, 11)
+        P24_M05.Name = "P24_M05"
+        P24_M05.Size = New Size(40, 14)
+        P24_M05.TabIndex = 406
+        P24_M05.Text = "- R000"
         ' 
         ' P24_BTC
         ' 
@@ -2197,9 +2326,9 @@ Partial Class Form2
         P24_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P24_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P24_M04.ForeColor = Color.White
-        P24_M04.Location = New Point(34, 120)
+        P24_M04.Location = New Point(47, 120)
         P24_M04.Name = "P24_M04"
-        P24_M04.Size = New Size(1048, 23)
+        P24_M04.Size = New Size(1047, 23)
         P24_M04.TabIndex = 109
         P24_M04.Text = "MOD_FIELD_4"
         P24_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -2207,7 +2336,7 @@ Partial Class Form2
         ' PictureBox31
         ' 
         PictureBox31.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        PictureBox31.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox31.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         PictureBox31.BackgroundImageLayout = ImageLayout.Center
         PictureBox31.BorderStyle = BorderStyle.FixedSingle
         PictureBox31.Location = New Point(-1, 117)
@@ -2227,6 +2356,7 @@ Partial Class Form2
         ' 
         ' P23_CHILD
         ' 
+        P23_CHILD.Controls.Add(P23_M05)
         P23_CHILD.Controls.Add(P23_BTC)
         P23_CHILD.Controls.Add(PictureBox33)
         P23_CHILD.Controls.Add(P23_M01)
@@ -2245,6 +2375,18 @@ Partial Class Form2
         P23_CHILD.Name = "P23_CHILD"
         P23_CHILD.Size = New Size(1221, 190)
         P23_CHILD.TabIndex = 425
+        ' 
+        ' P23_M05
+        ' 
+        P23_M05.AutoSize = True
+        P23_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P23_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P23_M05.ForeColor = Color.White
+        P23_M05.Location = New Point(33, 11)
+        P23_M05.Name = "P23_M05"
+        P23_M05.Size = New Size(40, 14)
+        P23_M05.TabIndex = 406
+        P23_M05.Text = "- R000"
         ' 
         ' P23_BTC
         ' 
@@ -2381,9 +2523,9 @@ Partial Class Form2
         P23_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P23_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P23_M04.ForeColor = Color.White
-        P23_M04.Location = New Point(34, 120)
+        P23_M04.Location = New Point(47, 120)
         P23_M04.Name = "P23_M04"
-        P23_M04.Size = New Size(1048, 23)
+        P23_M04.Size = New Size(1047, 23)
         P23_M04.TabIndex = 109
         P23_M04.Text = "MOD_FIELD_4"
         P23_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -2391,7 +2533,7 @@ Partial Class Form2
         ' PictureBox39
         ' 
         PictureBox39.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        PictureBox39.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox39.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         PictureBox39.BackgroundImageLayout = ImageLayout.Center
         PictureBox39.BorderStyle = BorderStyle.FixedSingle
         PictureBox39.Location = New Point(-1, 117)
@@ -2411,6 +2553,7 @@ Partial Class Form2
         ' 
         ' P22_CHILD
         ' 
+        P22_CHILD.Controls.Add(P22_M05)
         P22_CHILD.Controls.Add(P22_BTC)
         P22_CHILD.Controls.Add(PictureBox6)
         P22_CHILD.Controls.Add(P22_M01)
@@ -2429,6 +2572,18 @@ Partial Class Form2
         P22_CHILD.Name = "P22_CHILD"
         P22_CHILD.Size = New Size(1221, 190)
         P22_CHILD.TabIndex = 424
+        ' 
+        ' P22_M05
+        ' 
+        P22_M05.AutoSize = True
+        P22_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P22_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P22_M05.ForeColor = Color.White
+        P22_M05.Location = New Point(33, 11)
+        P22_M05.Name = "P22_M05"
+        P22_M05.Size = New Size(40, 14)
+        P22_M05.TabIndex = 406
+        P22_M05.Text = "- R000"
         ' 
         ' P22_BTC
         ' 
@@ -2565,9 +2720,9 @@ Partial Class Form2
         P22_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P22_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P22_M04.ForeColor = Color.White
-        P22_M04.Location = New Point(34, 120)
+        P22_M04.Location = New Point(47, 120)
         P22_M04.Name = "P22_M04"
-        P22_M04.Size = New Size(1048, 23)
+        P22_M04.Size = New Size(1047, 23)
         P22_M04.TabIndex = 109
         P22_M04.Text = "MOD_FIELD_4"
         P22_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -2575,7 +2730,7 @@ Partial Class Form2
         ' PictureBox13
         ' 
         PictureBox13.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        PictureBox13.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox13.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         PictureBox13.BackgroundImageLayout = ImageLayout.Center
         PictureBox13.BorderStyle = BorderStyle.FixedSingle
         PictureBox13.Location = New Point(-1, 117)
@@ -2595,6 +2750,7 @@ Partial Class Form2
         ' 
         ' P21_CHILD
         ' 
+        P21_CHILD.Controls.Add(P21_M05)
         P21_CHILD.Controls.Add(P21_BTC)
         P21_CHILD.Controls.Add(PictureBox17)
         P21_CHILD.Controls.Add(P21_M01)
@@ -2613,6 +2769,18 @@ Partial Class Form2
         P21_CHILD.Name = "P21_CHILD"
         P21_CHILD.Size = New Size(1221, 190)
         P21_CHILD.TabIndex = 423
+        ' 
+        ' P21_M05
+        ' 
+        P21_M05.AutoSize = True
+        P21_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P21_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P21_M05.ForeColor = Color.White
+        P21_M05.Location = New Point(33, 11)
+        P21_M05.Name = "P21_M05"
+        P21_M05.Size = New Size(40, 14)
+        P21_M05.TabIndex = 406
+        P21_M05.Text = "- R000"
         ' 
         ' P21_BTC
         ' 
@@ -2749,9 +2917,9 @@ Partial Class Form2
         P21_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P21_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P21_M04.ForeColor = Color.White
-        P21_M04.Location = New Point(34, 120)
+        P21_M04.Location = New Point(47, 120)
         P21_M04.Name = "P21_M04"
-        P21_M04.Size = New Size(1048, 23)
+        P21_M04.Size = New Size(1047, 23)
         P21_M04.TabIndex = 109
         P21_M04.Text = "MOD_FIELD_4"
         P21_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -2759,7 +2927,7 @@ Partial Class Form2
         ' PictureBox23
         ' 
         PictureBox23.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        PictureBox23.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        PictureBox23.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         PictureBox23.BackgroundImageLayout = ImageLayout.Center
         PictureBox23.BorderStyle = BorderStyle.FixedSingle
         PictureBox23.Location = New Point(-1, 117)
@@ -2779,6 +2947,7 @@ Partial Class Form2
         ' 
         ' P20_CHILD
         ' 
+        P20_CHILD.Controls.Add(P20_M05)
         P20_CHILD.Controls.Add(P20_BTC)
         P20_CHILD.Controls.Add(P20_S05)
         P20_CHILD.Controls.Add(P20_M01)
@@ -2797,6 +2966,18 @@ Partial Class Form2
         P20_CHILD.Name = "P20_CHILD"
         P20_CHILD.Size = New Size(1221, 190)
         P20_CHILD.TabIndex = 422
+        ' 
+        ' P20_M05
+        ' 
+        P20_M05.AutoSize = True
+        P20_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P20_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P20_M05.ForeColor = Color.White
+        P20_M05.Location = New Point(33, 11)
+        P20_M05.Name = "P20_M05"
+        P20_M05.Size = New Size(40, 14)
+        P20_M05.TabIndex = 406
+        P20_M05.Text = "- R000"
         ' 
         ' P20_BTC
         ' 
@@ -2933,9 +3114,9 @@ Partial Class Form2
         P20_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P20_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P20_M04.ForeColor = Color.White
-        P20_M04.Location = New Point(34, 120)
+        P20_M04.Location = New Point(47, 120)
         P20_M04.Name = "P20_M04"
-        P20_M04.Size = New Size(1048, 23)
+        P20_M04.Size = New Size(1047, 23)
         P20_M04.TabIndex = 109
         P20_M04.Text = "MOD_FIELD_4"
         P20_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -2943,7 +3124,7 @@ Partial Class Form2
         ' P20_S08
         ' 
         P20_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P20_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P20_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P20_S08.BackgroundImageLayout = ImageLayout.Center
         P20_S08.BorderStyle = BorderStyle.FixedSingle
         P20_S08.Location = New Point(-1, 117)
@@ -2963,6 +3144,7 @@ Partial Class Form2
         ' 
         ' P19_CHILD
         ' 
+        P19_CHILD.Controls.Add(P19_M05)
         P19_CHILD.Controls.Add(P19_BTC)
         P19_CHILD.Controls.Add(P19_S05)
         P19_CHILD.Controls.Add(P19_M01)
@@ -2981,6 +3163,18 @@ Partial Class Form2
         P19_CHILD.Name = "P19_CHILD"
         P19_CHILD.Size = New Size(1221, 190)
         P19_CHILD.TabIndex = 421
+        ' 
+        ' P19_M05
+        ' 
+        P19_M05.AutoSize = True
+        P19_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P19_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P19_M05.ForeColor = Color.White
+        P19_M05.Location = New Point(33, 11)
+        P19_M05.Name = "P19_M05"
+        P19_M05.Size = New Size(40, 14)
+        P19_M05.TabIndex = 406
+        P19_M05.Text = "- R000"
         ' 
         ' P19_BTC
         ' 
@@ -3117,9 +3311,9 @@ Partial Class Form2
         P19_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P19_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P19_M04.ForeColor = Color.White
-        P19_M04.Location = New Point(34, 120)
+        P19_M04.Location = New Point(47, 120)
         P19_M04.Name = "P19_M04"
-        P19_M04.Size = New Size(1048, 23)
+        P19_M04.Size = New Size(1047, 23)
         P19_M04.TabIndex = 109
         P19_M04.Text = "MOD_FIELD_4"
         P19_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -3127,7 +3321,7 @@ Partial Class Form2
         ' P19_S08
         ' 
         P19_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P19_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P19_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P19_S08.BackgroundImageLayout = ImageLayout.Center
         P19_S08.BorderStyle = BorderStyle.FixedSingle
         P19_S08.Location = New Point(-1, 117)
@@ -3147,6 +3341,7 @@ Partial Class Form2
         ' 
         ' P18_CHILD
         ' 
+        P18_CHILD.Controls.Add(P18_M05)
         P18_CHILD.Controls.Add(P18_BTC)
         P18_CHILD.Controls.Add(P18_S05)
         P18_CHILD.Controls.Add(P18_M01)
@@ -3165,6 +3360,18 @@ Partial Class Form2
         P18_CHILD.Name = "P18_CHILD"
         P18_CHILD.Size = New Size(1221, 190)
         P18_CHILD.TabIndex = 420
+        ' 
+        ' P18_M05
+        ' 
+        P18_M05.AutoSize = True
+        P18_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P18_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P18_M05.ForeColor = Color.White
+        P18_M05.Location = New Point(33, 11)
+        P18_M05.Name = "P18_M05"
+        P18_M05.Size = New Size(40, 14)
+        P18_M05.TabIndex = 406
+        P18_M05.Text = "- R000"
         ' 
         ' P18_BTC
         ' 
@@ -3301,9 +3508,9 @@ Partial Class Form2
         P18_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P18_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P18_M04.ForeColor = Color.White
-        P18_M04.Location = New Point(34, 120)
+        P18_M04.Location = New Point(47, 120)
         P18_M04.Name = "P18_M04"
-        P18_M04.Size = New Size(1048, 23)
+        P18_M04.Size = New Size(1047, 23)
         P18_M04.TabIndex = 109
         P18_M04.Text = "MOD_FIELD_4"
         P18_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -3311,7 +3518,7 @@ Partial Class Form2
         ' P18_S08
         ' 
         P18_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P18_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P18_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P18_S08.BackgroundImageLayout = ImageLayout.Center
         P18_S08.BorderStyle = BorderStyle.FixedSingle
         P18_S08.Location = New Point(-1, 117)
@@ -3331,6 +3538,7 @@ Partial Class Form2
         ' 
         ' P17_CHILD
         ' 
+        P17_CHILD.Controls.Add(P17_M05)
         P17_CHILD.Controls.Add(P17_BTC)
         P17_CHILD.Controls.Add(P17_S05)
         P17_CHILD.Controls.Add(P17_M01)
@@ -3349,6 +3557,18 @@ Partial Class Form2
         P17_CHILD.Name = "P17_CHILD"
         P17_CHILD.Size = New Size(1221, 190)
         P17_CHILD.TabIndex = 419
+        ' 
+        ' P17_M05
+        ' 
+        P17_M05.AutoSize = True
+        P17_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P17_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P17_M05.ForeColor = Color.White
+        P17_M05.Location = New Point(33, 11)
+        P17_M05.Name = "P17_M05"
+        P17_M05.Size = New Size(40, 14)
+        P17_M05.TabIndex = 406
+        P17_M05.Text = "- R000"
         ' 
         ' P17_BTC
         ' 
@@ -3485,9 +3705,9 @@ Partial Class Form2
         P17_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P17_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P17_M04.ForeColor = Color.White
-        P17_M04.Location = New Point(34, 120)
+        P17_M04.Location = New Point(47, 120)
         P17_M04.Name = "P17_M04"
-        P17_M04.Size = New Size(1048, 23)
+        P17_M04.Size = New Size(1047, 23)
         P17_M04.TabIndex = 109
         P17_M04.Text = "MOD_FIELD_4"
         P17_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -3495,7 +3715,7 @@ Partial Class Form2
         ' P17_S08
         ' 
         P17_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P17_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P17_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P17_S08.BackgroundImageLayout = ImageLayout.Center
         P17_S08.BorderStyle = BorderStyle.FixedSingle
         P17_S08.Location = New Point(-1, 117)
@@ -3515,6 +3735,7 @@ Partial Class Form2
         ' 
         ' P16_CHILD
         ' 
+        P16_CHILD.Controls.Add(P16_M05)
         P16_CHILD.Controls.Add(P16_BTC)
         P16_CHILD.Controls.Add(P16_S05)
         P16_CHILD.Controls.Add(P16_M01)
@@ -3533,6 +3754,18 @@ Partial Class Form2
         P16_CHILD.Name = "P16_CHILD"
         P16_CHILD.Size = New Size(1221, 190)
         P16_CHILD.TabIndex = 418
+        ' 
+        ' P16_M05
+        ' 
+        P16_M05.AutoSize = True
+        P16_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P16_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P16_M05.ForeColor = Color.White
+        P16_M05.Location = New Point(33, 11)
+        P16_M05.Name = "P16_M05"
+        P16_M05.Size = New Size(40, 14)
+        P16_M05.TabIndex = 406
+        P16_M05.Text = "- R000"
         ' 
         ' P16_BTC
         ' 
@@ -3669,9 +3902,9 @@ Partial Class Form2
         P16_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P16_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P16_M04.ForeColor = Color.White
-        P16_M04.Location = New Point(34, 120)
+        P16_M04.Location = New Point(47, 120)
         P16_M04.Name = "P16_M04"
-        P16_M04.Size = New Size(1048, 23)
+        P16_M04.Size = New Size(1047, 23)
         P16_M04.TabIndex = 109
         P16_M04.Text = "MOD_FIELD_4"
         P16_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -3679,7 +3912,7 @@ Partial Class Form2
         ' P16_S08
         ' 
         P16_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P16_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P16_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P16_S08.BackgroundImageLayout = ImageLayout.Center
         P16_S08.BorderStyle = BorderStyle.FixedSingle
         P16_S08.Location = New Point(-1, 117)
@@ -3699,6 +3932,7 @@ Partial Class Form2
         ' 
         ' P15_CHILD
         ' 
+        P15_CHILD.Controls.Add(P15_M05)
         P15_CHILD.Controls.Add(P15_BTC)
         P15_CHILD.Controls.Add(P15_S05)
         P15_CHILD.Controls.Add(P15_M01)
@@ -3717,6 +3951,18 @@ Partial Class Form2
         P15_CHILD.Name = "P15_CHILD"
         P15_CHILD.Size = New Size(1221, 190)
         P15_CHILD.TabIndex = 417
+        ' 
+        ' P15_M05
+        ' 
+        P15_M05.AutoSize = True
+        P15_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P15_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P15_M05.ForeColor = Color.White
+        P15_M05.Location = New Point(33, 11)
+        P15_M05.Name = "P15_M05"
+        P15_M05.Size = New Size(40, 14)
+        P15_M05.TabIndex = 405
+        P15_M05.Text = "- R000"
         ' 
         ' P15_BTC
         ' 
@@ -3853,9 +4099,9 @@ Partial Class Form2
         P15_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P15_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P15_M04.ForeColor = Color.White
-        P15_M04.Location = New Point(34, 120)
+        P15_M04.Location = New Point(47, 120)
         P15_M04.Name = "P15_M04"
-        P15_M04.Size = New Size(1048, 23)
+        P15_M04.Size = New Size(1047, 23)
         P15_M04.TabIndex = 109
         P15_M04.Text = "MOD_FIELD_4"
         P15_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -3863,7 +4109,7 @@ Partial Class Form2
         ' P15_S08
         ' 
         P15_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P15_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P15_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P15_S08.BackgroundImageLayout = ImageLayout.Center
         P15_S08.BorderStyle = BorderStyle.FixedSingle
         P15_S08.Location = New Point(-1, 117)
@@ -3883,6 +4129,7 @@ Partial Class Form2
         ' 
         ' P14_CHILD
         ' 
+        P14_CHILD.Controls.Add(P14_M05)
         P14_CHILD.Controls.Add(P14_BTC)
         P14_CHILD.Controls.Add(P14_S05)
         P14_CHILD.Controls.Add(P14_M01)
@@ -3901,6 +4148,18 @@ Partial Class Form2
         P14_CHILD.Name = "P14_CHILD"
         P14_CHILD.Size = New Size(1221, 190)
         P14_CHILD.TabIndex = 416
+        ' 
+        ' P14_M05
+        ' 
+        P14_M05.AutoSize = True
+        P14_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P14_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P14_M05.ForeColor = Color.White
+        P14_M05.Location = New Point(33, 11)
+        P14_M05.Name = "P14_M05"
+        P14_M05.Size = New Size(40, 14)
+        P14_M05.TabIndex = 405
+        P14_M05.Text = "- R000"
         ' 
         ' P14_BTC
         ' 
@@ -4037,9 +4296,9 @@ Partial Class Form2
         P14_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P14_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P14_M04.ForeColor = Color.White
-        P14_M04.Location = New Point(34, 120)
+        P14_M04.Location = New Point(47, 120)
         P14_M04.Name = "P14_M04"
-        P14_M04.Size = New Size(1048, 23)
+        P14_M04.Size = New Size(1047, 23)
         P14_M04.TabIndex = 109
         P14_M04.Text = "MOD_FIELD_4"
         P14_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -4047,7 +4306,7 @@ Partial Class Form2
         ' P14_S08
         ' 
         P14_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P14_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P14_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P14_S08.BackgroundImageLayout = ImageLayout.Center
         P14_S08.BorderStyle = BorderStyle.FixedSingle
         P14_S08.Location = New Point(-1, 117)
@@ -4067,6 +4326,7 @@ Partial Class Form2
         ' 
         ' P13_CHILD
         ' 
+        P13_CHILD.Controls.Add(P13_M05)
         P13_CHILD.Controls.Add(P13_BTC)
         P13_CHILD.Controls.Add(P13_S05)
         P13_CHILD.Controls.Add(P13_M01)
@@ -4085,6 +4345,18 @@ Partial Class Form2
         P13_CHILD.Name = "P13_CHILD"
         P13_CHILD.Size = New Size(1221, 190)
         P13_CHILD.TabIndex = 415
+        ' 
+        ' P13_M05
+        ' 
+        P13_M05.AutoSize = True
+        P13_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P13_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P13_M05.ForeColor = Color.White
+        P13_M05.Location = New Point(33, 11)
+        P13_M05.Name = "P13_M05"
+        P13_M05.Size = New Size(40, 14)
+        P13_M05.TabIndex = 405
+        P13_M05.Text = "- R000"
         ' 
         ' P13_BTC
         ' 
@@ -4221,9 +4493,9 @@ Partial Class Form2
         P13_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P13_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P13_M04.ForeColor = Color.White
-        P13_M04.Location = New Point(34, 120)
+        P13_M04.Location = New Point(47, 120)
         P13_M04.Name = "P13_M04"
-        P13_M04.Size = New Size(1048, 23)
+        P13_M04.Size = New Size(1047, 23)
         P13_M04.TabIndex = 109
         P13_M04.Text = "MOD_FIELD_4"
         P13_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -4231,7 +4503,7 @@ Partial Class Form2
         ' P13_S08
         ' 
         P13_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P13_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P13_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P13_S08.BackgroundImageLayout = ImageLayout.Center
         P13_S08.BorderStyle = BorderStyle.FixedSingle
         P13_S08.Location = New Point(-1, 117)
@@ -4251,6 +4523,7 @@ Partial Class Form2
         ' 
         ' P12_CHILD
         ' 
+        P12_CHILD.Controls.Add(P12_M05)
         P12_CHILD.Controls.Add(P12_BTC)
         P12_CHILD.Controls.Add(P12_S05)
         P12_CHILD.Controls.Add(P12_M01)
@@ -4269,6 +4542,18 @@ Partial Class Form2
         P12_CHILD.Name = "P12_CHILD"
         P12_CHILD.Size = New Size(1221, 190)
         P12_CHILD.TabIndex = 414
+        ' 
+        ' P12_M05
+        ' 
+        P12_M05.AutoSize = True
+        P12_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P12_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P12_M05.ForeColor = Color.White
+        P12_M05.Location = New Point(33, 11)
+        P12_M05.Name = "P12_M05"
+        P12_M05.Size = New Size(40, 14)
+        P12_M05.TabIndex = 405
+        P12_M05.Text = "- R000"
         ' 
         ' P12_BTC
         ' 
@@ -4405,9 +4690,9 @@ Partial Class Form2
         P12_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P12_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P12_M04.ForeColor = Color.White
-        P12_M04.Location = New Point(34, 120)
+        P12_M04.Location = New Point(47, 120)
         P12_M04.Name = "P12_M04"
-        P12_M04.Size = New Size(1048, 23)
+        P12_M04.Size = New Size(1047, 23)
         P12_M04.TabIndex = 109
         P12_M04.Text = "MOD_FIELD_4"
         P12_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -4415,7 +4700,7 @@ Partial Class Form2
         ' P12_S08
         ' 
         P12_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P12_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P12_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P12_S08.BackgroundImageLayout = ImageLayout.Center
         P12_S08.BorderStyle = BorderStyle.FixedSingle
         P12_S08.Location = New Point(-1, 117)
@@ -4435,6 +4720,7 @@ Partial Class Form2
         ' 
         ' P11_CHILD
         ' 
+        P11_CHILD.Controls.Add(P11_M05)
         P11_CHILD.Controls.Add(P11_BTC)
         P11_CHILD.Controls.Add(P11_S05)
         P11_CHILD.Controls.Add(P11_M01)
@@ -4453,6 +4739,18 @@ Partial Class Form2
         P11_CHILD.Name = "P11_CHILD"
         P11_CHILD.Size = New Size(1221, 190)
         P11_CHILD.TabIndex = 413
+        ' 
+        ' P11_M05
+        ' 
+        P11_M05.AutoSize = True
+        P11_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P11_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P11_M05.ForeColor = Color.White
+        P11_M05.Location = New Point(33, 11)
+        P11_M05.Name = "P11_M05"
+        P11_M05.Size = New Size(40, 14)
+        P11_M05.TabIndex = 405
+        P11_M05.Text = "- R000"
         ' 
         ' P11_BTC
         ' 
@@ -4589,9 +4887,9 @@ Partial Class Form2
         P11_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P11_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P11_M04.ForeColor = Color.White
-        P11_M04.Location = New Point(34, 120)
+        P11_M04.Location = New Point(47, 120)
         P11_M04.Name = "P11_M04"
-        P11_M04.Size = New Size(1048, 23)
+        P11_M04.Size = New Size(1047, 23)
         P11_M04.TabIndex = 109
         P11_M04.Text = "MOD_FIELD_4"
         P11_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -4599,7 +4897,7 @@ Partial Class Form2
         ' P11_S08
         ' 
         P11_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P11_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P11_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P11_S08.BackgroundImageLayout = ImageLayout.Center
         P11_S08.BorderStyle = BorderStyle.FixedSingle
         P11_S08.Location = New Point(-1, 117)
@@ -4619,6 +4917,7 @@ Partial Class Form2
         ' 
         ' P10_CHILD
         ' 
+        P10_CHILD.Controls.Add(P10_M05)
         P10_CHILD.Controls.Add(P10_BTC)
         P10_CHILD.Controls.Add(P10_S05)
         P10_CHILD.Controls.Add(P10_M01)
@@ -4637,6 +4936,18 @@ Partial Class Form2
         P10_CHILD.Name = "P10_CHILD"
         P10_CHILD.Size = New Size(1221, 190)
         P10_CHILD.TabIndex = 412
+        ' 
+        ' P10_M05
+        ' 
+        P10_M05.AutoSize = True
+        P10_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P10_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P10_M05.ForeColor = Color.White
+        P10_M05.Location = New Point(33, 11)
+        P10_M05.Name = "P10_M05"
+        P10_M05.Size = New Size(40, 14)
+        P10_M05.TabIndex = 405
+        P10_M05.Text = "- R000"
         ' 
         ' P10_BTC
         ' 
@@ -4773,9 +5084,9 @@ Partial Class Form2
         P10_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P10_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P10_M04.ForeColor = Color.White
-        P10_M04.Location = New Point(34, 120)
+        P10_M04.Location = New Point(47, 120)
         P10_M04.Name = "P10_M04"
-        P10_M04.Size = New Size(1048, 23)
+        P10_M04.Size = New Size(1047, 23)
         P10_M04.TabIndex = 109
         P10_M04.Text = "MOD_FIELD_4"
         P10_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -4783,7 +5094,7 @@ Partial Class Form2
         ' P10_S08
         ' 
         P10_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P10_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P10_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P10_S08.BackgroundImageLayout = ImageLayout.Center
         P10_S08.BorderStyle = BorderStyle.FixedSingle
         P10_S08.Location = New Point(-1, 117)
@@ -4803,6 +5114,7 @@ Partial Class Form2
         ' 
         ' P09_CHILD
         ' 
+        P09_CHILD.Controls.Add(P09_M05)
         P09_CHILD.Controls.Add(P09_BTC)
         P09_CHILD.Controls.Add(P09_S05)
         P09_CHILD.Controls.Add(P09_M01)
@@ -4821,6 +5133,18 @@ Partial Class Form2
         P09_CHILD.Name = "P09_CHILD"
         P09_CHILD.Size = New Size(1221, 190)
         P09_CHILD.TabIndex = 411
+        ' 
+        ' P09_M05
+        ' 
+        P09_M05.AutoSize = True
+        P09_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P09_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P09_M05.ForeColor = Color.White
+        P09_M05.Location = New Point(33, 11)
+        P09_M05.Name = "P09_M05"
+        P09_M05.Size = New Size(40, 14)
+        P09_M05.TabIndex = 405
+        P09_M05.Text = "- R000"
         ' 
         ' P09_BTC
         ' 
@@ -4957,9 +5281,9 @@ Partial Class Form2
         P09_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P09_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P09_M04.ForeColor = Color.White
-        P09_M04.Location = New Point(34, 120)
+        P09_M04.Location = New Point(47, 120)
         P09_M04.Name = "P09_M04"
-        P09_M04.Size = New Size(1048, 23)
+        P09_M04.Size = New Size(1047, 23)
         P09_M04.TabIndex = 109
         P09_M04.Text = "MOD_FIELD_4"
         P09_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -4967,7 +5291,7 @@ Partial Class Form2
         ' P09_S08
         ' 
         P09_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P09_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P09_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P09_S08.BackgroundImageLayout = ImageLayout.Center
         P09_S08.BorderStyle = BorderStyle.FixedSingle
         P09_S08.Location = New Point(-1, 117)
@@ -4987,6 +5311,7 @@ Partial Class Form2
         ' 
         ' P08_CHILD
         ' 
+        P08_CHILD.Controls.Add(P08_M05)
         P08_CHILD.Controls.Add(P08_BTC)
         P08_CHILD.Controls.Add(P08_S05)
         P08_CHILD.Controls.Add(P08_M01)
@@ -5005,6 +5330,18 @@ Partial Class Form2
         P08_CHILD.Name = "P08_CHILD"
         P08_CHILD.Size = New Size(1221, 190)
         P08_CHILD.TabIndex = 410
+        ' 
+        ' P08_M05
+        ' 
+        P08_M05.AutoSize = True
+        P08_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P08_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P08_M05.ForeColor = Color.White
+        P08_M05.Location = New Point(33, 11)
+        P08_M05.Name = "P08_M05"
+        P08_M05.Size = New Size(40, 14)
+        P08_M05.TabIndex = 405
+        P08_M05.Text = "- R000"
         ' 
         ' P08_BTC
         ' 
@@ -5141,9 +5478,9 @@ Partial Class Form2
         P08_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P08_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P08_M04.ForeColor = Color.White
-        P08_M04.Location = New Point(34, 120)
+        P08_M04.Location = New Point(47, 120)
         P08_M04.Name = "P08_M04"
-        P08_M04.Size = New Size(1048, 23)
+        P08_M04.Size = New Size(1047, 23)
         P08_M04.TabIndex = 109
         P08_M04.Text = "MOD_FIELD_4"
         P08_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -5151,7 +5488,7 @@ Partial Class Form2
         ' P08_S08
         ' 
         P08_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P08_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P08_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P08_S08.BackgroundImageLayout = ImageLayout.Center
         P08_S08.BorderStyle = BorderStyle.FixedSingle
         P08_S08.Location = New Point(-1, 117)
@@ -5171,6 +5508,7 @@ Partial Class Form2
         ' 
         ' P07_CHILD
         ' 
+        P07_CHILD.Controls.Add(P07_M05)
         P07_CHILD.Controls.Add(P07_BTC)
         P07_CHILD.Controls.Add(P07_S05)
         P07_CHILD.Controls.Add(P07_M01)
@@ -5189,6 +5527,18 @@ Partial Class Form2
         P07_CHILD.Name = "P07_CHILD"
         P07_CHILD.Size = New Size(1221, 190)
         P07_CHILD.TabIndex = 409
+        ' 
+        ' P07_M05
+        ' 
+        P07_M05.AutoSize = True
+        P07_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P07_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P07_M05.ForeColor = Color.White
+        P07_M05.Location = New Point(33, 11)
+        P07_M05.Name = "P07_M05"
+        P07_M05.Size = New Size(40, 14)
+        P07_M05.TabIndex = 405
+        P07_M05.Text = "- R000"
         ' 
         ' P07_BTC
         ' 
@@ -5325,9 +5675,9 @@ Partial Class Form2
         P07_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P07_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P07_M04.ForeColor = Color.White
-        P07_M04.Location = New Point(34, 120)
+        P07_M04.Location = New Point(47, 120)
         P07_M04.Name = "P07_M04"
-        P07_M04.Size = New Size(1048, 23)
+        P07_M04.Size = New Size(1047, 23)
         P07_M04.TabIndex = 109
         P07_M04.Text = "MOD_FIELD_4"
         P07_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -5335,7 +5685,7 @@ Partial Class Form2
         ' P07_S08
         ' 
         P07_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P07_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P07_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P07_S08.BackgroundImageLayout = ImageLayout.Center
         P07_S08.BorderStyle = BorderStyle.FixedSingle
         P07_S08.Location = New Point(-1, 117)
@@ -5355,6 +5705,7 @@ Partial Class Form2
         ' 
         ' P06_CHILD
         ' 
+        P06_CHILD.Controls.Add(P06_M05)
         P06_CHILD.Controls.Add(P06_BTC)
         P06_CHILD.Controls.Add(P06_S05)
         P06_CHILD.Controls.Add(P06_M01)
@@ -5373,6 +5724,18 @@ Partial Class Form2
         P06_CHILD.Name = "P06_CHILD"
         P06_CHILD.Size = New Size(1221, 190)
         P06_CHILD.TabIndex = 408
+        ' 
+        ' P06_M05
+        ' 
+        P06_M05.AutoSize = True
+        P06_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P06_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P06_M05.ForeColor = Color.White
+        P06_M05.Location = New Point(33, 11)
+        P06_M05.Name = "P06_M05"
+        P06_M05.Size = New Size(40, 14)
+        P06_M05.TabIndex = 405
+        P06_M05.Text = "- R000"
         ' 
         ' P06_BTC
         ' 
@@ -5509,9 +5872,9 @@ Partial Class Form2
         P06_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P06_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P06_M04.ForeColor = Color.White
-        P06_M04.Location = New Point(34, 120)
+        P06_M04.Location = New Point(47, 120)
         P06_M04.Name = "P06_M04"
-        P06_M04.Size = New Size(1048, 23)
+        P06_M04.Size = New Size(1047, 23)
         P06_M04.TabIndex = 109
         P06_M04.Text = "MOD_FIELD_4"
         P06_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -5519,7 +5882,7 @@ Partial Class Form2
         ' P06_S08
         ' 
         P06_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P06_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P06_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P06_S08.BackgroundImageLayout = ImageLayout.Center
         P06_S08.BorderStyle = BorderStyle.FixedSingle
         P06_S08.Location = New Point(-1, 117)
@@ -5539,6 +5902,7 @@ Partial Class Form2
         ' 
         ' P05_CHILD
         ' 
+        P05_CHILD.Controls.Add(P05_M05)
         P05_CHILD.Controls.Add(P05_BTC)
         P05_CHILD.Controls.Add(P05_S05)
         P05_CHILD.Controls.Add(P05_M01)
@@ -5557,6 +5921,18 @@ Partial Class Form2
         P05_CHILD.Name = "P05_CHILD"
         P05_CHILD.Size = New Size(1221, 190)
         P05_CHILD.TabIndex = 407
+        ' 
+        ' P05_M05
+        ' 
+        P05_M05.AutoSize = True
+        P05_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P05_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P05_M05.ForeColor = Color.White
+        P05_M05.Location = New Point(33, 11)
+        P05_M05.Name = "P05_M05"
+        P05_M05.Size = New Size(40, 14)
+        P05_M05.TabIndex = 405
+        P05_M05.Text = "- R000"
         ' 
         ' P05_BTC
         ' 
@@ -5693,9 +6069,9 @@ Partial Class Form2
         P05_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P05_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P05_M04.ForeColor = Color.White
-        P05_M04.Location = New Point(34, 120)
+        P05_M04.Location = New Point(47, 120)
         P05_M04.Name = "P05_M04"
-        P05_M04.Size = New Size(1048, 23)
+        P05_M04.Size = New Size(1047, 23)
         P05_M04.TabIndex = 109
         P05_M04.Text = "MOD_FIELD_4"
         P05_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -5703,7 +6079,7 @@ Partial Class Form2
         ' P05_S08
         ' 
         P05_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P05_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P05_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P05_S08.BackgroundImageLayout = ImageLayout.Center
         P05_S08.BorderStyle = BorderStyle.FixedSingle
         P05_S08.Location = New Point(-1, 117)
@@ -5723,6 +6099,7 @@ Partial Class Form2
         ' 
         ' P04_CHILD
         ' 
+        P04_CHILD.Controls.Add(P04_M05)
         P04_CHILD.Controls.Add(P04_BTC)
         P04_CHILD.Controls.Add(P04_S05)
         P04_CHILD.Controls.Add(P04_M01)
@@ -5741,6 +6118,18 @@ Partial Class Form2
         P04_CHILD.Name = "P04_CHILD"
         P04_CHILD.Size = New Size(1221, 190)
         P04_CHILD.TabIndex = 406
+        ' 
+        ' P04_M05
+        ' 
+        P04_M05.AutoSize = True
+        P04_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P04_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P04_M05.ForeColor = Color.White
+        P04_M05.Location = New Point(32, 11)
+        P04_M05.Name = "P04_M05"
+        P04_M05.Size = New Size(40, 14)
+        P04_M05.TabIndex = 405
+        P04_M05.Text = "- R000"
         ' 
         ' P04_BTC
         ' 
@@ -5877,9 +6266,9 @@ Partial Class Form2
         P04_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P04_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P04_M04.ForeColor = Color.White
-        P04_M04.Location = New Point(34, 120)
+        P04_M04.Location = New Point(47, 120)
         P04_M04.Name = "P04_M04"
-        P04_M04.Size = New Size(1048, 23)
+        P04_M04.Size = New Size(1047, 23)
         P04_M04.TabIndex = 109
         P04_M04.Text = "MOD_FIELD_4"
         P04_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -5887,7 +6276,7 @@ Partial Class Form2
         ' P04_S08
         ' 
         P04_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P04_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P04_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P04_S08.BackgroundImageLayout = ImageLayout.Center
         P04_S08.BorderStyle = BorderStyle.FixedSingle
         P04_S08.Location = New Point(-1, 117)
@@ -5907,6 +6296,7 @@ Partial Class Form2
         ' 
         ' P03_CHILD
         ' 
+        P03_CHILD.Controls.Add(P03_M05)
         P03_CHILD.Controls.Add(P03_BTC)
         P03_CHILD.Controls.Add(P03_S05)
         P03_CHILD.Controls.Add(P03_M01)
@@ -5925,6 +6315,18 @@ Partial Class Form2
         P03_CHILD.Name = "P03_CHILD"
         P03_CHILD.Size = New Size(1221, 190)
         P03_CHILD.TabIndex = 405
+        ' 
+        ' P03_M05
+        ' 
+        P03_M05.AutoSize = True
+        P03_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P03_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P03_M05.ForeColor = Color.White
+        P03_M05.Location = New Point(33, 11)
+        P03_M05.Name = "P03_M05"
+        P03_M05.Size = New Size(40, 14)
+        P03_M05.TabIndex = 405
+        P03_M05.Text = "- R000"
         ' 
         ' P03_BTC
         ' 
@@ -6061,9 +6463,9 @@ Partial Class Form2
         P03_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P03_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P03_M04.ForeColor = Color.White
-        P03_M04.Location = New Point(34, 120)
+        P03_M04.Location = New Point(47, 120)
         P03_M04.Name = "P03_M04"
-        P03_M04.Size = New Size(1048, 23)
+        P03_M04.Size = New Size(1047, 23)
         P03_M04.TabIndex = 109
         P03_M04.Text = "MOD_FIELD_4"
         P03_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -6071,7 +6473,7 @@ Partial Class Form2
         ' P03_S08
         ' 
         P03_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P03_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P03_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P03_S08.BackgroundImageLayout = ImageLayout.Center
         P03_S08.BorderStyle = BorderStyle.FixedSingle
         P03_S08.Location = New Point(-1, 117)
@@ -6091,6 +6493,7 @@ Partial Class Form2
         ' 
         ' P02_CHILD
         ' 
+        P02_CHILD.Controls.Add(P02_M05)
         P02_CHILD.Controls.Add(P02_BTC)
         P02_CHILD.Controls.Add(P02_S05)
         P02_CHILD.Controls.Add(P02_M01)
@@ -6109,6 +6512,18 @@ Partial Class Form2
         P02_CHILD.Name = "P02_CHILD"
         P02_CHILD.Size = New Size(1221, 190)
         P02_CHILD.TabIndex = 404
+        ' 
+        ' P02_M05
+        ' 
+        P02_M05.AutoSize = True
+        P02_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P02_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P02_M05.ForeColor = Color.White
+        P02_M05.Location = New Point(33, 11)
+        P02_M05.Name = "P02_M05"
+        P02_M05.Size = New Size(40, 14)
+        P02_M05.TabIndex = 405
+        P02_M05.Text = "- R000"
         ' 
         ' P02_BTC
         ' 
@@ -6245,9 +6660,9 @@ Partial Class Form2
         P02_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P02_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P02_M04.ForeColor = Color.White
-        P02_M04.Location = New Point(34, 120)
+        P02_M04.Location = New Point(47, 120)
         P02_M04.Name = "P02_M04"
-        P02_M04.Size = New Size(1048, 23)
+        P02_M04.Size = New Size(1047, 23)
         P02_M04.TabIndex = 109
         P02_M04.Text = "MOD_FIELD_4"
         P02_M04.TextAlign = ContentAlignment.MiddleLeft
@@ -6255,7 +6670,7 @@ Partial Class Form2
         ' P02_S08
         ' 
         P02_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P02_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P02_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P02_S08.BackgroundImageLayout = ImageLayout.Center
         P02_S08.BorderStyle = BorderStyle.FixedSingle
         P02_S08.Location = New Point(-1, 117)
@@ -6275,6 +6690,7 @@ Partial Class Form2
         ' 
         ' P01_CHILD
         ' 
+        P01_CHILD.Controls.Add(P01_M05)
         P01_CHILD.Controls.Add(P01_BTC)
         P01_CHILD.Controls.Add(P01_S05)
         P01_CHILD.Controls.Add(P01_M01)
@@ -6293,6 +6709,18 @@ Partial Class Form2
         P01_CHILD.Name = "P01_CHILD"
         P01_CHILD.Size = New Size(1221, 190)
         P01_CHILD.TabIndex = 403
+        ' 
+        ' P01_M05
+        ' 
+        P01_M05.AutoSize = True
+        P01_M05.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        P01_M05.Font = New Font("Bahnschrift SemiLight SemiConde", 9F)
+        P01_M05.ForeColor = Color.White
+        P01_M05.Location = New Point(33, 11)
+        P01_M05.Name = "P01_M05"
+        P01_M05.Size = New Size(40, 14)
+        P01_M05.TabIndex = 404
+        P01_M05.Text = "- R000"
         ' 
         ' P01_BTC
         ' 
@@ -6326,9 +6754,9 @@ Partial Class Form2
         P01_M01.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         P01_M01.Font = New Font("Bahnschrift SemiLight SemiConde", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         P01_M01.ForeColor = Color.White
-        P01_M01.Location = New Point(52, 4)
+        P01_M01.Location = New Point(91, 4)
         P01_M01.Name = "P01_M01"
-        P01_M01.Size = New Size(1007, 28)
+        P01_M01.Size = New Size(903, 28)
         P01_M01.TabIndex = 401
         P01_M01.Text = "MOD_FIELD_1"
         P01_M01.TextAlign = ContentAlignment.MiddleCenter
@@ -6434,17 +6862,17 @@ Partial Class Form2
         P01_M04.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
         P01_M04.Font = New Font("Bahnschrift SemiBold", 9F, FontStyle.Bold)
         P01_M04.ForeColor = Color.White
-        P01_M04.Location = New Point(34, 120)
+        P01_M04.Location = New Point(47, 120)
         P01_M04.Name = "P01_M04"
-        P01_M04.Size = New Size(1048, 23)
+        P01_M04.Size = New Size(1047, 23)
         P01_M04.TabIndex = 109
-        P01_M04.Text = "Team content > Settlement Ops, Treasury, Commissions Reporting > Shared Reports > Settlement Ops- Brandon > (+) Transaction Research"
+        P01_M04.Text = "MOD_FIELD_4"
         P01_M04.TextAlign = ContentAlignment.MiddleLeft
         ' 
         ' P01_S08
         ' 
         P01_S08.BackColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        P01_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar
+        P01_S08.BackgroundImage = My.Resources.Resources.ui2_bottom_bar4
         P01_S08.BackgroundImageLayout = ImageLayout.Center
         P01_S08.BorderStyle = BorderStyle.FixedSingle
         P01_S08.Location = New Point(-1, 117)
@@ -6466,17 +6894,17 @@ Partial Class Form2
         ' 
         BT_EXIT.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_EXIT.Cursor = Cursors.Hand
-        BT_EXIT.FlatAppearance.BorderColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        BT_EXIT.FlatAppearance.BorderSize = 0
+        BT_EXIT.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        BT_EXIT.FlatAppearance.BorderSize = 3
         BT_EXIT.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(160), CByte(70), CByte(70))
         BT_EXIT.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(115), CByte(50), CByte(50))
         BT_EXIT.FlatStyle = FlatStyle.Flat
-        BT_EXIT.Font = New Font("Bahnschrift SemiCondensed", 12F, FontStyle.Bold)
+        BT_EXIT.Font = New Font("Bahnschrift SemiCondensed", 12.5F, FontStyle.Bold)
         BT_EXIT.ForeColor = Color.White
         BT_EXIT.Location = New Point(633, 714)
         BT_EXIT.Name = "BT_EXIT"
-        BT_EXIT.Size = New Size(648, 34)
-        BT_EXIT.TabIndex = 2
+        BT_EXIT.Size = New Size(630, 34)
+        BT_EXIT.TabIndex = 901
         BT_EXIT.Text = "EXIT >>"
         BT_EXIT.UseVisualStyleBackColor = False
         ' 
@@ -6484,17 +6912,17 @@ Partial Class Form2
         ' 
         BT_BACK.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_BACK.Cursor = Cursors.Hand
-        BT_BACK.FlatAppearance.BorderColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        BT_BACK.FlatAppearance.BorderSize = 0
+        BT_BACK.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        BT_BACK.FlatAppearance.BorderSize = 3
         BT_BACK.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(70), CByte(130), CByte(50))
         BT_BACK.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(50), CByte(95), CByte(30))
         BT_BACK.FlatStyle = FlatStyle.Flat
-        BT_BACK.Font = New Font("Bahnschrift SemiCondensed", 12F, FontStyle.Bold)
+        BT_BACK.Font = New Font("Bahnschrift SemiCondensed", 12.5F, FontStyle.Bold)
         BT_BACK.ForeColor = Color.White
-        BT_BACK.Location = New Point(-16, 714)
+        BT_BACK.Location = New Point(1, 714)
         BT_BACK.Name = "BT_BACK"
-        BT_BACK.Size = New Size(648, 34)
-        BT_BACK.TabIndex = 1
+        BT_BACK.Size = New Size(631, 34)
+        BT_BACK.TabIndex = 902
         BT_BACK.Text = "<< BACK"
         BT_BACK.UseVisualStyleBackColor = False
         ' 
@@ -6528,7 +6956,7 @@ Partial Class Form2
         ' 
         ' PictureBox16
         ' 
-        PictureBox16.BackColor = Color.FromArgb(CByte(35), CByte(60), CByte(100))
+        PictureBox16.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         PictureBox16.Location = New Point(-9, 713)
         PictureBox16.Name = "PictureBox16"
         PictureBox16.Size = New Size(1277, 38)
@@ -6541,7 +6969,7 @@ Partial Class Form2
         Label19.BackColor = Color.WhiteSmoke
         Label19.Font = New Font("Bahnschrift", 6.5F)
         Label19.ForeColor = Color.DarkGray
-        Label19.Location = New Point(570, 692)
+        Label19.Location = New Point(570, 693)
         Label19.Name = "Label19"
         Label19.Size = New Size(125, 11)
         Label19.TabIndex = 170
@@ -6549,7 +6977,7 @@ Partial Class Form2
         ' 
         ' PictureBox2
         ' 
-        PictureBox2.Location = New Point(-16, 691)
+        PictureBox2.Location = New Point(-18, 692)
         PictureBox2.Name = "PictureBox2"
         PictureBox2.Size = New Size(1263, 15)
         PictureBox2.TabIndex = 171
@@ -6563,12 +6991,52 @@ Partial Class Form2
         PictureBox5.TabIndex = 172
         PictureBox5.TabStop = False
         ' 
+        ' PictureBox89
+        ' 
+        PictureBox89.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox89.Location = New Point(-32, 759)
+        PictureBox89.Name = "PictureBox89"
+        PictureBox89.Size = New Size(1296, 5)
+        PictureBox89.TabIndex = 910
+        PictureBox89.TabStop = False
+        ' 
+        ' PictureBox90
+        ' 
+        PictureBox90.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox90.Location = New Point(1262, -33)
+        PictureBox90.Name = "PictureBox90"
+        PictureBox90.Size = New Size(5, 821)
+        PictureBox90.TabIndex = 909
+        PictureBox90.TabStop = False
+        ' 
+        ' PictureBox91
+        ' 
+        PictureBox91.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox91.Location = New Point(-3, -33)
+        PictureBox91.Name = "PictureBox91"
+        PictureBox91.Size = New Size(5, 821)
+        PictureBox91.TabIndex = 908
+        PictureBox91.TabStop = False
+        ' 
+        ' PictureBox92
+        ' 
+        PictureBox92.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox92.Location = New Point(-16, -3)
+        PictureBox92.Name = "PictureBox92"
+        PictureBox92.Size = New Size(1296, 5)
+        PictureBox92.TabIndex = 907
+        PictureBox92.TabStop = False
+        ' 
         ' Form2
         ' 
         AutoScaleDimensions = New SizeF(96F, 96F)
         AutoScaleMode = AutoScaleMode.Dpi
         BackColor = Color.WhiteSmoke
         ClientSize = New Size(1264, 761)
+        Controls.Add(PictureBox89)
+        Controls.Add(PictureBox90)
+        Controls.Add(PictureBox91)
+        Controls.Add(PictureBox92)
         Controls.Add(PictureBox5)
         Controls.Add(Label19)
         Controls.Add(BT_BACK)
@@ -6904,6 +7372,10 @@ Partial Class Form2
         CType(PictureBox16, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox2, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox5, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox89, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox90, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox91, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox92, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -7379,5 +7851,39 @@ Partial Class Form2
     Friend WithEvents P25_M04 As Label
     Friend WithEvents PictureBox87 As PictureBox
     Friend WithEvents PictureBox88 As PictureBox
+    Friend WithEvents P04_M05 As Label
+    Friend WithEvents P03_M05 As Label
+    Friend WithEvents P02_M05 As Label
+    Friend WithEvents P01_M05 As Label
+    Friend WithEvents P25_M05 As Label
+    Friend WithEvents P24_M05 As Label
+    Friend WithEvents P23_M05 As Label
+    Friend WithEvents P22_M05 As Label
+    Friend WithEvents P21_M05 As Label
+    Friend WithEvents P20_M05 As Label
+    Friend WithEvents P19_M05 As Label
+    Friend WithEvents P18_M05 As Label
+    Friend WithEvents P17_M05 As Label
+    Friend WithEvents P16_M05 As Label
+    Friend WithEvents P15_M05 As Label
+    Friend WithEvents P14_M05 As Label
+    Friend WithEvents P13_M05 As Label
+    Friend WithEvents P12_M05 As Label
+    Friend WithEvents P11_M05 As Label
+    Friend WithEvents P10_M05 As Label
+    Friend WithEvents P09_M05 As Label
+    Friend WithEvents P08_M05 As Label
+    Friend WithEvents P07_M05 As Label
+    Friend WithEvents P06_M05 As Label
+    Friend WithEvents P05_M05 As Label
+    Friend WithEvents P30_M05 As Label
+    Friend WithEvents P29_M05 As Label
+    Friend WithEvents P28_M05 As Label
+    Friend WithEvents P27_M05 As Label
+    Friend WithEvents P26_M05 As Label
+    Friend WithEvents PictureBox89 As PictureBox
+    Friend WithEvents PictureBox90 As PictureBox
+    Friend WithEvents PictureBox91 As PictureBox
+    Friend WithEvents PictureBox92 As PictureBox
 
 End Class

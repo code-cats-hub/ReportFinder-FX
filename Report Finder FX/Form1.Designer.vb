@@ -113,6 +113,10 @@ Partial Class Form1
         PictureBox22 = New PictureBox()
         PictureBox20 = New PictureBox()
         Label19 = New Label()
+        PictureBox23 = New PictureBox()
+        PictureBox25 = New PictureBox()
+        PictureBox24 = New PictureBox()
+        PictureBox26 = New PictureBox()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox2, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox3, ComponentModel.ISupportInitialize).BeginInit()
@@ -136,6 +140,10 @@ Partial Class Form1
         CType(PictureBox19, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox22, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox20, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox23, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox25, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox24, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox26, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' TXT_S1
@@ -166,17 +174,17 @@ Partial Class Form1
         ' 
         BT_SEARCH.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_SEARCH.Cursor = Cursors.Hand
-        BT_SEARCH.FlatAppearance.BorderColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        BT_SEARCH.FlatAppearance.BorderSize = 0
+        BT_SEARCH.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        BT_SEARCH.FlatAppearance.BorderSize = 3
         BT_SEARCH.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_SEARCH.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_SEARCH.FlatStyle = FlatStyle.Flat
-        BT_SEARCH.Font = New Font("Bahnschrift SemiCondensed", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        BT_SEARCH.Font = New Font("Bahnschrift SemiCondensed", 12.5F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         BT_SEARCH.ForeColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_SEARCH.Location = New Point(633, 714)
         BT_SEARCH.Name = "BT_SEARCH"
-        BT_SEARCH.Size = New Size(647, 34)
-        BT_SEARCH.TabIndex = 109
+        BT_SEARCH.Size = New Size(630, 34)
+        BT_SEARCH.TabIndex = 902
         BT_SEARCH.TabStop = False
         BT_SEARCH.Text = "SEARCH >>"
         BT_SEARCH.UseVisualStyleBackColor = False
@@ -947,17 +955,17 @@ Partial Class Form1
         ' 
         BT_EXIT.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_EXIT.Cursor = Cursors.Hand
-        BT_EXIT.FlatAppearance.BorderColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        BT_EXIT.FlatAppearance.BorderSize = 0
+        BT_EXIT.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        BT_EXIT.FlatAppearance.BorderSize = 3
         BT_EXIT.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(160), CByte(70), CByte(70))
         BT_EXIT.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(115), CByte(50), CByte(50))
         BT_EXIT.FlatStyle = FlatStyle.Flat
-        BT_EXIT.Font = New Font("Bahnschrift SemiCondensed", 12F, FontStyle.Bold)
+        BT_EXIT.Font = New Font("Bahnschrift SemiCondensed", 12.5F, FontStyle.Bold)
         BT_EXIT.ForeColor = Color.White
-        BT_EXIT.Location = New Point(-16, 714)
+        BT_EXIT.Location = New Point(1, 714)
         BT_EXIT.Name = "BT_EXIT"
-        BT_EXIT.Size = New Size(648, 34)
-        BT_EXIT.TabIndex = 108
+        BT_EXIT.Size = New Size(631, 34)
+        BT_EXIT.TabIndex = 901
         BT_EXIT.Text = "<< EXIT"
         BT_EXIT.UseVisualStyleBackColor = False
         ' 
@@ -968,7 +976,7 @@ Partial Class Form1
         BT_INFO.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_INFO.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_INFO.FlatStyle = FlatStyle.Flat
-        BT_INFO.Font = New Font("Bahnschrift SemiCondensed", 10F, FontStyle.Bold)
+        BT_INFO.Font = New Font("Bahnschrift SemiCondensed", 11F, FontStyle.Bold)
         BT_INFO.ForeColor = Color.FromArgb(CByte(215), CByte(230), CByte(250))
         BT_INFO.Location = New Point(1149, 13)
         BT_INFO.Name = "BT_INFO"
@@ -985,11 +993,11 @@ Partial Class Form1
         BT_SET.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_SET.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_SET.FlatStyle = FlatStyle.Flat
-        BT_SET.Font = New Font("Bahnschrift SemiCondensed", 10F, FontStyle.Bold)
+        BT_SET.Font = New Font("Bahnschrift SemiCondensed", 11F, FontStyle.Bold)
         BT_SET.ForeColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_SET.Location = New Point(1203, 13)
         BT_SET.Name = "BT_SET"
-        BT_SET.Size = New Size(52, 40)
+        BT_SET.Size = New Size(60, 40)
         BT_SET.TabIndex = 119
         BT_SET.TabStop = False
         BT_SET.Text = "SETUP"
@@ -1095,7 +1103,7 @@ Partial Class Form1
         ' PictureBox13
         ' 
         PictureBox13.BackColor = Color.Silver
-        PictureBox13.Location = New Point(88, 114)
+        PictureBox13.Location = New Point(87, 114)
         PictureBox13.Name = "PictureBox13"
         PictureBox13.Size = New Size(1095, 282)
         PictureBox13.TabIndex = 124
@@ -1104,7 +1112,7 @@ Partial Class Form1
         ' PictureBox14
         ' 
         PictureBox14.BackColor = Color.Silver
-        PictureBox14.Location = New Point(88, 443)
+        PictureBox14.Location = New Point(87, 443)
         PictureBox14.Name = "PictureBox14"
         PictureBox14.Size = New Size(1095, 220)
         PictureBox14.TabIndex = 125
@@ -1121,7 +1129,7 @@ Partial Class Form1
         ' 
         ' PictureBox16
         ' 
-        PictureBox16.BackColor = Color.FromArgb(CByte(35), CByte(60), CByte(100))
+        PictureBox16.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         PictureBox16.Location = New Point(-9, 713)
         PictureBox16.Name = "PictureBox16"
         PictureBox16.Size = New Size(1277, 38)
@@ -1328,8 +1336,8 @@ Partial Class Form1
         ' 
         ' PictureBox12
         ' 
-        PictureBox12.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        PictureBox12.Location = New Point(231, 180)
+        PictureBox12.BackColor = Color.DarkGray
+        PictureBox12.Location = New Point(231, 182)
         PictureBox12.Name = "PictureBox12"
         PictureBox12.Size = New Size(804, 154)
         PictureBox12.TabIndex = 138
@@ -1337,8 +1345,8 @@ Partial Class Form1
         ' 
         ' PictureBox17
         ' 
-        PictureBox17.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        PictureBox17.Location = New Point(269, 508)
+        PictureBox17.BackColor = Color.DarkGray
+        PictureBox17.Location = New Point(269, 511)
         PictureBox17.Name = "PictureBox17"
         PictureBox17.Size = New Size(723, 92)
         PictureBox17.TabIndex = 139
@@ -1522,7 +1530,7 @@ Partial Class Form1
         ' PictureBox20
         ' 
         PictureBox20.BackColor = Color.Silver
-        PictureBox20.Location = New Point(569, 169)
+        PictureBox20.Location = New Point(569, 168)
         PictureBox20.Name = "PictureBox20"
         PictureBox20.Size = New Size(238, 241)
         PictureBox20.TabIndex = 145
@@ -1540,22 +1548,71 @@ Partial Class Form1
         Label19.TabIndex = 169
         Label19.Text = "COPYRIGHT 2024 CODE-CATS"
         ' 
+        ' PictureBox23
+        ' 
+        PictureBox23.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox23.Location = New Point(-3, -33)
+        PictureBox23.Name = "PictureBox23"
+        PictureBox23.Size = New Size(5, 821)
+        PictureBox23.TabIndex = 904
+        PictureBox23.TabStop = False
+        ' 
+        ' PictureBox25
+        ' 
+        PictureBox25.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox25.Location = New Point(-19, -3)
+        PictureBox25.Name = "PictureBox25"
+        PictureBox25.Size = New Size(1296, 5)
+        PictureBox25.TabIndex = 903
+        PictureBox25.TabStop = False
+        ' 
+        ' PictureBox24
+        ' 
+        PictureBox24.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox24.Location = New Point(1262, -33)
+        PictureBox24.Name = "PictureBox24"
+        PictureBox24.Size = New Size(5, 821)
+        PictureBox24.TabIndex = 905
+        PictureBox24.TabStop = False
+        ' 
+        ' PictureBox26
+        ' 
+        PictureBox26.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox26.Location = New Point(-14, 759)
+        PictureBox26.Name = "PictureBox26"
+        PictureBox26.Size = New Size(1296, 5)
+        PictureBox26.TabIndex = 906
+        PictureBox26.TabStop = False
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(96F, 96F)
         AutoScaleMode = AutoScaleMode.Dpi
         BackColor = Color.WhiteSmoke
         ClientSize = New Size(1264, 761)
-        Controls.Add(Label19)
         Controls.Add(LOAD_PANEL)
-        Controls.Add(Label6)
-        Controls.Add(BT_SG_SEL)
-        Controls.Add(BT_SG_DS)
-        Controls.Add(PictureBox8)
         Controls.Add(BT_SG12)
         Controls.Add(BT_SG11)
         Controls.Add(BT_SG10)
         Controls.Add(BT_SG09)
+        Controls.Add(BT_SG04)
+        Controls.Add(BT_SG08)
+        Controls.Add(BT_SG03)
+        Controls.Add(BT_SG07)
+        Controls.Add(BT_SG02)
+        Controls.Add(BT_SG06)
+        Controls.Add(BT_SG05)
+        Controls.Add(BT_SG01)
+        Controls.Add(PictureBox18)
+        Controls.Add(PictureBox26)
+        Controls.Add(PictureBox24)
+        Controls.Add(PictureBox23)
+        Controls.Add(PictureBox25)
+        Controls.Add(Label19)
+        Controls.Add(Label6)
+        Controls.Add(BT_SG_SEL)
+        Controls.Add(BT_SG_DS)
+        Controls.Add(PictureBox8)
         Controls.Add(BT_FG25)
         Controls.Add(BT_FG24)
         Controls.Add(BT_FG23)
@@ -1581,14 +1638,6 @@ Partial Class Form1
         Controls.Add(BT_FG11)
         Controls.Add(BT_FG06)
         Controls.Add(BT_FG01)
-        Controls.Add(BT_SG04)
-        Controls.Add(BT_SG08)
-        Controls.Add(BT_SG03)
-        Controls.Add(BT_SG07)
-        Controls.Add(BT_SG02)
-        Controls.Add(BT_SG06)
-        Controls.Add(BT_SG05)
-        Controls.Add(BT_SG01)
         Controls.Add(PictureBox9)
         Controls.Add(BT_INFO)
         Controls.Add(BT_SET)
@@ -1616,7 +1665,6 @@ Partial Class Form1
         Controls.Add(PictureBox1)
         Controls.Add(PictureBox13)
         Controls.Add(PictureBox17)
-        Controls.Add(PictureBox18)
         Controls.Add(TXT_S2)
         Controls.Add(PictureBox6)
         Controls.Add(PictureBox2)
@@ -1651,6 +1699,10 @@ Partial Class Form1
         CType(PictureBox19, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox22, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox20, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox23, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox25, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox24, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox26, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -1745,5 +1797,9 @@ Partial Class Form1
     Friend WithEvents LOAD_BAR2 As ProgressBar
     Friend WithEvents Label14 As Label
     Friend WithEvents Label19 As Label
+    Friend WithEvents PictureBox23 As PictureBox
+    Friend WithEvents PictureBox25 As PictureBox
+    Friend WithEvents PictureBox24 As PictureBox
+    Friend WithEvents PictureBox26 As PictureBox
 
 End Class

@@ -96,6 +96,10 @@ Partial Class Form4
         PictureBox9 = New PictureBox()
         LOCK_CHROMEFIND = New Button()
         Label19 = New Label()
+        PictureBox26 = New PictureBox()
+        PictureBox24 = New PictureBox()
+        PictureBox6 = New PictureBox()
+        PictureBox25 = New PictureBox()
         CType(SB_TABLE1, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox10, ComponentModel.ISupportInitialize).BeginInit()
@@ -137,6 +141,10 @@ Partial Class Form4
         CType(LINK_PANEL_SHADOW1, ComponentModel.ISupportInitialize).BeginInit()
         CType(LINK_PANEL_SHADOW2, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox9, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox26, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox24, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox6, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox25, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' SB_TABLE1
@@ -405,17 +413,17 @@ Partial Class Form4
         ' 
         BT_BACK.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_BACK.Cursor = Cursors.Hand
-        BT_BACK.FlatAppearance.BorderColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        BT_BACK.FlatAppearance.BorderSize = 0
+        BT_BACK.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        BT_BACK.FlatAppearance.BorderSize = 3
         BT_BACK.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(70), CByte(130), CByte(50))
         BT_BACK.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(50), CByte(95), CByte(30))
         BT_BACK.FlatStyle = FlatStyle.Flat
-        BT_BACK.Font = New Font("Bahnschrift SemiCondensed", 12F, FontStyle.Bold)
+        BT_BACK.Font = New Font("Bahnschrift SemiCondensed", 12.5F, FontStyle.Bold)
         BT_BACK.ForeColor = Color.White
-        BT_BACK.Location = New Point(-10, 714)
+        BT_BACK.Location = New Point(1, 714)
         BT_BACK.Name = "BT_BACK"
-        BT_BACK.Size = New Size(802, 34)
-        BT_BACK.TabIndex = 1
+        BT_BACK.Size = New Size(791, 34)
+        BT_BACK.TabIndex = 902
         BT_BACK.Text = "<< EXIT THIS SCREEN"
         BT_BACK.UseVisualStyleBackColor = False
         ' 
@@ -423,17 +431,17 @@ Partial Class Form4
         ' 
         BT_EXIT.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_EXIT.Cursor = Cursors.Hand
-        BT_EXIT.FlatAppearance.BorderColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        BT_EXIT.FlatAppearance.BorderSize = 0
+        BT_EXIT.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        BT_EXIT.FlatAppearance.BorderSize = 3
         BT_EXIT.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(160), CByte(70), CByte(70))
         BT_EXIT.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(115), CByte(50), CByte(50))
         BT_EXIT.FlatStyle = FlatStyle.Flat
-        BT_EXIT.Font = New Font("Bahnschrift SemiCondensed", 12F, FontStyle.Bold)
+        BT_EXIT.Font = New Font("Bahnschrift SemiCondensed", 12.5F, FontStyle.Bold)
         BT_EXIT.ForeColor = Color.White
         BT_EXIT.Location = New Point(793, 714)
         BT_EXIT.Name = "BT_EXIT"
-        BT_EXIT.Size = New Size(807, 34)
-        BT_EXIT.TabIndex = 2
+        BT_EXIT.Size = New Size(790, 34)
+        BT_EXIT.TabIndex = 901
         BT_EXIT.Text = "EXIT THIS APP >>"
         BT_EXIT.UseVisualStyleBackColor = False
         ' 
@@ -651,7 +659,7 @@ Partial Class Form4
         ' 
         ' PictureBox22
         ' 
-        PictureBox22.BackColor = Color.FromArgb(CByte(35), CByte(60), CByte(100))
+        PictureBox22.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         PictureBox22.Location = New Point(-9, 713)
         PictureBox22.Name = "PictureBox22"
         PictureBox22.Size = New Size(1598, 38)
@@ -713,9 +721,9 @@ Partial Class Form4
         Label9.ForeColor = Color.FromArgb(CByte(215), CByte(230), CByte(250))
         Label9.Location = New Point(1478, 24)
         Label9.Name = "Label9"
-        Label9.Size = New Size(85, 17)
+        Label9.Size = New Size(84, 17)
         Label9.TabIndex = 167
-        Label9.Text = "v1.0 (build5)"
+        Label9.Text = "v1.0 (build6)"
         ' 
         ' Label5
         ' 
@@ -789,7 +797,7 @@ Partial Class Form4
         ' LINK_LABEL_FOX_OFF
         ' 
         LINK_LABEL_FOX_OFF.BackgroundImage = My.Resources.Resources.link_fox3_off_x
-        LINK_LABEL_FOX_OFF.Location = New Point(104, 170)
+        LINK_LABEL_FOX_OFF.Location = New Point(103, 170)
         LINK_LABEL_FOX_OFF.Name = "LINK_LABEL_FOX_OFF"
         LINK_LABEL_FOX_OFF.Size = New Size(36, 36)
         LINK_LABEL_FOX_OFF.TabIndex = 186
@@ -798,7 +806,7 @@ Partial Class Form4
         ' LINK_LABEL_FOX_ON
         ' 
         LINK_LABEL_FOX_ON.BackgroundImage = My.Resources.Resources.link_fox3_on_x
-        LINK_LABEL_FOX_ON.Location = New Point(104, 170)
+        LINK_LABEL_FOX_ON.Location = New Point(103, 170)
         LINK_LABEL_FOX_ON.Name = "LINK_LABEL_FOX_ON"
         LINK_LABEL_FOX_ON.Size = New Size(36, 36)
         LINK_LABEL_FOX_ON.TabIndex = 185
@@ -909,7 +917,7 @@ Partial Class Form4
         BT_LINK_2.Cursor = Cursors.Hand
         BT_LINK_2.FlatAppearance.BorderSize = 0
         BT_LINK_2.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        BT_LINK_2.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(55), CByte(90), CByte(140))
+        BT_LINK_2.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_LINK_2.FlatStyle = FlatStyle.Flat
         BT_LINK_2.Location = New Point(8, 84)
         BT_LINK_2.Name = "BT_LINK_2"
@@ -1012,12 +1020,52 @@ Partial Class Form4
         Label19.TabIndex = 185
         Label19.Text = "COPYRIGHT 2024 CODE-CATS"
         ' 
+        ' PictureBox26
+        ' 
+        PictureBox26.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox26.Location = New Point(-10, 759)
+        PictureBox26.Name = "PictureBox26"
+        PictureBox26.Size = New Size(1610, 5)
+        PictureBox26.TabIndex = 910
+        PictureBox26.TabStop = False
+        ' 
+        ' PictureBox24
+        ' 
+        PictureBox24.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox24.Location = New Point(1582, -33)
+        PictureBox24.Name = "PictureBox24"
+        PictureBox24.Size = New Size(5, 821)
+        PictureBox24.TabIndex = 909
+        PictureBox24.TabStop = False
+        ' 
+        ' PictureBox6
+        ' 
+        PictureBox6.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox6.Location = New Point(-3, -33)
+        PictureBox6.Name = "PictureBox6"
+        PictureBox6.Size = New Size(5, 821)
+        PictureBox6.TabIndex = 908
+        PictureBox6.TabStop = False
+        ' 
+        ' PictureBox25
+        ' 
+        PictureBox25.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox25.Location = New Point(-10, -3)
+        PictureBox25.Name = "PictureBox25"
+        PictureBox25.Size = New Size(1610, 5)
+        PictureBox25.TabIndex = 907
+        PictureBox25.TabStop = False
+        ' 
         ' Form4
         ' 
         AutoScaleDimensions = New SizeF(96F, 96F)
         AutoScaleMode = AutoScaleMode.Dpi
         BackColor = Color.WhiteSmoke
         ClientSize = New Size(1584, 761)
+        Controls.Add(PictureBox26)
+        Controls.Add(PictureBox24)
+        Controls.Add(PictureBox6)
+        Controls.Add(PictureBox25)
         Controls.Add(BT_LINKS)
         Controls.Add(Label19)
         Controls.Add(LOCK_CHROMEFIND)
@@ -1111,6 +1159,10 @@ Partial Class Form4
         CType(LINK_PANEL_SHADOW1, ComponentModel.ISupportInitialize).EndInit()
         CType(LINK_PANEL_SHADOW2, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox9, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox26, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox24, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox6, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox25, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -1186,4 +1238,8 @@ Partial Class Form4
     Friend WithEvents Label19 As Label
     Friend WithEvents LINK_LABEL_FOX_ON As PictureBox
     Friend WithEvents LINK_LABEL_FOX_OFF As PictureBox
+    Friend WithEvents PictureBox26 As PictureBox
+    Friend WithEvents PictureBox24 As PictureBox
+    Friend WithEvents PictureBox6 As PictureBox
+    Friend WithEvents PictureBox25 As PictureBox
 End Class

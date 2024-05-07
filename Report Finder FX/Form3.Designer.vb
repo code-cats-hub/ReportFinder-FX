@@ -40,10 +40,7 @@ Partial Class Form3
         PictureBox6 = New PictureBox()
         PictureBox15 = New PictureBox()
         PictureBox16 = New PictureBox()
-        PictureBox25 = New PictureBox()
         PictureBox7 = New PictureBox()
-        PictureBox24 = New PictureBox()
-        PictureBox8 = New PictureBox()
         Label12 = New Label()
         Label13 = New Label()
         Label14 = New Label()
@@ -55,6 +52,10 @@ Partial Class Form3
         Label19 = New Label()
         BT_GPL = New Button()
         Label20 = New Label()
+        PictureBox91 = New PictureBox()
+        PictureBox2 = New PictureBox()
+        PictureBox92 = New PictureBox()
+        PictureBox8 = New PictureBox()
         CType(PictureBox10, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox4, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
@@ -63,9 +64,10 @@ Partial Class Form3
         CType(PictureBox6, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox15, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox16, ComponentModel.ISupportInitialize).BeginInit()
-        CType(PictureBox25, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox7, ComponentModel.ISupportInitialize).BeginInit()
-        CType(PictureBox24, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox91, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox2, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox92, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox8, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
@@ -169,16 +171,16 @@ Partial Class Form3
         ' 
         BT_BACK.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_BACK.Cursor = Cursors.Hand
-        BT_BACK.FlatAppearance.BorderColor = Color.FromArgb(CByte(66), CByte(120), CByte(190))
-        BT_BACK.FlatAppearance.BorderSize = 0
+        BT_BACK.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        BT_BACK.FlatAppearance.BorderSize = 3
         BT_BACK.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(70), CByte(130), CByte(50))
         BT_BACK.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(50), CByte(95), CByte(30))
         BT_BACK.FlatStyle = FlatStyle.Flat
-        BT_BACK.Font = New Font("Bahnschrift SemiCondensed", 12F, FontStyle.Bold)
+        BT_BACK.Font = New Font("Bahnschrift SemiCondensed", 12.5F, FontStyle.Bold)
         BT_BACK.ForeColor = Color.White
-        BT_BACK.Location = New Point(-4, 515)
+        BT_BACK.Location = New Point(3, 515)
         BT_BACK.Name = "BT_BACK"
-        BT_BACK.Size = New Size(793, 34)
+        BT_BACK.Size = New Size(779, 34)
         BT_BACK.TabIndex = 112
         BT_BACK.Text = "<< RETURN >>"
         BT_BACK.UseVisualStyleBackColor = False
@@ -199,11 +201,11 @@ Partial Class Form3
         Label9.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         Label9.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
         Label9.ForeColor = Color.FromArgb(CByte(215), CByte(230), CByte(250))
-        Label9.Location = New Point(684, 19)
+        Label9.Location = New Point(687, 25)
         Label9.Name = "Label9"
-        Label9.Size = New Size(85, 17)
+        Label9.Size = New Size(84, 17)
         Label9.TabIndex = 119
-        Label9.Text = "v1.0 (build5)"
+        Label9.Text = "v1.0 (build6)"
         ' 
         ' PictureBox5
         ' 
@@ -236,21 +238,12 @@ Partial Class Form3
         ' 
         ' PictureBox16
         ' 
-        PictureBox16.BackColor = Color.FromArgb(CByte(35), CByte(60), CByte(100))
+        PictureBox16.BackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         PictureBox16.Location = New Point(-258, 514)
         PictureBox16.Name = "PictureBox16"
         PictureBox16.Size = New Size(1277, 38)
         PictureBox16.TabIndex = 130
         PictureBox16.TabStop = False
-        ' 
-        ' PictureBox25
-        ' 
-        PictureBox25.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        PictureBox25.Location = New Point(-6, -1)
-        PictureBox25.Name = "PictureBox25"
-        PictureBox25.Size = New Size(795, 3)
-        PictureBox25.TabIndex = 149
-        PictureBox25.TabStop = False
         ' 
         ' PictureBox7
         ' 
@@ -260,24 +253,6 @@ Partial Class Form3
         PictureBox7.Size = New Size(795, 3)
         PictureBox7.TabIndex = 150
         PictureBox7.TabStop = False
-        ' 
-        ' PictureBox24
-        ' 
-        PictureBox24.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        PictureBox24.Location = New Point(782, -1)
-        PictureBox24.Name = "PictureBox24"
-        PictureBox24.Size = New Size(3, 563)
-        PictureBox24.TabIndex = 151
-        PictureBox24.TabStop = False
-        ' 
-        ' PictureBox8
-        ' 
-        PictureBox8.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        PictureBox8.Location = New Point(-1, -1)
-        PictureBox8.Name = "PictureBox8"
-        PictureBox8.Size = New Size(3, 563)
-        PictureBox8.TabIndex = 152
-        PictureBox8.TabStop = False
         ' 
         ' Label12
         ' 
@@ -370,10 +345,10 @@ Partial Class Form3
         ' Label19
         ' 
         Label19.AutoSize = True
-        Label19.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
+        Label19.BackColor = Color.WhiteSmoke
         Label19.Font = New Font("Bahnschrift", 6.5F)
-        Label19.ForeColor = Color.FromArgb(CByte(215), CByte(230), CByte(250))
-        Label19.Location = New Point(642, 34)
+        Label19.ForeColor = Color.Silver
+        Label19.Location = New Point(329, 492)
         Label19.Name = "Label19"
         Label19.Size = New Size(125, 11)
         Label19.TabIndex = 168
@@ -404,12 +379,52 @@ Partial Class Form3
         Label20.TabIndex = 170
         Label20.Text = "→"
         ' 
+        ' PictureBox91
+        ' 
+        PictureBox91.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox91.Location = New Point(-3, -129)
+        PictureBox91.Name = "PictureBox91"
+        PictureBox91.Size = New Size(5, 821)
+        PictureBox91.TabIndex = 909
+        PictureBox91.TabStop = False
+        ' 
+        ' PictureBox2
+        ' 
+        PictureBox2.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox2.Location = New Point(782, -129)
+        PictureBox2.Name = "PictureBox2"
+        PictureBox2.Size = New Size(5, 821)
+        PictureBox2.TabIndex = 910
+        PictureBox2.TabStop = False
+        ' 
+        ' PictureBox92
+        ' 
+        PictureBox92.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox92.Location = New Point(-258, -3)
+        PictureBox92.Name = "PictureBox92"
+        PictureBox92.Size = New Size(1296, 5)
+        PictureBox92.TabIndex = 911
+        PictureBox92.TabStop = False
+        ' 
+        ' PictureBox8
+        ' 
+        PictureBox8.BackColor = Color.FromArgb(CByte(68), CByte(72), CByte(74))
+        PictureBox8.Location = New Point(-319, 559)
+        PictureBox8.Name = "PictureBox8"
+        PictureBox8.Size = New Size(1296, 5)
+        PictureBox8.TabIndex = 912
+        PictureBox8.TabStop = False
+        ' 
         ' Form3
         ' 
         AutoScaleDimensions = New SizeF(96F, 96F)
         AutoScaleMode = AutoScaleMode.Dpi
         BackColor = Color.WhiteSmoke
         ClientSize = New Size(784, 561)
+        Controls.Add(PictureBox8)
+        Controls.Add(PictureBox92)
+        Controls.Add(PictureBox2)
+        Controls.Add(PictureBox91)
         Controls.Add(Label6)
         Controls.Add(Label15)
         Controls.Add(Label17)
@@ -422,10 +437,7 @@ Partial Class Form3
         Controls.Add(Label18)
         Controls.Add(Label16)
         Controls.Add(Label14)
-        Controls.Add(PictureBox8)
-        Controls.Add(PictureBox24)
         Controls.Add(PictureBox7)
-        Controls.Add(PictureBox25)
         Controls.Add(PictureBox6)
         Controls.Add(BT_BACK)
         Controls.Add(PictureBox1)
@@ -456,9 +468,10 @@ Partial Class Form3
         CType(PictureBox6, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox15, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox16, ComponentModel.ISupportInitialize).EndInit()
-        CType(PictureBox25, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox7, ComponentModel.ISupportInitialize).EndInit()
-        CType(PictureBox24, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox91, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox2, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox92, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox8, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
         PerformLayout()
@@ -480,10 +493,7 @@ Partial Class Form3
     Friend WithEvents PictureBox6 As PictureBox
     Friend WithEvents PictureBox15 As PictureBox
     Friend WithEvents PictureBox16 As PictureBox
-    Friend WithEvents PictureBox25 As PictureBox
     Friend WithEvents PictureBox7 As PictureBox
-    Friend WithEvents PictureBox24 As PictureBox
-    Friend WithEvents PictureBox8 As PictureBox
     Friend WithEvents Label12 As Label
     Friend WithEvents Label13 As Label
     Friend WithEvents Label14 As Label
@@ -495,4 +505,8 @@ Partial Class Form3
     Friend WithEvents Label19 As Label
     Friend WithEvents BT_GPL As Button
     Friend WithEvents Label20 As Label
+    Friend WithEvents PictureBox91 As PictureBox
+    Friend WithEvents PictureBox2 As PictureBox
+    Friend WithEvents PictureBox92 As PictureBox
+    Friend WithEvents PictureBox8 As PictureBox
 End Class

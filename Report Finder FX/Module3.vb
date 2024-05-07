@@ -7,6 +7,7 @@ Module Module3
     '--- CROSSOVER TABLES ---
     Public arr_HIT(100) As String
     Public arr_PASS(100) As String
+    Public arr_PASS_SORT(100) As String
     '--- DIMENSION WRITE ---
     Public dim_IN_FG As Integer
     Public dim_IN_SG As Integer
@@ -116,14 +117,13 @@ Module Module3
         '<<<
 
         '>>> write dimension
-        'ReDim arr_HIT(hitcount)
         dim_HIT = hitcount
         '<<<
 
     End Sub
     Private Sub SEARCH_PHASE2()
 
-        Dim x, y, z, h, p As Integer
+        Dim i, x, y, z, h, p As Integer
         Dim passcount As Integer
         Dim flagpass As Boolean
 
@@ -160,9 +160,12 @@ Module Module3
         Next
         '<<<
 
-        '>>> write dimension
-        'ReDim arr_PASS(passcount)
+        '>>> write dimension and sort PASS array
         dim_PASS = passcount
+        Array.Sort(arr_PASS)
+        For i = 1 To passcount
+            arr_PASS_SORT(i) = arr_PASS((100 - passcount) + i)
+        Next
         '<<<
     End Sub
     Private Sub FORMAT_SEARCH_UI()
@@ -190,34 +193,34 @@ Module Module3
                     If TypeOf ctrl2 Is System.Windows.Forms.Label Then
                         Dim rlabel As System.Windows.Forms.Label = ctrl2
                         Select Case Mid(rlabel.Name, 5, 3)
-                            Case "S01"
-                                For i = 1 To dim_RKEY
-                                    If arr_MAP_RES(i, 1) = arr_PASS(CInt(Mid(rlabel.Name, 2, 2))) Then
-                                        rlabel.Text = arr_MAP_RES(i, 1)
-                                    End If
-                                Next
                             Case "M01"
                                 For i = 1 To dim_RKEY
-                                    If arr_MAP_RES(i, 1) = arr_PASS(CInt(Mid(rlabel.Name, 2, 2))) Then
+                                    If arr_MAP_RES(i, 1) = arr_PASS_SORT(CInt(Mid(rlabel.Name, 2, 2))) Then
                                         rlabel.Text = arr_MAP_RES(i, 2).ToUpper
                                     End If
                                 Next
                             Case "M02"
                                 For i = 1 To dim_RKEY
-                                    If arr_MAP_RES(i, 1) = arr_PASS(CInt(Mid(rlabel.Name, 2, 2))) Then
+                                    If arr_MAP_RES(i, 1) = arr_PASS_SORT(CInt(Mid(rlabel.Name, 2, 2))) Then
                                         rlabel.Text = arr_MAP_RES(i, 3)
                                     End If
                                 Next
                             Case "M03"
                                 For i = 1 To dim_RKEY
-                                    If arr_MAP_RES(i, 1) = arr_PASS(CInt(Mid(rlabel.Name, 2, 2))) Then
+                                    If arr_MAP_RES(i, 1) = arr_PASS_SORT(CInt(Mid(rlabel.Name, 2, 2))) Then
                                         rlabel.Text = arr_MAP_RES(i, 4)
                                     End If
                                 Next
                             Case "M04"
                                 For i = 1 To dim_RKEY
-                                    If arr_MAP_RES(i, 1) = arr_PASS(CInt(Mid(rlabel.Name, 2, 2))) Then
+                                    If arr_MAP_RES(i, 1) = arr_PASS_SORT(CInt(Mid(rlabel.Name, 2, 2))) Then
                                         rlabel.Text = arr_MAP_RES(i, 5)
+                                    End If
+                                Next
+                            Case "M05"
+                                For i = 1 To dim_RKEY
+                                    If arr_MAP_RES(i, 1) = arr_PASS_SORT(CInt(Mid(rlabel.Name, 2, 2))) Then
+                                        rlabel.Text = "- " & arr_MAP_RES(i, 1)
                                     End If
                                 Next
                         End Select
