@@ -15,6 +15,7 @@ Module Module2
     Public dim_FG_cap As Integer
     Public dim_SG_cap As Integer
     Public unlocked As Boolean = False
+    Public critical_error As Boolean = False
 
     Public Sub CATALOG_LOAD()
 
@@ -135,17 +136,21 @@ Module Module2
 
 error1:
         MsgBox("once there was an excel file, but it is no more" & vbCrLf & "make sure you have it here: \Data\REPORT MATRIX.xlsx", vbOKOnly, "Oh no...")
+        critical_error = True
+        GoTo finish
 error2:
         MsgBox("I tried loading the tables, but tables had other plans", vbOKOnly, "Something strange happened")
+        critical_error = True
 finish:
     End Sub
 
     Public Sub FUNCTIONS_LOAD()
 
         Form1.LOAD_BAR2.Value = 0
-
+        If critical_error = True Then GoTo finish
         Dim i As Integer
 
+        On Error GoTo derror
         '--- FILL FG BUTTONS ---
 
         For Each ctrl As Control In Form1.Controls
@@ -244,7 +249,10 @@ finish:
         End With
 
         Form1.LOAD_PANEL.Visible = False
-
+        GoTo finish
+derror:
+        critical_error = True
+finish:
     End Sub
 
 End Module

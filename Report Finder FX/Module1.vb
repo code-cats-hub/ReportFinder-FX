@@ -327,7 +327,7 @@ finish:
         direct_link = "https://cognos.gcp.moneygram.com/ibmcognos/bi/"
 
         For i = 1 To dim_RKEY
-            If arr_MAP_RES(i, 2) = name_read Then direct_link = arr_MAP_RES(i, 6)
+            If arr_MAP_RES(i, 2).ToUpper = name_read Then direct_link = arr_MAP_RES(i, 6)
         Next
 
 rollback:

@@ -172,7 +172,7 @@ Partial Class Form3
         BT_BACK.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_BACK.Cursor = Cursors.Hand
         BT_BACK.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        BT_BACK.FlatAppearance.BorderSize = 3
+        BT_BACK.FlatAppearance.BorderSize = 0
         BT_BACK.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(70), CByte(130), CByte(50))
         BT_BACK.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(50), CByte(95), CByte(30))
         BT_BACK.FlatStyle = FlatStyle.Flat
@@ -205,7 +205,7 @@ Partial Class Form3
         Label9.Name = "Label9"
         Label9.Size = New Size(84, 17)
         Label9.TabIndex = 119
-        Label9.Text = "v1.0 (build6)"
+        Label9.Text = "v1.0 (build7)"
         ' 
         ' PictureBox5
         ' 

@@ -414,7 +414,7 @@ Partial Class Form4
         BT_BACK.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_BACK.Cursor = Cursors.Hand
         BT_BACK.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        BT_BACK.FlatAppearance.BorderSize = 3
+        BT_BACK.FlatAppearance.BorderSize = 0
         BT_BACK.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(70), CByte(130), CByte(50))
         BT_BACK.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(50), CByte(95), CByte(30))
         BT_BACK.FlatStyle = FlatStyle.Flat
@@ -432,7 +432,7 @@ Partial Class Form4
         BT_EXIT.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_EXIT.Cursor = Cursors.Hand
         BT_EXIT.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        BT_EXIT.FlatAppearance.BorderSize = 3
+        BT_EXIT.FlatAppearance.BorderSize = 0
         BT_EXIT.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(160), CByte(70), CByte(70))
         BT_EXIT.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(115), CByte(50), CByte(50))
         BT_EXIT.FlatStyle = FlatStyle.Flat
@@ -723,7 +723,7 @@ Partial Class Form4
         Label9.Name = "Label9"
         Label9.Size = New Size(84, 17)
         Label9.TabIndex = 167
-        Label9.Text = "v1.0 (build6)"
+        Label9.Text = "v1.0 (build7)"
         ' 
         ' Label5
         ' 

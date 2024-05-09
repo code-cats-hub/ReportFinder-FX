@@ -175,7 +175,7 @@ Partial Class Form1
         BT_SEARCH.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_SEARCH.Cursor = Cursors.Hand
         BT_SEARCH.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        BT_SEARCH.FlatAppearance.BorderSize = 3
+        BT_SEARCH.FlatAppearance.BorderSize = 0
         BT_SEARCH.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_SEARCH.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_SEARCH.FlatStyle = FlatStyle.Flat
@@ -956,7 +956,7 @@ Partial Class Form1
         BT_EXIT.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_EXIT.Cursor = Cursors.Hand
         BT_EXIT.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        BT_EXIT.FlatAppearance.BorderSize = 3
+        BT_EXIT.FlatAppearance.BorderSize = 0
         BT_EXIT.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(160), CByte(70), CByte(70))
         BT_EXIT.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(115), CByte(50), CByte(50))
         BT_EXIT.FlatStyle = FlatStyle.Flat
@@ -976,7 +976,7 @@ Partial Class Form1
         BT_INFO.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_INFO.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_INFO.FlatStyle = FlatStyle.Flat
-        BT_INFO.Font = New Font("Bahnschrift SemiCondensed", 11F, FontStyle.Bold)
+        BT_INFO.Font = New Font("Bahnschrift SemiCondensed", 10F, FontStyle.Bold)
         BT_INFO.ForeColor = Color.FromArgb(CByte(215), CByte(230), CByte(250))
         BT_INFO.Location = New Point(1149, 13)
         BT_INFO.Name = "BT_INFO"
@@ -993,7 +993,7 @@ Partial Class Form1
         BT_SET.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_SET.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_SET.FlatStyle = FlatStyle.Flat
-        BT_SET.Font = New Font("Bahnschrift SemiCondensed", 11F, FontStyle.Bold)
+        BT_SET.Font = New Font("Bahnschrift SemiCondensed", 10F, FontStyle.Bold)
         BT_SET.ForeColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_SET.Location = New Point(1203, 13)
         BT_SET.Name = "BT_SET"
@@ -1337,7 +1337,7 @@ Partial Class Form1
         ' PictureBox12
         ' 
         PictureBox12.BackColor = Color.DarkGray
-        PictureBox12.Location = New Point(231, 182)
+        PictureBox12.Location = New Point(231, 181)
         PictureBox12.Name = "PictureBox12"
         PictureBox12.Size = New Size(804, 154)
         PictureBox12.TabIndex = 138
@@ -1346,7 +1346,7 @@ Partial Class Form1
         ' PictureBox17
         ' 
         PictureBox17.BackColor = Color.DarkGray
-        PictureBox17.Location = New Point(269, 511)
+        PictureBox17.Location = New Point(269, 510)
         PictureBox17.Name = "PictureBox17"
         PictureBox17.Size = New Size(723, 92)
         PictureBox17.TabIndex = 139

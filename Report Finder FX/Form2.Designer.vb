@@ -898,7 +898,7 @@ Partial Class Form2
         BT_INFO.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_INFO.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_INFO.FlatStyle = FlatStyle.Flat
-        BT_INFO.Font = New Font("Bahnschrift SemiCondensed", 11F, FontStyle.Bold)
+        BT_INFO.Font = New Font("Bahnschrift SemiCondensed", 10F, FontStyle.Bold)
         BT_INFO.ForeColor = Color.FromArgb(CByte(215), CByte(230), CByte(250))
         BT_INFO.Location = New Point(1149, 13)
         BT_INFO.Name = "BT_INFO"
@@ -916,7 +916,7 @@ Partial Class Form2
         BT_SET.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_SET.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
         BT_SET.FlatStyle = FlatStyle.Flat
-        BT_SET.Font = New Font("Bahnschrift SemiCondensed", 11F, FontStyle.Bold)
+        BT_SET.Font = New Font("Bahnschrift SemiCondensed", 10F, FontStyle.Bold)
         BT_SET.ForeColor = Color.FromArgb(CByte(215), CByte(230), CByte(250))
         BT_SET.Location = New Point(1203, 13)
         BT_SET.Name = "BT_SET"
@@ -6895,7 +6895,7 @@ Partial Class Form2
         BT_EXIT.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_EXIT.Cursor = Cursors.Hand
         BT_EXIT.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        BT_EXIT.FlatAppearance.BorderSize = 3
+        BT_EXIT.FlatAppearance.BorderSize = 0
         BT_EXIT.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(160), CByte(70), CByte(70))
         BT_EXIT.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(115), CByte(50), CByte(50))
         BT_EXIT.FlatStyle = FlatStyle.Flat
@@ -6913,7 +6913,7 @@ Partial Class Form2
         BT_BACK.BackColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
         BT_BACK.Cursor = Cursors.Hand
         BT_BACK.FlatAppearance.BorderColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        BT_BACK.FlatAppearance.BorderSize = 3
+        BT_BACK.FlatAppearance.BorderSize = 0
         BT_BACK.FlatAppearance.MouseDownBackColor = Color.FromArgb(CByte(70), CByte(130), CByte(50))
         BT_BACK.FlatAppearance.MouseOverBackColor = Color.FromArgb(CByte(50), CByte(95), CByte(30))
         BT_BACK.FlatStyle = FlatStyle.Flat
