@@ -42,10 +42,8 @@ Partial Class Form3
         PictureBox16 = New PictureBox()
         PictureBox7 = New PictureBox()
         Label12 = New Label()
-        Label13 = New Label()
         Label14 = New Label()
         Label6 = New Label()
-        Label15 = New Label()
         Label16 = New Label()
         Label17 = New Label()
         Label18 = New Label()
@@ -203,15 +201,15 @@ Partial Class Form3
         Label9.ForeColor = Color.FromArgb(CByte(215), CByte(230), CByte(250))
         Label9.Location = New Point(687, 25)
         Label9.Name = "Label9"
-        Label9.Size = New Size(84, 17)
+        Label9.Size = New Size(85, 17)
         Label9.TabIndex = 119
-        Label9.Text = "v1.0 (build7)"
+        Label9.Text = "v1.0 (build8)"
         ' 
         ' PictureBox5
         ' 
         PictureBox5.BackgroundImage = My.Resources.Resources.banner_new3_ibm
         PictureBox5.BackgroundImageLayout = ImageLayout.Center
-        PictureBox5.Location = New Point(98, 164)
+        PictureBox5.Location = New Point(98, 156)
         PictureBox5.Name = "PictureBox5"
         PictureBox5.Size = New Size(596, 124)
         PictureBox5.TabIndex = 121
@@ -221,7 +219,7 @@ Partial Class Form3
         ' 
         PictureBox6.BackgroundImage = My.Resources.Resources.banner_new3_cc
         PictureBox6.BackgroundImageLayout = ImageLayout.Center
-        PictureBox6.Location = New Point(98, 287)
+        PictureBox6.Location = New Point(98, 279)
         PictureBox6.Name = "PictureBox6"
         PictureBox6.Size = New Size(596, 124)
         PictureBox6.TabIndex = 122
@@ -259,31 +257,20 @@ Partial Class Form3
         Label12.AutoSize = True
         Label12.Font = New Font("Bahnschrift SemiCondensed", 9F, FontStyle.Bold)
         Label12.ForeColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
-        Label12.Location = New Point(232, 207)
+        Label12.Location = New Point(232, 211)
         Label12.Name = "Label12"
         Label12.Size = New Size(368, 14)
         Label12.TabIndex = 160
         Label12.Text = "TOOL CAN BE LOADED WITH ANY DATA AND SERVICE ANY REPORT CATALOG"
         ' 
-        ' Label13
-        ' 
-        Label13.AutoSize = True
-        Label13.Font = New Font("Bahnschrift SemiCondensed", 8F)
-        Label13.ForeColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        Label13.Location = New Point(232, 219)
-        Label13.Name = "Label13"
-        Label13.Size = New Size(315, 13)
-        Label13.TabIndex = 159
-        Label13.Text = "A MAPPING FILE ""REPORT MATRIX"" IS REQUIRED TO RUN THE PROGRAM"
-        ' 
         ' Label14
         ' 
         Label14.AutoSize = True
-        Label14.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        Label14.Font = New Font("Bahnschrift SemiCondensed", 12F, FontStyle.Bold)
         Label14.ForeColor = Color.FromArgb(CByte(61), CByte(126), CByte(180))
-        Label14.Location = New Point(229, 187)
+        Label14.Location = New Point(231, 195)
         Label14.Name = "Label14"
-        Label14.Size = New Size(393, 17)
+        Label14.Size = New Size(378, 19)
         Label14.TabIndex = 158
         Label14.Text = "APPLICATION IS CUSTOMIZED FOR IBM COGNOS ANALYTICS"
         ' 
@@ -292,31 +279,20 @@ Partial Class Form3
         Label6.AutoSize = True
         Label6.Font = New Font("Bahnschrift SemiCondensed", 9F, FontStyle.Bold)
         Label6.ForeColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
-        Label6.Location = New Point(231, 329)
+        Label6.Location = New Point(231, 333)
         Label6.Name = "Label6"
         Label6.Size = New Size(316, 14)
         Label6.TabIndex = 163
         Label6.Text = "THIS APPLICATION IS DISTRIBUTED UNDER GNU GPL v3.0 LICENSE"
         ' 
-        ' Label15
-        ' 
-        Label15.AutoSize = True
-        Label15.Font = New Font("Bahnschrift SemiCondensed", 8F)
-        Label15.ForeColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        Label15.Location = New Point(231, 341)
-        Label15.Name = "Label15"
-        Label15.Size = New Size(323, 13)
-        Label15.TabIndex = 162
-        Label15.Text = "LICENSE HOLDER: ORCID: 0009-0006-7849-1462 under CODE-CATS LABEL"
-        ' 
         ' Label16
         ' 
         Label16.AutoSize = True
-        Label16.Font = New Font("Bahnschrift", 10F, FontStyle.Bold)
+        Label16.Font = New Font("Bahnschrift SemiCondensed", 12F, FontStyle.Bold)
         Label16.ForeColor = Color.Gray
-        Label16.Location = New Point(228, 309)
+        Label16.Location = New Point(229, 317)
         Label16.Name = "Label16"
-        Label16.Size = New Size(336, 17)
+        Label16.Size = New Size(325, 19)
         Label16.TabIndex = 161
         Label16.Text = "PROJECT DESIGN AND PUBLISHING BY CODE-CATS"
         ' 
@@ -325,18 +301,18 @@ Partial Class Form3
         Label17.AutoSize = True
         Label17.Font = New Font("Bahnschrift SemiCondensed", 8F)
         Label17.ForeColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        Label17.Location = New Point(231, 352)
+        Label17.Location = New Point(231, 344)
         Label17.Name = "Label17"
-        Label17.Size = New Size(308, 13)
+        Label17.Size = New Size(277, 13)
         Label17.TabIndex = 165
-        Label17.Text = "OTHER BRAND AND PRODUCT LOGOS ARE USED FOR REFERENCE ONLY"
+        Label17.Text = "BRAND AND PRODUCT LOGOS ARE USED FOR REFERENCE ONLY"
         ' 
         ' Label18
         ' 
         Label18.AutoSize = True
         Label18.Font = New Font("Bahnschrift SemiCondensed", 8F)
         Label18.ForeColor = Color.FromArgb(CByte(45), CByte(80), CByte(130))
-        Label18.Location = New Point(232, 230)
+        Label18.Location = New Point(232, 222)
         Label18.Name = "Label18"
         Label18.Size = New Size(296, 13)
         Label18.TabIndex = 166
@@ -360,7 +336,7 @@ Partial Class Form3
         BT_GPL.Cursor = Cursors.Hand
         BT_GPL.FlatAppearance.BorderSize = 0
         BT_GPL.FlatStyle = FlatStyle.Flat
-        BT_GPL.Location = New Point(555, 331)
+        BT_GPL.Location = New Point(555, 323)
         BT_GPL.Margin = New Padding(0)
         BT_GPL.Name = "BT_GPL"
         BT_GPL.Size = New Size(84, 34)
@@ -373,7 +349,7 @@ Partial Class Form3
         Label20.AutoSize = True
         Label20.Font = New Font("Bahnschrift SemiCondensed", 12F, FontStyle.Bold)
         Label20.ForeColor = Color.FromArgb(CByte(45), CByte(70), CByte(110))
-        Label20.Location = New Point(542, 329)
+        Label20.Location = New Point(542, 333)
         Label20.Name = "Label20"
         Label20.Size = New Size(22, 19)
         Label20.TabIndex = 170
@@ -426,14 +402,12 @@ Partial Class Form3
         Controls.Add(PictureBox2)
         Controls.Add(PictureBox91)
         Controls.Add(Label6)
-        Controls.Add(Label15)
         Controls.Add(Label17)
         Controls.Add(Label20)
         Controls.Add(BT_GPL)
         Controls.Add(Label9)
         Controls.Add(Label19)
         Controls.Add(Label12)
-        Controls.Add(Label13)
         Controls.Add(Label18)
         Controls.Add(Label16)
         Controls.Add(Label14)
@@ -495,10 +469,8 @@ Partial Class Form3
     Friend WithEvents PictureBox16 As PictureBox
     Friend WithEvents PictureBox7 As PictureBox
     Friend WithEvents Label12 As Label
-    Friend WithEvents Label13 As Label
     Friend WithEvents Label14 As Label
     Friend WithEvents Label6 As Label
-    Friend WithEvents Label15 As Label
     Friend WithEvents Label16 As Label
     Friend WithEvents Label17 As Label
     Friend WithEvents Label18 As Label

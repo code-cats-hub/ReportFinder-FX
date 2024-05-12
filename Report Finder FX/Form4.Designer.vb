@@ -721,9 +721,9 @@ Partial Class Form4
         Label9.ForeColor = Color.FromArgb(CByte(215), CByte(230), CByte(250))
         Label9.Location = New Point(1478, 24)
         Label9.Name = "Label9"
-        Label9.Size = New Size(84, 17)
+        Label9.Size = New Size(85, 17)
         Label9.TabIndex = 167
-        Label9.Text = "v1.0 (build7)"
+        Label9.Text = "v1.0 (build8)"
         ' 
         ' Label5
         ' 

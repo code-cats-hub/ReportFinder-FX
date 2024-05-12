@@ -27,7 +27,7 @@ Module Module2
         Dim CALL_EXCEL As New Excel.Application
 
         On Error GoTo error1
-        CALL_EXCEL.Workbooks.Open(path_user & "Data\REPORT MATRIX.xlsx")
+        CALL_EXCEL.Workbooks.Open(path_user & "Data\REPORTMATRIX.xlsx")
         filled = 0
 
         Dim CALL_WS1 As Excel.Worksheet = CALL_EXCEL.Sheets(1)
