@@ -119,6 +119,9 @@ finish:
         Form4.Hide()
 
         Form1.Close()
+        GC.Collect()
+        GC.WaitForPendingFinalizers()
+        Application.Exit()
 
     End Sub
     Public Sub INFO_PANEL_ON()
@@ -137,6 +140,7 @@ finish:
     Public Sub SET_PANEL_ON()
 
         Form4.Show()
+        Form4.Focus()
 
     End Sub
     Public Sub SET_PANEL_OFF()
