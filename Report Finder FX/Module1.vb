@@ -359,6 +359,6 @@ finish:
     End Sub
     Public Sub OPEN_GPLN()
         On Error Resume Next
-        Process.Start("C:\Windows\notepad.exe", path_user & "Data\LICENSE NOTICE.txt")
+        Process.Start("C:\Windows\notepad.exe", path_user & "Data\README.txt")
     End Sub
 End Module

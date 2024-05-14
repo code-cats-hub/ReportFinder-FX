@@ -209,7 +209,7 @@ Module Module4
     Public Sub SOURCE_LOAD()
         Dim CALL_EXCEL As New Excel.Application
 
-        CALL_EXCEL.Workbooks.Open(path_user & "Data\REPORT MATRIX.xlsx")
+        CALL_EXCEL.Workbooks.Open(path_user & "Data\REPORTMATRIX.xlsx")
         CALL_EXCEL.Visible = True
 
     End Sub
